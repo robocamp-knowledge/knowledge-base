@@ -1,10 +1,10 @@
-name: Sync & clean ONE blog article (manual, no map)
+name: Sync & clean ONE blog article (manual)
 
 on:
   workflow_dispatch:
     inputs:
       article_id:
-        description: "Article slug (e.g. lego-science-review)"
+        description: "Article ID / slug (e.g. lego-science-review)"
         required: true
       lang:
         description: "Language (pl or en)"
@@ -13,19 +13,24 @@ on:
         description: "Path in robocamp-new-web repo (e.g. data/blogposts/pl/.../content.md)"
         required: true
 
+permissions:
+  contents: write   # 🔴 KONIECZNE do commit + push
+
 jobs:
   sync_clean_one:
     runs-on: ubuntu-latest
 
     steps:
+      # --- MAIN REPO ---
       - name: Checkout knowledge-base
         uses: actions/checkout@v4
 
-      - name: Checkout robocamp-new-web (read-only source)
+      # --- SOURCE REPO (READ-ONLY) ---
+      - name: Checkout robocamp-new-web (read-only)
         uses: actions/checkout@v4
         with:
           repository: robodevelopers/robocamp-new-web
-          token: ${{ secrets.ROBOCAMP_NEW_WEB_PAT }}
+          token: ${{ secrets.ROBOCAMP_NEW_WEB_TOKEN }}
           path: _sources/robocamp-new-web
 
       - name: Setup Python
@@ -33,7 +38,8 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Debug inputs & filesystem
+      # --- DEBUG INPUTS ---
+      - name: Debug inputs & source
         run: |
           set -e
           echo "article_id=${{ inputs.article_id }}"
@@ -43,11 +49,12 @@ jobs:
           echo "PWD:"
           pwd
           echo ""
-          echo "Checking source file:"
           SRC="_sources/robocamp-new-web/${{ inputs.src_repo_path }}"
+          echo "Checking source file:"
           echo "$SRC"
           test -f "$SRC" && echo "Source exists ✅" || (echo "Source missing ❌" && exit 1)
 
+      # --- CLEANER ---
       - name: Run cleaner
         run: |
           python tools/cleaner/clean_one.py \
@@ -56,9 +63,15 @@ jobs:
             --src "_sources/robocamp-new-web/${{ inputs.src_repo_path }}" \
             --target "blog/articles/${{ inputs.article_id }}/${{ inputs.lang }}/full.md"
 
-      - name: Commit changes
+      # --- GIT CONFIG (CRITICAL) ---
+      - name: Configure git identity
         run: |
-          git status
+          git config user.name "robocamp-bot"
+          git config user.email "bot@robocamp.eu"
+
+      # --- COMMIT & PUSH ---
+      - name: Commit and push changes
+        run: |
           git add blog/articles/${{ inputs.article_id }}/${{ inputs.lang }}/full.md
           git commit -m "Update full.md for ${{ inputs.article_id }} (${{ inputs.lang }})" || echo "Nothing to commit"
           git push
