@@ -4,28 +4,14 @@ on:
   workflow_dispatch:
     inputs:
       article_id:
-        description: "Target article_id in knowledge-base (e.g. lego-science-review)"
+        description: "Article slug (e.g. lego-science-review)"
         required: true
-        type: string
       lang:
-        description: "Language to sync (pl or en)"
+        description: "Language (pl or en)"
         required: true
-        type: choice
-        options:
-          - pl
-          - en
       src_repo_path:
-        description: "Path in robocamp-new-web to content.md (e.g. data/blogposts/en/lego-science-review/content.md)"
+        description: "Path in robocamp-new-web repo (e.g. data/blogposts/pl/.../content.md)"
         required: true
-        type: string
-      debug:
-        description: "Enable verbose debug logs (true/false)"
-        required: false
-        default: "true"
-        type: choice
-        options:
-          - "true"
-          - "false"
 
 jobs:
   sync_clean_one:
@@ -35,10 +21,7 @@ jobs:
       - name: Checkout knowledge-base
         uses: actions/checkout@v4
 
-      # NOTE:
-      # - Do NOT set ref here unless you're 100% sure it's correct (main/master).
-      # - Let checkout use the repo's default branch to avoid mismatch issues.
-      - name: Checkout robocamp-new-web (read-only)
+      - name: Checkout robocamp-new-web (read-only source)
         uses: actions/checkout@v4
         with:
           repository: robodevelopers/robocamp-new-web
@@ -50,69 +33,32 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Debug - list workspace (optional)
-        if: ${{ inputs.debug == 'true' }}
-        run: |
-          set -e
-          echo "=== PWD ==="
-          pwd
-          echo "=== Repo root listing ==="
-          ls -la
-          echo "=== List _sources ==="
-          ls -la _sources || true
-          echo "=== List robocamp-new-web root ==="
-          ls -la _sources/robocamp-new-web || true
-          echo "=== Find content.md under data/blogposts ==="
-          find _sources/robocamp-new-web/data/blogposts -maxdepth 6 -name content.md -print || true
-
-      - name: Debug - show inputs & check expected paths (optional)
-        if: ${{ inputs.debug == 'true' }}
+      - name: Debug inputs & filesystem
         run: |
           set -e
           echo "article_id=${{ inputs.article_id }}"
           echo "lang=${{ inputs.lang }}"
           echo "src_repo_path=${{ inputs.src_repo_path }}"
           echo ""
-          echo "Expected source:"
-          echo "_sources/robocamp-new-web/${{ inputs.src_repo_path }}"
-          echo "Expected target:"
-          echo "blog/articles/${{ inputs.article_id }}/${{ inputs.lang }}/full.md"
+          echo "PWD:"
+          pwd
           echo ""
+          echo "Checking source file:"
+          SRC="_sources/robocamp-new-web/${{ inputs.src_repo_path }}"
+          echo "$SRC"
+          test -f "$SRC" && echo "Source exists ✅" || (echo "Source missing ❌" && exit 1)
 
-          if test -f "blog/articles/${{ inputs.article_id }}/${{ inputs.lang }}/full.md"; then
-            echo "Target exists ✅"
-          else
-            echo "Target missing ❌"
-            exit 1
-          fi
-
-          if test -f "_sources/robocamp-new-web/${{ inputs.src_repo_path }}"; then
-            echo "Source exists ✅"
-          else
-            echo "Source missing ❌"
-            exit 1
-          fi
-
-      - name: Run cleaner (one article, one lang)
+      - name: Run cleaner
         run: |
-          set -e
-          python tools/cleaner/sync_clean_one.py \
+          python tools/cleaner/clean_one.py \
             --article-id "${{ inputs.article_id }}" \
             --lang "${{ inputs.lang }}" \
-            --src-repo-path "${{ inputs.src_repo_path }}"
+            --src "_sources/robocamp-new-web/${{ inputs.src_repo_path }}" \
+            --target "blog/articles/${{ inputs.article_id }}/${{ inputs.lang }}/full.md"
 
-      - name: Commit changes if any
+      - name: Commit changes
         run: |
-          set -e
-          git config user.name "robocamp-bot"
-          git config user.email "robocamp-bot@users.noreply.github.com"
-
-          git add blog/articles/**/full.md
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
-
-          git commit -m "sync(${{ inputs.lang }}): update full.md for ${{ inputs.article_id }}"
+          git status
+          git add blog/articles/${{ inputs.article_id }}/${{ inputs.lang }}/full.md
+          git commit -m "Update full.md for ${{ inputs.article_id }} (${{ inputs.lang }})" || echo "Nothing to commit"
           git push
