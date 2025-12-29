@@ -30,7 +30,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: robodevelopers/robocamp-new-web
-          token: ${{ secrets.ROBOCAMP_NEW_WEB_TOKEN }}
+          token: ${{ secrets.ROBOCAMP_NEW_WEB_PAT }}
           path: _sources/robocamp-new-web
 
       - name: Setup Python
