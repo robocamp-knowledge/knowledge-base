@@ -1,0 +1,59 @@
+name: Sync & clean ONE blog article (manual, no map)
+
+on:
+  workflow_dispatch:
+    inputs:
+      article_id:
+        description: "Target article_id in knowledge-base (e.g. lego-science-review)"
+        required: true
+        type: string
+      lang:
+        description: "Language to sync (pl or en)"
+        required: true
+        type: choice
+        options:
+          - pl
+          - en
+      src_repo_path:
+        description: "Path in robocamp-new-web to content.md (e.g. data/blogposts/en/lego-science-review/content.md)"
+        required: true
+        type: string
+
+jobs:
+  sync_clean_one:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout knowledge-base
+        uses: actions/checkout@v4
+
+      - name: Checkout robocamp-new-web (read-only)
+        uses: actions/checkout@v4
+        with:
+          repository: robodevelopers/robocamp-new-web
+          ref: master
+          token: ${{ secrets.ROBOCAMP_NEW_WEB_PAT }}
+          path: _sources/robocamp-new-web
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run cleaner (one article, one lang)
+        run: |
+          python tools/cleaner/sync_clean_one.py \
+            --article-id "${{ inputs.article_id }}" \
+            --lang "${{ inputs.lang }}" \
+            --src-repo-path "${{ inputs.src_repo_path }}"
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "robocamp-bot"
+          git config user.email "robocamp-bot@users.noreply.github.com"
+          git add blog/articles/**/full.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "sync(${{ inputs.lang }}): update full.md for ${{ inputs.article_id }}"
+            git push
+          fi
