@@ -44,6 +44,7 @@ HTML_HEADING_RE = re.compile(r"<\s*(h[1-6])\b[^>]*>(.*?)<\s*/\s*\1\s*>", re.IGNO
 # - standalone: `{: ...}`
 KRAMDOWN_ATTR_AFTER_PAREN_RE = re.compile(r"\)\s*\{\:\s*[^}]*\}")
 KRAMDOWN_ATTR_STANDALONE_RE = re.compile(r"^\s*\{\:\s*[^}]*\}\s*$")
+TARGET_ATTR_AFTER_PAREN_RE = re.compile(r"\)\s*\{[^}]*\btarget\s*=\s*\"_blank\"[^}]*\}")
 
 TOC_LINE_RE = re.compile(r"^\s*\[(toc|TOC)\]\s*$")
 
@@ -100,9 +101,15 @@ def _remove_kramdown_attrs(lines: List[str], stats: Stats) -> List[str]:
             continue
         # remove `){: ...}` pattern
         ln2 = re.sub(KRAMDOWN_ATTR_AFTER_PAREN_RE, ")", ln)
-        if ln2 != before:
+
+        # remove `){target="_blank" ...}` (kramdown-like attrs without ":")
+        ln2b = re.sub(TARGET_ATTR_AFTER_PAREN_RE, ")", ln2)
+
+        if ln2b != before:
             stats.removed_kramdown_attrs += 1
-        out.append(ln2)
+
+        out.append(ln2b)
+
     return out
 
 
