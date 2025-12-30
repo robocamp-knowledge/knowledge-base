@@ -41,6 +41,30 @@ System składa się z dwóch elementów:
 
 ---
 
+## Struktura katalogów (aktualna)
+
+knowledge-base/
+│
+├─ .github/
+│ └─ workflows/
+│ └─ sync-clean-one.yml # GitHub Action (manual trigger)
+│
+├─ blog/
+│ └─ articles/
+│ └─ lego-science-review/
+│ ├─ en/
+│ │ └─ full.md
+│ └─ pl/
+│ └─ full.md
+│
+├─ tools/
+│ └─ cleaner/
+│ ├─ clean_one.py # GŁÓWNY SKRYPT CLEANERA
+│ └─ README.md # (to README)
+│
+├─ LICENSE
+└─ README.md # 
+
 ## Lokalizacja plików w repozytorium
 
 ### Workflow (GitHub Actions)
