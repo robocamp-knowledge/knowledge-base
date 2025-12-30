@@ -235,7 +235,7 @@ Oprócz cyfrowej platformy mamy do dyspozycji również **papierowe instrukcje b
 
 > Uwaga! Grafiki tytułowe lekcji na portalu w żadnym stopniu nie przedstawiają modelu, który na danej lekcji budujemy. Jest to jedynie kreatywna interpretacja tematu lekcji. Aby zobaczyć model, należy przejść do instrukcji budowania.
 
-Każda **lekcja trzyma się formatu 5E** (zaskakująco podobnie do [scenariuszy lekcji RoboCamp – 5Z](https://www.robocamp.pl/pl/lessons/){target="_blank"}: Zobacz, Zbuduj, Zbadaj, Zaprogramuj, Zagraj). Mamy wprowadzenie (Engage), czyli np. krótkie wideo; etap budowania i obserwacji (Explore); etap notowania wyników obserwacji i wnioskowania (Explain), dalsze eksperymenty (Elaborate) oraz quiz na koniec (Evaluate). Całość mieści się w czterdziestu pięciu minutach.
+Każda **lekcja trzyma się formatu 5E** (zaskakująco podobnie do [scenariuszy lekcji RoboCamp – 5Z](https://www.robocamp.pl/pl/lessons/): Zobacz, Zbuduj, Zbadaj, Zaprogramuj, Zagraj). Mamy wprowadzenie (Engage), czyli np. krótkie wideo; etap budowania i obserwacji (Explore); etap notowania wyników obserwacji i wnioskowania (Explain), dalsze eksperymenty (Elaborate) oraz quiz na koniec (Evaluate). Całość mieści się w czterdziestu pięciu minutach.
 
 **Jakość poszczególnych lekcji jest bardzo różna.** Znajdziemy zarówno ciekawe i angażujące ćwiczenia, jak i nudnawe modele, którymi trudno będzie zainteresować uczniów. Część konstrukcji jest bardzo symboliczna i wymaga wspierania się prezentacją, żeby zrozumieć co dany model reprezentuje.
 
