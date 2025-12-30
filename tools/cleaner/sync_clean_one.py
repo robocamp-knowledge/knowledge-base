@@ -1,93 +1,139 @@
-#!/usr/bin/env python3
-import argparse
-import re
-from pathlib import Path
-from typing import Tuple
+name: Sync & clean ONE blog article (manual)
 
-FM_RE = re.compile(r"(?s)\A---\n.*?\n---\n")
+on:
+  workflow_dispatch:
+    inputs:
+      source_repo:
+        description: 'Source repo "owner/name" (read-only), e.g. robodevelopers/robocamp-new-web'
+        required: true
+        default: 'robodevelopers/robocamp-new-web'
+        type: string
+      source_ref:
+        description: 'Source branch/ref, e.g. master'
+        required: true
+        default: 'master'
+        type: string
+      source_path:
+        description: 'Path to source markdown in source repo, e.g. data/blogposts/pl/lego-science-recenzja/content.md'
+        required: true
+        type: string
 
-def split_frontmatter(md: str) -> Tuple[str, str]:
-    m = FM_RE.match(md)
-    if not m:
-        return "", md
-    fm = m.group(0)
-    body = md[len(fm):]
-    return fm, body
+      target_path:
+        description: 'Path to output file in THIS repo, e.g. blog/articles/lego-science-review/pl/full.md'
+        required: true
+        type: string
 
-def clean_raw_markdown(md: str) -> str:
-    # Remove [TOC]
-    md = re.sub(r"(?im)^\[TOC\]\s*$", "", md)
+      language:
+        description: 'pl or en'
+        required: true
+        type: choice
+        options:
+          - pl
+          - en
 
-    # Remove markdown images with optional kramdown attrs: ![alt](url){: ...}
-    md = re.sub(r"!\[[^\]]*\]\([^\)]*\)\s*\{:[^}]*\}\s*", "", md)
-    # Remove plain markdown images: ![alt](url)
-    md = re.sub(r"!\[[^\]]*\]\([^\)]*\)", "", md)
+      article_id:
+        description: 'Stable article id used in knowledge-base (you can keep it same as EN slug), e.g. lego-science-review'
+        required: true
+        type: string
 
-    # Remove standalone kramdown attribute lines: {: ...}
-    md = re.sub(r"(?im)^\{:[^}]*\}\s*$", "", md)
+      web_slug:
+        description: 'Web slug for this language, e.g. lego-science-recenzja'
+        required: true
+        type: string
 
-    # Remove kramdown attrs appended to links: [text](url){:...}
-    md = re.sub(r"(\[[^\]]+\]\([^)]+\))\s*\{:[^}]*\}", r"\1", md)
+      title:
+        description: 'Article title (for frontmatter)'
+        required: true
+        type: string
 
-    # Normalize simple HTML headings <h3>Title</h3> -> ### Title
-    md = re.sub(r"(?is)<h3>\s*(.*?)\s*</h3>", r"### \1", md)
+      authors:
+        description: 'Comma-separated authors, e.g. Dominika Skrzypek, Ola Syrocka'
+        required: true
+        type: string
 
-    # Replace <br> / <br/> with newline
-    md = re.sub(r"(?i)<br\s*/?>", "\n", md)
+      canonical_url:
+        description: 'Full canonical URL (used also to expand #anchors), e.g. https://www.robocamp.pl/pl/blog/lego-science-recenzja/'
+        required: true
+        type: string
 
-    # Normalize excessive blank lines
-    md = re.sub(r"\n{3,}", "\n\n", md).strip() + "\n"
-    return md
+      published:
+        description: 'Published date YYYY-MM-DD'
+        required: true
+        type: string
 
-def update_full_md(full_path: Path, cleaned_body: str) -> None:
-    if not full_path.exists():
-        raise FileNotFoundError(
-            f"Target full.md not found: {full_path}\n"
-            f"Create it first (even with only frontmatter), then rerun the workflow."
-        )
+      license:
+        description: 'Optional. Default CC BY-NC 4.0'
+        required: false
+        default: 'CC BY-NC 4.0'
+        type: string
 
-    existing = full_path.read_text(encoding="utf-8")
-    fm, _old_body = split_frontmatter(existing)
+      status:
+        description: 'Optional. Default published'
+        required: false
+        default: 'published'
+        type: string
 
-    # Ensure exactly one blank line after frontmatter
-    if fm and not fm.endswith("\n\n"):
-        fm = fm.rstrip("\n") + "\n\n"
+      debug:
+        description: 'Print debug stats'
+        required: false
+        default: 'true'
+        type: boolean
 
-    full_path.write_text(fm + cleaned_body, encoding="utf-8")
+jobs:
+  sync_clean_one:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
-def main() -> None:
-    p = argparse.ArgumentParser(description="Sync & clean one article (one language) from robocamp-new-web to knowledge-base.")
-    p.add_argument("--article-id", required=True, help="e.g. lego-science-review")
-    p.add_argument("--lang", required=True, choices=["pl", "en"])
-    p.add_argument("--src-repo-path", required=True,
-                   help="Path inside robocamp-new-web, e.g. data/blogposts/en/lego-science-review/content.md")
-    args = p.parse_args()
+    steps:
+      - name: Checkout knowledge-base
+        uses: actions/checkout@v4
 
-    # Source repo checkout path (as per workflow)
-    src_root = Path("_sources/robocamp-new-web")
-    src = src_root / args.src_repo_path
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-    # Target path in knowledge-base
-    tgt = Path(f"blog/articles/{args.article_id}/{args.lang}/full.md")
+      - name: Checkout source repo (read-only)
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ inputs.source_repo }}
+          ref: ${{ inputs.source_ref }}
+          path: _source_repo
+          token: ${{ secrets.ROBOCAMP_NEW_WEB_PAT }}
 
-    if not src.exists():
-        raise FileNotFoundError(
-            f"Source file not found in robocamp-new-web checkout:\n"
-            f"  {src}\n\n"
-            f"Check:\n"
-            f"  - src_repo_path input\n"
-            f"  - that robocamp-new-web was checked out correctly\n"
-            f"  - the file exists on the default branch of robocamp-new-web\n"
-        )
+      - name: Run cleaner
+        run: |
+          set -euo pipefail
+          SRC="_source_repo/${{ inputs.source_path }}"
+          OUT="${{ inputs.target_path }}"
 
-    # Read & clean
-    raw = src.read_text(encoding="utf-8")
-    cleaned = clean_raw_markdown(raw)
+          python tools/cleaner/clean_one.py \
+            --src "$SRC" \
+            --out "$OUT" \
+            --article-id "${{ inputs.article_id }}" \
+            --web-slug "${{ inputs.web_slug }}" \
+            --language "${{ inputs.language }}" \
+            --title "${{ inputs.title }}" \
+            --authors "${{ inputs.authors }}" \
+            --canonical-url "${{ inputs.canonical_url }}" \
+            --published "${{ inputs.published }}" \
+            --license "${{ inputs.license }}" \
+            --status "${{ inputs.status }}" \
+            $([[ "${{ inputs.debug }}" == "true" ]] && echo "--debug" || true)
 
-    # Write into existing full.md preserving frontmatter
-    update_full_md(tgt, cleaned)
+      - name: Commit changes
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-    print(f"OK: Updated target:\n  {tgt}\nfrom source:\n  {src}")
+          git add "${{ inputs.target_path }}"
 
-if __name__ == "__main__":
-    main()
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Sync & clean: ${{ inputs.article_id }} (${{ inputs.language }})"
+          git push
