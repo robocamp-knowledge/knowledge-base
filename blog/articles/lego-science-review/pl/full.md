@@ -179,7 +179,7 @@ Korzystanie z klocków do przeprowadzenia prostych eksperymentów ma być **szyb
 
 Producent podkreśla również wielorazowy charakter zestawów. Mają nie wymagać uzupełniania, być zawsze gotowe do użycia. Jednak każdy kto pracował z klockami dydaktycznymi wie, że elementy łatwo się gubią i mieszają między zestawami – żaden zestaw klocków nie jest wolny od tego problemu. Co więcej, elektronikę trzeba regularnie ładować, a w przypadku LEGO Science [jest to dość uciążliwie](https://www.robocamp.pl/pl/blog/lego-science-recenzja/#multi-adowarka-45623).
 
-Przy projektowaniu zestawu producentowi przyświecał jeszcze jeden ważny argument – czas trwania lekcji. **Budowanie, uruchamianie i eksperymenty mają każdorazowo zająć maksymalnie 45 minut**, co jest rzeczywiście wyjątkowo cenne w warunkach szkolnych. Do tej pory przy wykorzystaniu dotychczasowych zestawów LEGO Education było to dosyć trudne do zrealizowania (choć nie niemożliwe: [zobacz 45-minutowe lekcje RoboCamp](/pl/lessons/spike-short-lessons/)).
+Przy projektowaniu zestawu producentowi przyświecał jeszcze jeden ważny argument – czas trwania lekcji. **Budowanie, uruchamianie i eksperymenty mają każdorazowo zająć maksymalnie 45 minut**, co jest rzeczywiście wyjątkowo cenne w warunkach szkolnych. Do tej pory przy wykorzystaniu dotychczasowych zestawów LEGO Education było to dosyć trudne do zrealizowania (choć nie niemożliwe: [zobacz 45-minutowe lekcje RoboCamp](https://www.robocamp.pl/pl/lessons/spike-short-lessons/)).
 
 **Niestety okazuje się, że to nie do końca prawda**. We własnym raporcie dot. wykorzystania LEGO Education Science w szkołach w USA przez 9 nauczycieli, producent pisze:
 
@@ -226,8 +226,8 @@ Pozostałe lekcje na portalu w wersji polskiej są podzielone według przedmiotu
 
 Skoro zespół RoboCamp przygotował lekcje na kilka lat nauki ze SPIKE, z programowaniem i scenariuszami kompatybilnymi z podstawą programową, LEGO Education też dałoby radę. Jeżeli szukasz lekcji kompatybilnych z polską podstawą programową na zestawy SPIKE zobacz:
 
-- [Kurs programowania SPIKE Prime dla średniozaawansowanych](/pl/course-spike-prime-intermediate/)
-- [Kurs programowania SPIKE Essential dla początkujących](/pl/course-spike-essential-early-learners/)
+- [Kurs programowania SPIKE Prime dla średniozaawansowanych](https://www.robocamp.pl/pl/course-spike-prime-intermediate/)
+- [Kurs programowania SPIKE Essential dla początkujących](https://www.robocamp.pl/pl/course-spike-essential-early-learners/)
 
 Materiały do lekcji od producenta dostępne są na specjalnie przygotowanej platformie dydaktycznej [Teacher Portal](https://teach.legoeducation.com/pl-pl/science/lessons). Zawierają kilkuslajdowe prezentacje prowadzące uczniów przez proces ćwiczenia oraz proste konspekty i wskazówki dla nauczyciela.
 
@@ -235,7 +235,7 @@ Oprócz cyfrowej platformy mamy do dyspozycji również **papierowe instrukcje b
 
 > Uwaga! Grafiki tytułowe lekcji na portalu w żadnym stopniu nie przedstawiają modelu, który na danej lekcji budujemy. Jest to jedynie kreatywna interpretacja tematu lekcji. Aby zobaczyć model, należy przejść do instrukcji budowania.
 
-Każda **lekcja trzyma się formatu 5E** (zaskakująco podobnie do [scenariuszy lekcji RoboCamp – 5Z](/pl/lessons/){target="_blank"}: Zobacz, Zbuduj, Zbadaj, Zaprogramuj, Zagraj). Mamy wprowadzenie (Engage), czyli np. krótkie wideo; etap budowania i obserwacji (Explore); etap notowania wyników obserwacji i wnioskowania (Explain), dalsze eksperymenty (Elaborate) oraz quiz na koniec (Evaluate). Całość mieści się w czterdziestu pięciu minutach.
+Każda **lekcja trzyma się formatu 5E** (zaskakująco podobnie do [scenariuszy lekcji RoboCamp – 5Z](https://www.robocamp.pl/pl/lessons/){target="_blank"}: Zobacz, Zbuduj, Zbadaj, Zaprogramuj, Zagraj). Mamy wprowadzenie (Engage), czyli np. krótkie wideo; etap budowania i obserwacji (Explore); etap notowania wyników obserwacji i wnioskowania (Explain), dalsze eksperymenty (Elaborate) oraz quiz na koniec (Evaluate). Całość mieści się w czterdziestu pięciu minutach.
 
 **Jakość poszczególnych lekcji jest bardzo różna.** Znajdziemy zarówno ciekawe i angażujące ćwiczenia, jak i nudnawe modele, którymi trudno będzie zainteresować uczniów. Część konstrukcji jest bardzo symboliczna i wymaga wspierania się prezentacją, żeby zrozumieć co dany model reprezentuje.
 
@@ -346,7 +346,7 @@ Jeżeli pracowałeś wcześniej ze SPIKE i oczekujesz, że LEGO Education Scienc
 
 ### Science kontra inne zestawy od LEGO Education
 
-Pod względem możliwości konstrukcyjnych, zestawy Science nie umywają się do niezłego (choć ubogiego mechanicznie) [SPIKE Essential](/pl/blog/lego-spike-essential-recenzja/) i fantastycznego [SPIKE Prime](/pl/blog/lego-spike-prime-recenzja/). Również BricQ Motion jest bogatszy konstrukcyjnie – mamy tam żagle, ciężarki, łopatki wiatraków, wiele rodzajów zębatek oraz belek, pinów i najróżniejszych łączników. **W Science klocków konstrukcyjnych jest mniej, nie są też uniwersalne.**
+Pod względem możliwości konstrukcyjnych, zestawy Science nie umywają się do niezłego (choć ubogiego mechanicznie) [SPIKE Essential](https://www.robocamp.pl/pl/blog/lego-spike-essential-recenzja/) i fantastycznego [SPIKE Prime](https://www.robocamp.pl/pl/blog/lego-spike-prime-recenzja/). Również BricQ Motion jest bogatszy konstrukcyjnie – mamy tam żagle, ciężarki, łopatki wiatraków, wiele rodzajów zębatek oraz belek, pinów i najróżniejszych łączników. **W Science klocków konstrukcyjnych jest mniej, nie są też uniwersalne.**
 
 **Elektronika Science jest skromna** i mniej przydatna dydaktycznie w porównaniu do SPIKE Prime i Essential – jednak ten argument ma mniejsze znaczenie gdy zupełnie nie zależy nam na nauce programowania.
 
