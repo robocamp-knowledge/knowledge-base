@@ -21,6 +21,7 @@ import re
 import sys
 from datetime import datetime
 from typing import List, Tuple, Optional
+from urllib.parse import urlsplit
 
 
 @dataclasses.dataclass
@@ -145,6 +146,60 @@ def _convert_local_anchor_links(lines: List[str], canonical_url: str, stats: Sta
     return out
 
 
+def _absolutize_root_relative_links(lines: List[str], canonical_url: str) -> List[str]:
+    """
+    Convert Markdown inline links [text](/path...) to [text](<site_base>/path...),
+    where site_base is derived from canonical_url (scheme + netloc).
+    Does NOT touch:
+      - anchors: (#...)
+      - absolute URLs with scheme: https:, http:, mailto:, tel:, etc.
+      - protocol-relative URLs: //...
+      - non-root-relative paths: ./..., ../..., foo/bar
+    """
+    site_base = "https://www.robocamp.pl"
+    if canonical_url:
+        parts = urlsplit(canonical_url.strip())
+        if parts.scheme and parts.netloc:
+            site_base = f"{parts.scheme}://{parts.netloc}"
+
+    # Inline markdown links: [label](url...)
+    # We only rewrite if the first URL token starts with "/".
+    pattern = re.compile(r"(\[[^\]]*\]\()([^)]+)(\))")
+
+    def repl(m: re.Match) -> str:
+        prefix, url_part, suffix = m.group(1), m.group(2), m.group(3)
+        raw = url_part.strip()
+
+        # split URL and optional title: (url "title")
+        # keep spacing minimal: we preserve everything after the first token.
+        if not raw:
+            return m.group(0)
+
+        first, *rest = raw.split(maxsplit=1)
+        tail = (" " + rest[0]) if rest else ""
+
+        u = first
+
+        # do not touch anchors, scheme URLs, or protocol-relative
+        if u.startswith("#"):
+            return prefix + url_part + suffix
+        if re.match(r"^[a-zA-Z][a-zA-Z0-9+.-]*:", u):
+            return prefix + url_part + suffix
+        if u.startswith("//"):
+            return prefix + url_part + suffix
+
+        if u.startswith("/"):
+            new_first = site_base.rstrip("/") + u
+            return prefix + (new_first + tail) + suffix
+
+        return prefix + url_part + suffix
+
+    out = []
+    for ln in lines:
+        out.append(re.sub(pattern, repl, ln))
+    return out
+
+
 def _shift_atx_headings(lines: List[str], stats: Stats) -> List[str]:
     """
     Shift headings by +1 level:
@@ -260,6 +315,9 @@ def clean_markdown(md_text: str, canonical_url: str, stats: Stats) -> str:
 
     # 6) Convert local anchor links to canonical_url#anchor
     lines = _convert_local_anchor_links(lines, canonical_url, stats)
+
+    # 6.5) Convert root-relative links to absolute site links
+    lines = _absolutize_root_relative_links(lines, canonical_url)
 
     # 7) Shift headings
     lines = _shift_atx_headings(lines, stats)
