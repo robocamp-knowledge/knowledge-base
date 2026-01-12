@@ -1,1 +1,2975 @@
+Kurs programowania SPIKE Prime dla średniozaawansowanych
+{
+  "version": "v9",
+  "type": "course",
+  "title": "Kurs programowania SPIKE Prime dla średniozaawansowanych",
+  "slug": "kurs-programowania-spike-prime-dla-sredniozaawansowanych",
+  "language": "pl-PL",
+  "canonical_url": "https://www.robocamp.pl/pl/course/kurs-programowania-spike-prime-dla-sredniozaawansowanych",
+  "summary": "Kurs zawiera 25 przemyślanych scenariuszy lekcji na cały rok szkolny, które uczą programowania, robotyki i logicznego myślenia z wykorzystaniem zestawu LEGO® Education SPIKE™ Prime.",
+  "description": "Kurs prowadzi uczniów od prostych skryptów do zaawansowanych zagadnień, takich jak zmienne i wielowątkowość. Z lekcji na lekcję uczniowie budują coraz bardziej skomplikowane roboty i uczą się programować w języku Bloki Słów. Każda lekcja łączy tematykę STEAM, budowanie robota oraz angażujące zadania programistyczne, rozwijając umiejętności potrzebne do rozwiązywania problemów inżynierskich.",
+  "target_audience": [
+    "Nauczyciele i edukatorzy",
+    "Uczniowie klas 4–8 (wiek 9-13 lat)",
+    "Szkoły, koła zainteresowań i półkolonie"
+  ],
+  "difficulty": "średniozaawansowany",
+  "learning_context": {
+    "curriculum_alignment": [
+      "Informatyka",
+      "Matematyka",
+      "Technika",
+      "Fizyka"
+    ],
+    "steam_integration": [
+      "Robotyka",
+      "Programowanie wizualne (Bloki Słów)",
+      "Mechanika i inżynieria",
+      "Projektowanie algorytmów",
+      "Logiczne myślenie"
+    ]
+  },
+  "lessons": [
+    {
+      "lesson_id": 1,
+      "lesson_slug": "ferris_wheel-spike-spike-pl",
+      "title": "Diabelski młyn",
+      "summary": "Zbuduj i zaprogramuj model diabelskiego młyna, używając dwustopniowej przekładni zębatej do obracania konstrukcją i przycisków huba do sterowania ruchem.",
+      "concepts": [
+        "motor",
+        "przekładnia dwustopniowa",
+        "przełożenie",
+        "prędkość obrotowa"
+      ],
+      "skills": [
+        "sterowanie silnikiem",
+        "panel sterowania",
+        "wydarzenia"
+      ],
+      "duration": 35,
+      "learning_outcomes": [
+        "Uczeń rozumie działanie przekładni zębatych i pojęcie przełożenia.",
+        "Uczeń potrafi zaprogramować silnik, kontrolując jego prędkość i kierunek obrotu.",
+        "Uczeń wykorzystuje zdarzenia (naciśnięcie przycisku) do interaktywnego sterowania programem."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "3-5-ETS1-1",
+          "description": "Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost."
+        },
+        {
+          "framework": "NGSS",
+          "code": "3-5-ETS1-3",
+          "description": "Plan and carry out fair tests in which variables are controlled and failure points are considered to identify aspects of a model or prototype that can be improved."
+        },
+        {
+          "framework": "NGSS",
+          "code": "MS-ETS1-4",
+          "description": "(Middle school extension) Develop a model to generate data for iterative testing and modification of a proposed object, tool, or process."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.4",
+          "description": "Innovative Designer Students use a variety of technologies within a design process to identify and solve problems by creating new, useful or imaginative solutions."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.6",
+          "description": "Creative Communicator – Represent roles (ride operator, engineer) and share mechanical concepts through storytelling or demonstration."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.5.MD.A.1",
+          "description": "– Convert and interpret measurements (e.g. speed, gear ratio, direction)."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.W.5.2",
+          "description": "– meeting the standard via multimedia output - create an informative/explanatory viddeo report that explains how they built and programmed the Ferris wheel"
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.SL.5.1",
+          "description": "– Engage in group discussions to evaluate and improve design or programming logic."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-10",
+          "description": "– Create simple programs with events and parameters (e.g. button-triggered motor start, speed control)."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-15",
+          "description": "– Test and debug programs to resolve issues like incorrect rotation."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.2",
+          "description": "– Programowanie z wykorzystaniem zdarzeń, pętli i parametrów (np. prędkość, kierunek obrotu)."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.5",
+          "description": "– Testowanie i poprawianie działania programu."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "3.1",
+          "description": "– Interpretacja danych wejściowych i ich wykorzystanie do sterowania (np. reakcja na wciśnięcie przycisku)."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "4.2",
+          "description": "– Przeliczanie jednostek prędkości i czasu w kontekście ruchu."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "MP4",
+          "description": "– Modelowanie zależności mechanicznych (np. przełożenie a prędkość)."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "2.3",
+          "description": "– Opis działania przekładni zębatych i ich roli w mechanizmach."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "3.5",
+          "description": "– Symulowanie działania prawdziwych urządzeń rozrywkowych (karuzela jako urządzenie transportowe)."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.1",
+          "description": "– Zastosowanie wiedzy o mechanice w praktyce (symulacja urządzenia rozrywkowego)."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "1.3",
+          "description": "– Opis ruchu obrotowego i jego zależności od przyłożonej siły."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "6.3",
+          "description": "– Konwersja energii elektrycznej na mechaniczną w silniku."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "8.1",
+          "description": "– Analiza ruchu w czasie i przewidywanie jego zmienności w oparciu o dane."
+        }
+      ]
+    },
+    {
+      "lesson_id": 2,
+      "lesson_slug": "spirograph-spike-spike-pl",
+      "title": "Spirograf",
+      "summary": "Zbuduj robota rysującego skomplikowane wzory geometryczne, programując precyzyjny, zsynchronizowany ruch dwóch silników.",
+      "concepts": [
+        "tarcie",
+        "mechanizm korbowy",
+        "piktogram",
+        "człowiek witruwiański",
+        "rysunek techniczny"
+      ],
+      "skills": [
+        "kreatywność",
+        "sterowanie silnikiem",
+        "pozycja startowa silnika"
+      ],
+      "duration": 0,
+      "learning_outcomes": [
+        "Uczeń rozumie, jak mechanizm korbowy przekształca ruch obrotowy w złożone trajektorie.",
+        "Uczeń potrafi zsynchronizować dwa silniki do tworzenia geometrycznych wzorów.",
+        "Uczeń ustawia pozycję startową silnika w celu zapewnienia powtarzalności rysunku."
+      ],
+      "related_standards": []
+    },
+    {
+      "lesson_id": 3,
+      "lesson_slug": "helicopter-spike-spike-pl",
+      "title": "Helikopter",
+      "summary": "Skonstruuj helikopter ratunkowy z obrotowym wirnikiem i wciągarką, sterując jego funkcjami za pomocą przycisków na hubie i logiki 'czekaj aż'.",
+      "concepts": [
+        "siła nośna",
+        "wyciągarka",
+        "przekładnia dwustopniowa",
+        "przekładnia stożkowa",
+        "przełożenie",
+        "dźwignia",
+        "pierwsze śmigłowce",
+        "wirnik"
+      ],
+      "skills": [
+        "czujnik dotyku",
+        "panel sterowania",
+        "wyciągarka",
+        "czekaj aż"
+      ],
+      "duration": 40,
+      "learning_outcomes": [
+        "Uczeń rozumie działanie przekładni stożkowej i mechanizmu wciągarki.",
+        "Uczeń potrafi zastosować blok 'czekaj aż' do wstrzymania programu do momentu spełnienia warunku.",
+        "Uczeń potrafi zaprogramować sekwencję działań sterowaną przez użytkownika za pomocą przycisków."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "3-5-ETS1-1",
+          "description": "Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost."
+        },
+        {
+          "framework": "NGSS",
+          "code": "5-PS2-1",
+          "description": "(Grade 5 – Gravity and Motion) Support an argument that the gravitational force exerted by Earth on objects is directed down."
+        },
+        {
+          "framework": "NGSS",
+          "code": "MS-ETS1-4",
+          "description": "Develop a model to generate data for iterative testing and modification of a proposed object, tool, or process."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.4",
+          "description": "Innovative Designer Students use a variety of technologies within a design process to identify and solve problems by creating new, useful or imaginative solutions."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.6",
+          "description": "Creative Communicator – Present or explain the rescue mission and how robot control logic mirrors real helicopter behavior."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.5.MD.C.5",
+          "description": "– Measure and calculate load volume and evaluate mechanical performance of winch lifts."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.W.5.2",
+          "description": "- Create an informative/explanatory video report that explains how they built and programmed the helicopter, including how the gear transmission and winch system simulate real helicopter lift mechanics."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-10",
+          "description": "– Use sequences, events, and conditionals to control a winch and rotor using button input and logic blocks."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-13",
+          "description": "– Decompose lifting and loading actions into repeatable and testable routines."
+        },
+        {
+          "framework": "CSTA",
+          "code": "3A-AP-16",
+          "description": "Design and iteratively develop programs that combine control structures."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.2",
+          "description": "– Programowanie z wykorzystaniem zdarzeń, pętli i warunków (np. \"czekaj aż do naciśnięcia przycisku\")."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.6",
+          "description": "– Projektowanie systemów reagujących na użytkownika (np. przyciski, sekwencje z czekaniem)."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "3.3",
+          "description": "– Analiza ergonomii i intuicyjności interfejsu sterowania (Hub jako panel sterowania)."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "4.2",
+          "description": "– Obliczenia związane z czasem pracy silnika i prędkością podnoszenia."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "MP4",
+          "description": "– Modelowanie ruchu wciągarki jako zależności matematycznej (czas vs. wysokość)."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "2.3",
+          "description": "– Analiza przekładni kątowych i mechanizmów podnoszących (wciągarka)."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.1",
+          "description": "– Zastosowanie wiedzy o systemach ratowniczych w symulowanym środowisku gry."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "1.3",
+          "description": "– Wpływ siły na ruch obrotowy i liniowy (np. podnoszenie ładunku przez wciągarkę)."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "5.2",
+          "description": "– Ciężar ładunku i jego wpływ na efektywność podnoszenia."
+        }
+      ]
+    },
+    {
+      "lesson_id": 4,
+      "lesson_slug": "crab-spike-spike-pl",
+      "title": "Krab",
+      "summary": "Zbuduj i zaprogramuj robota-kraba, który porusza się bokiem i wykorzystuje czujnik odległości do wykrywania i reagowania na zbliżające się obiekty.",
+      "concepts": [
+        "mechanizm korbowy",
+        "przekładnia zębata",
+        "tarcie",
+        "koło pośrednie",
+        "przełożenie",
+        "egzoszkielet",
+        "wszystkożercy"
+      ],
+      "skills": [
+        "czujnik odległości",
+        "pętla nieskończona"
+      ],
+      "duration": 35,
+      "learning_outcomes": [
+        "Uczeń rozumie, jak mechanizm korbowy przekłada ruch obrotowy na posuwisty.",
+        "Uczeń potrafi wykorzystać pętlę nieskończoną do ciągłego działania programu.",
+        "Uczeń potrafi zaprogramować reakcję robota na dane z czujnika odległości, tworząc zachowanie unikania."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "3-5-ETS1-1",
+          "description": "Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost."
+        },
+        {
+          "framework": "NGSS",
+          "code": "3-5-ETS1-2",
+          "description": "Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem."
+        },
+        {
+          "framework": "NGSS",
+          "code": "4-LS1-1",
+          "description": "(Grade 4 – From Molecules to Organisms: Structures and Processes) Construct an argument that plants and animals have internal and external structures that function to support survival, growth, behavior, and reproduction."
+        },
+        {
+          "framework": "NGSS",
+          "code": "MS-ETS1-4",
+          "description": "Develop a model to generate data for iterative testing and modification of a proposed object, tool, or process."
+        },
+        {
+          "framework": "NGSS",
+          "code": "MS-LS1-8",
+          "description": "(Grades 6–8 – Nervous System Behavior) Gather and synthesize information that sensory receptors respond to stimuli by sending messages to the brain for immediate behavior or storage as memories."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.1",
+          "description": "Empowered Learner Students use technology to set personal learning goals and explore learning in ways that leverage autonomy and creativity."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.4",
+          "description": "Innovative Designer – Design and program a robot that imitates an animal’s motion and behavior."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.5",
+          "description": "Computational Thinker – Use loops and sensor-based inputs to control motor responses based on real-time environmental conditions."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.6",
+          "description": "Creative Communicator – Share insights on how biology inspired the design and behavior of the robot."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.5.MD.A.1",
+          "description": "– Convert between time, distance, and speed when evaluating escape behavior or walking cycles."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.PRACTICE.MP4",
+          "description": "– Model motion and detection events using mathematical reasoning (e.g. sensor threshold = safe zone)."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.W.5.2",
+          "description": "- Create an informative/explanatory video report that explains how they built and programmed the crab, including how the distance sensor and loop logic allow it to mimic animal behavior."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.SL.5.1",
+          "description": "– Collaborate in evaluating robot responsiveness and reflecting on movement strategy or biological realism."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.RI.5.3",
+          "description": "Explain the relationships or interactions between two or more individuals, events, ideas, or concepts in a scientific text."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-10",
+          "description": "– Create programs that use sensors, conditionals, and loops to perform responsive behavior."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-15",
+          "description": "– Test and debug escape logic under different sensor inputs (e.g. proximity, distance thresholds)."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-13",
+          "description": "– Decompose reaction behavior into modular blocks (e.g. walk, detect, retreat)."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-19",
+          "description": "– Document the purpose of each code section (e.g. forever loop, run motor when “is closer than”)."
+        },
+        {
+          "framework": "CSTA",
+          "code": "3A-AP-22",
+          "description": "(Middle school) Design and develop programs that simulate physical systems (e.g., animal locomotion)."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.2",
+          "description": "– Programowanie z wykorzystaniem pętli i instrukcji warunkowych (np. czujnik odległości → reakcja)."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.5",
+          "description": "– Testowanie i doskonalenie programu reagującego na sygnały z otoczenia."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.6",
+          "description": "– Projektowanie złożonych algorytmów reagujących na środowisko."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "3.1",
+          "description": "– Analiza działania algorytmu sterującego robotem przypominającym zwierzę."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "3.3",
+          "description": "– Porównywanie modeli komputerowych z ich rzeczywistymi odpowiednikami."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "4.2",
+          "description": "– Pomiar czasu reakcji i odległości działania czujnika – przeliczanie jednostek."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "7.3",
+          "description": "– Analiza i przewidywanie cyklicznego ruchu (chód boczny kraba)."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "MP4",
+          "description": "– Modelowanie logicznych zależności między bodźcem a reakcją (czujnik → silnik)."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "2.3",
+          "description": "– Mechanizm korbowy + przekładnia + popychacz – zastosowanie w konstrukcji nóg i szczypiec."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "3.2",
+          "description": "– Budowa robota inspirowanego naturą z wykorzystaniem czujnika."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.1",
+          "description": "– Przeniesienie zachowania biologicznego na mechaniczne i programowe rozwiązanie."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.3",
+          "description": "– Odwzorowywanie zjawisk biologicznych za pomocą mechanizmów technicznych."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "1.3",
+          "description": "– Ruch cykliczny nóg kraba jako przykład przekładni korbowej i ciernej."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "2.2",
+          "description": "– Działanie czujnika – zależność między dystansem a czasem reakcji."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "6.3",
+          "description": "– Przetwarzanie energii elektrycznej na ruch mechaniczny."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "8.1",
+          "description": "– Rejestrowanie czasu reakcji i porównywanie efektywności zachowań robota."
+        },
+        {
+          "framework": "PL Przyroda",
+          "code": "3.1",
+          "description": "– Rozpoznaje i opisuje zwierzęta oraz ich zachowania."
+        },
+        {
+          "framework": "PL Przyroda",
+          "code": "4.2",
+          "description": "– Wyjaśnia, jak organizmy reagują na bodźce."
+        },
+        {
+          "framework": "PL Przyroda",
+          "code": "5.3",
+          "description": "– Obserwuje i opisuje relacje organizmu ze środowiskiem."
+        },
+        {
+          "framework": "PL Biologia",
+          "code": "1.4",
+          "description": "– Obserwuje, opisuje i porównuje cechy budowy i zachowania zwierząt."
+        },
+        {
+          "framework": "PL Biologia",
+          "code": "2.2",
+          "description": "– Rozumie przystosowania zwierząt do środowiska życia."
+        },
+        {
+          "framework": "PL Biologia",
+          "code": "3.3",
+          "description": "– Wskazuje różnorodność organizmów i ich cechy adaptacyjne."
+        },
+        {
+          "framework": "PL Biologia",
+          "code": "6.3",
+          "description": "– Ocenia wpływ środowiska na przystosowania organizmów."
+        },
+        {
+          "framework": "PL Geografia",
+          "code": "5.1",
+          "description": "– Wskazuje na mapie obszary występowania wybranych gatunków zwierząt i opisuje warunki ich życia."
+        }
+      ]
+    },
+    {
+      "lesson_id": 5,
+      "lesson_slug": "bumper_car-spike-spike-pl",
+      "title": "Plac manewrowy",
+      "summary": "Zbuduj autonomicznego robota, który unika przeszkód, wykorzystując zderzak z czujnikiem siły do wykrywania kolizji i sterowanie burtowe do manewrowania.",
+      "concepts": [
+        "sterowanie burtowe",
+        "odczyt z czujnika",
+        "dźwignia",
+        "punkt podparcia",
+        "bezpieczeństwo w drodze"
+      ],
+      "skills": [
+        "sterowanie burtowe",
+        "czujnik siły"
+      ],
+      "duration": 40,
+      "learning_outcomes": [
+        "Uczeń rozumie zasadę działania sterowania burtowego do poruszania pojazdem.",
+        "Uczeń potrafi odczytywać dane z czujnika siły i wykorzystywać je do wyzwalania akcji w programie.",
+        "Uczeń potrafi zaprogramować autonomiczną reakcję robota na kolizję z przeszkodą."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "3-5-ETS1-1",
+          "description": "Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost."
+        },
+        {
+          "framework": "NGSS",
+          "code": "MS-ETS1-4",
+          "description": "Develop a model to generate data for iterative testing and modification of a proposed object, tool, or process."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.SL.5.1",
+          "description": "– Discuss different strategies for obstacle response, test outcomes, and iterative improvements."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-IC-21",
+          "description": "Discuss issues of bias and accessibility in the design of existing technologies."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "3.3",
+          "description": "– Opis działania programu jako modelu rzeczywistego systemu technicznego."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "8.1",
+          "description": "– Analiza zależności czas–odległość i ich wpływ na skuteczność uniku."
+        }
+      ]
+    },
+    {
+      "lesson_id": 6,
+      "lesson_slug": "puppy-spike-spike-pl",
+      "title": "Piesek",
+      "summary": "Zbuduj i zaprogramuj robota-pieska, który chodzi i reaguje na otoczenie ruchem i dźwiękiem dzięki czujnikowi odległości.",
+      "concepts": [
+        "mechanizm korbowy",
+        "tarcie",
+        "ssaki",
+        "ewolucja"
+      ],
+      "skills": [
+        "pozycja startowa silnika",
+        "sterowanie burtowe"
+      ],
+      "duration": 45,
+      "learning_outcomes": [
+        "Uczeń potrafi zaprogramować mechanizm chodzenia oparty na zsynchronizowanym ruchu dwóch silników.",
+        "Uczeń potrafi wykorzystać czujnik odległości do wyzwalania reakcji robota w zależności od bliskości obiektu.",
+        "Uczeń potrafi połączyć ruch i dźwięk, aby symulować zachowanie zwierzęcia."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "3-LS3-1",
+          "description": "Analyze and interpret data to provide evidence that plants and animals have traits inherited from parents and that variation of these traits exists in a group of similar organisms."
+        },
+        {
+          "framework": "NGSS",
+          "code": "4-LS1-2",
+          "description": "Use a model to describe that animals receive different types of information through their senses, process the information in their brain, and respond in different ways."
+        },
+        {
+          "framework": "NGSS",
+          "code": "MS-LS1-8",
+          "description": "Gather and synthesize information that sensory receptors respond to stimuli by sending messages to the brain."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.1",
+          "description": "Empowered Learner – Students modify puppy behavior to reflect personal ideas about care and training."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.4",
+          "description": "Innovative Designer – Pupils creatively program reactions, voices, or walking styles."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.6",
+          "description": "Creative Communicator - Robot is used as an expressive medium (e.g., emotions through motion or sound)."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.4.MD.A.2",
+          "description": "Use the four operations to solve word problems involving distances, intervals of time, and other measurements."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.PRACTICE.MP4",
+          "description": "– Use math to model behavior logic and timing."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.W.5.2",
+          "description": "- Create an informative/explanatory video report that explains how they built and programmed the puppy, including how it reacts to input and mimics animal behavior."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-10",
+          "description": "– Use simple loops and events (e.g., “when touched, bark”)."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-12",
+          "description": "– Modify an existing program to customize behavior."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-17",
+          "description": "– Use sensor input and variables to personalize behavior dynamically."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.2",
+          "description": "– Programowanie z użyciem zdarzeń i pętli (np. “gdy przycisk naciśnięty, wykonaj ruch + dźwięk”)."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.6",
+          "description": "– Projektowanie reaktywnych obiektów wirtualnych (zabawa vs. zachowanie robota)."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "3.4",
+          "description": "– Symulacja obiektów biologicznych i analiza podobieństw różniących kod a naturę."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "4.2",
+          "description": "– Czas reakcji, pomiary dystansu (np. zasięg czujnika), długość kroku."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "6.1",
+          "description": "– Obliczenia praktyczne: prędkość, czas, moc silnika."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "9.3",
+          "description": "– Wyrażenia algebraiczne: zaprogramowanie różnych stanów jako zmienne."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "3.1",
+          "description": "– Budowa urządzeń odwzorowujących funkcje istot żywych."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.3",
+          "description": "– Projektowanie systemów interaktywnych (np. czujnik – reakcja – wyrażenie emocji)."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.5",
+          "description": "– Estetyka i funkcjonalność – jak uczynić robota przyjaznym użytkownikowi?"
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "2.1",
+          "description": "– Ruch jednostajny i przyspieszony – analiza kroku robota."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "5.2",
+          "description": "– Równowaga sił i zmiany kierunku – przechylanie, zatrzymanie."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "6.3",
+          "description": "– Zależność mocy silnika i masy robota od sposobu poruszania się."
+        },
+        {
+          "framework": "PL Przyroda",
+          "code": "3.2",
+          "description": "– Obserwacja zachowań zwierząt i porównanie ich z zachowaniami robota."
+        },
+        {
+          "framework": "PL Przyroda",
+          "code": "4.1",
+          "description": "– Rozpoznawanie bodźców i reakcji – jak robot “widzi” świat."
+        },
+        {
+          "framework": "PL Przyroda",
+          "code": "5.3",
+          "description": "– Rola dotyku, słuchu i innych zmysłów u zwierząt – modelowanie w robotyce."
+        },
+        {
+          "framework": "PL Biologia",
+          "code": "2.1",
+          "description": "– Ruch jako cecha zwierząt – w tym pies jako ssak ruchliwy."
+        },
+        {
+          "framework": "PL Biologia",
+          "code": "2.3",
+          "description": "– Zachowania społeczne i emocjonalne zwierząt (np. zabawa, opieka, posłuszeństwo)."
+        },
+        {
+          "framework": "PL Biologia",
+          "code": "3.4",
+          "description": "– Wpływ środowiska i bodźców na zachowanie – symulowane przez sensory robota."
+        },
+        {
+          "framework": "PL Geografia",
+          "code": "5.3",
+          "description": "– Poznanie środowisk życia zwierząt domowych i ich przystosowania."
+        }
+      ]
+    },
+    {
+      "lesson_id": 7,
+      "lesson_slug": "forklift-spike-spike-pl",
+      "title": "Wózek widłowy",
+      "summary": "Zaprojektuj i zaprogramuj robota-wózek widłowy, który podnosi i transportuje obiekty, wykorzystując napęd pasowy, sterowanie burtowe i czujnik odległości.",
+      "concepts": [
+        "przekładnia liniowa",
+        "przekładnia pasowa",
+        "sterowanie burtowe",
+        "przeciwwaga",
+        "napęd",
+        "podwozie"
+      ],
+      "skills": [
+        "powtórzenie i synteza: sterowanie burtowe",
+        "czujnik odległości",
+        "czekaj aż"
+      ],
+      "duration": 0,
+      "learning_outcomes": [
+        "Uczeń potrafi zastosować przekładnię pasową i liniową do zbudowania mechanizmu podnoszącego.",
+        "Uczeń potrafi zintegrować sterowanie burtowe z logiką czujnika odległości.",
+        "Uczeń potrafi tworzyć algorytmy do rozwiązywania problemów transportowych i logistycznych."
+      ],
+      "related_standards": []
+    },
+    {
+      "lesson_id": 8,
+      "lesson_slug": "manipulator-spike-spike-pl",
+      "title": "Manipulator",
+      "summary": "Zbuduj precyzyjny manipulator, który autonomicznie wykrywa, podnosi i przemieszcza obiekty za pomocą czujnika odległości i obrotowej podstawy.",
+      "concepts": [
+        "robot autonomiczny",
+        "czujnik odległości",
+        "obrotnica",
+        "przekładnia zębata",
+        "przekładnia liniowa",
+        "tarcie",
+        "roboty szeregowe i równoległe"
+      ],
+      "skills": [
+        "precyzyjne sterowanie silnikiem w pętli"
+      ],
+      "duration": 55,
+      "learning_outcomes": [
+        "Uczeń rozumie koncepcję robota autonomicznego.",
+        "Uczeń potrafi zaprogramować pętlę do precyzyjnego sterowania ramieniem robota w zadaniu podnoszenia i opuszczania.",
+        "Uczeń potrafi zaprojektować zautomatyzowaną sekwencję ruchów do wykonania zadania produkcyjnego."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "3-5-ETS1-1",
+          "description": "Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost."
+        },
+        {
+          "framework": "NGSS",
+          "code": "MS-ETS1-4",
+          "description": "Develop a model to generate data for iterative testing and modification of a proposed object, tool, or process."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.4",
+          "description": "Innovative Designer: Apply the design process to solve a real-world robotic task."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.7",
+          "description": "Global Collaborator: Teamwork and communication in simulated production-line Robot Games."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.5.MD.C.5",
+          "description": "Calculate volume and relate to real-world applications (e.g., object handling)."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-10",
+          "description": "Create programs using sequences, events, and loops."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-19",
+          "description": "Document how sensor data changes behavior."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.2",
+          "description": "Programowanie z pętlami i instrukcjami warunkowymi."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "3.1",
+          "description": "Analiza danych z czujników i ich wykorzystanie do sterowania."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "4.2",
+          "description": "Obliczenia długości, wysokości, i odległości (np. wysokość podnoszenia)."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "8.1",
+          "description": "Pomiar czasu i ruchu – np. analiza cyklu podnoszenia i transportu."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "3.2",
+          "description": "Budowa modelu urządzenia z elementów konstrukcyjnych."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.1",
+          "description": "Projektowanie systemów automatyki."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "1.3",
+          "description": "Analiza sił działających na obiekt podczas podnoszenia (ciężar, tarcie)."
+        }
+      ]
+    },
+    {
+      "lesson_id": 9,
+      "lesson_slug": "cleaner-spike-spike-pl",
+      "title": "Robot sprzątający",
+      "summary": "Zbuduj i zaprogramuj autonomicznego robota na bazie napędowej, który wykorzystuje czujnik koloru do wykrywania i podążania za czarną linią.",
+      "concepts": [
+        "sterowanie burtowe",
+        "optymalizacja algorytmu",
+        "algorytm",
+        "Euklides",
+        "pierwszy program komputerowy"
+      ],
+      "skills": [
+        "sterowanie burtowe",
+        "czujnik koloru",
+        "testowanie algorytmu"
+      ],
+      "duration": 35,
+      "learning_outcomes": [
+        "Uczeń rozumie pojęcie algorytmu i potrzebę jego optymalizacji.",
+        "Uczeń potrafi zaprogramować robota do podążania za linią przy użyciu czujnika koloru i instrukcji warunkowych.",
+        "Uczeń potrafi systematycznie testować i udoskonalać program w celu poprawy precyzji ruchu."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "3-5-ETS1-1",
+          "description": "Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost."
+        },
+        {
+          "framework": "NGSS",
+          "code": "4-PS4-2",
+          "description": "Develop a model to describe that light reflecting from objects and entering the eye allows objects to be seen."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.4",
+          "description": "Innovative Designer: Students design and test a robot that follows color cues to solve a real-world cleanup simulation."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.7",
+          "description": "Global Collaborator: Within Robot Games, students collaborate on strategy, design, and roles (driver, builder, tester) in competition settings."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.PRACTICE.MP4",
+          "description": "Model with mathematics."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.SL.5.1",
+          "description": "Engage effectively in collaborative discussions."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-10",
+          "description": "Create programs using sequences, events, loops, and conditionals."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-17",
+          "description": "Systematically test and refine programs using a range of inputs."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.2",
+          "description": "– Programowanie pętli i warunków – detekcja koloru i reakcja na zdarzenie."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "3.1",
+          "description": "– Odczyt danych z czujników i analiza działania programu."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "4.2",
+          "description": "– Pomiar i analiza czasu reakcji, prędkości i dystansu."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "3.3",
+          "description": "– Projektowanie układów sterujących z czujnikami i silnikami."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.5",
+          "description": "– Planowanie i testowanie konstrukcji w zadaniu użytkowym (np. czyszczenie toru)."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "2.1",
+          "description": "– Ruch i zmiana kierunku w reakcji na sygnał z otoczenia."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "6.2",
+          "description": "– Zależność siły napędowej od masy i rodzaju podłoża."
+        }
+      ]
+    },
+    {
+      "lesson_id": 10,
+      "lesson_slug": "bulldozer-spike-spike-pl",
+      "title": "Buldożer",
+      "summary": "Zbuduj potężny buldożer z napędem gąsienicowym, programując precyzyjne sterowanie lemieszem za pomocą silnika i jego pozycji w kątach.",
+      "concepts": [
+        "sterowanie pojazdem",
+        "precyzyjne sterowanie silnikiem",
+        "napęd gąsienicowy"
+      ],
+      "skills": [
+        "powtórzenie i synteza: sterowanie pojazdem",
+        "czujnik koloru",
+        "precyzyjne sterowanie silnikiem w pętli",
+        "pozycje silnika w kątach"
+      ],
+      "duration": 0,
+      "learning_outcomes": [
+        "Uczeń potrafi zaimplementować sterowanie pojazdem z napędem gąsienicowym.",
+        "Uczeń potrafi precyzyjnie kontrolować pozycję silnika, używając stopni jako jednostki miary.",
+        "Uczeń potrafi zintegrować wiele poznanych koncepcji programistycznych w jednym, złożonym projekcie."
+      ],
+      "related_standards": []
+    },
+    {
+      "lesson_id": 11,
+      "lesson_slug": "music_box-spike-spike-pl",
+      "title": "Pozytywka",
+      "summary": "Zmień zestaw SPIKE Prime w programowalny instrument muzyczny, który odtwarza melodie na podstawie kolorowych klocków wykrywanych przez czujnik koloru.",
+      "concepts": [
+        "przekładnia dwustopniowa",
+        "przekładnia kątowa",
+        "przekładnia redukująca",
+        "wał napędowy",
+        "tarcie",
+        "zapis nutowy",
+        "fala dźwiękowa",
+        "syntezator"
+      ],
+      "skills": [
+        "czujnik koloru",
+        "instrukcja warunkowa"
+      ],
+      "duration": 70,
+      "learning_outcomes": [
+        "Uczeń rozumie, jak różne typy przekładni (kątowa, redukująca) wpływają na ruch.",
+        "Uczeń potrafi używać instrukcji warunkowej 'jeżeli...to' do tworzenia logiki programu opartej na danych z czujnika.",
+        "Uczeń potrafi zaprogramować urządzenie, które zamienia dane wizualne (kolor) na dźwięk."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "3-PS2-2",
+          "description": "Make observations and measurements of an object's motion to provide evidence that a pattern can be used to predict future motion."
+        },
+        {
+          "framework": "NGSS",
+          "code": "MS-PS4-1",
+          "description": "Use mathematical representations to describe a simple model for waves that includes how the amplitude of a wave is related to the energy in a wave."
+        },
+        {
+          "framework": "NGSS",
+          "code": "MS-ETS1-3",
+          "description": "Analyze data from tests to determine similarities and differences among several design solutions."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.1",
+          "description": "Empowered Learner: Students choose musical elements, compose sequences, and understand how software/hardware interaction creates creative outcomes."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.6",
+          "description": "Creative Communicator: Students express themselves by converting visual data (color) into sound, creating unique compositions."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.5",
+          "description": "Computational Thinker: Use of if then logic allows students to match input conditions (sensor readings) to musical events."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.PRACTICE.MP4",
+          "description": "Model with mathematics."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.W.5.2",
+          "description": "Meeting the standard via multimedia output – Create an informative/explanatory video report that explains how they built and programmed the robot to play music based on color."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.SL.5.1",
+          "description": "Engage in collaborative discussions."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-10",
+          "description": "Create programs using sequences, events, loops, and conditionals."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-11",
+          "description": "Create clearly named variables that represent different data types and perform operations on their values."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.2",
+          "description": "– Programowanie z wykorzystaniem instrukcji warunkowej if then oraz danych z czujnika koloru."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "4.3",
+          "description": "– Tworzenie programów z wykorzystaniem danych wejściowych i wyjściowych w systemach interaktywnych."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "4.2",
+          "description": "– Pomiar czasu reakcji, rotacji oraz planowanie sekwencji dźwięków jako zależnych od położenia."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "MP4",
+          "description": "– Modelowanie muzycznych sekwencji przy pomocy danych matematycznych (czas, kąt, liczba kroków)."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "3.3",
+          "description": "– Tworzenie prostych urządzeń technicznych – instrument muzyczny oparty o mechanizm z czujnikiem."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.5",
+          "description": "– Wykorzystanie techniki i programowania do celów artystycznych."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "4.1",
+          "description": "– Rozchodzenie się fal dźwiękowych – pojęcie tonu, częstotliwości, amplitudy."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "6.1",
+          "description": "– Analiza drgań i ich wpływu na emisję dźwięku w prostym układzie mechanicznym."
+        }
+      ]
+    },
+    {
+      "lesson_id": 12,
+      "lesson_slug": "lift-spike-spike-pl",
+      "title": "Winda",
+      "summary": "Zbuduj model windy z ręczną wciągarką i zaprogramuj cyfrowy wyświetlacz na hubie, który pokazuje aktualne piętro na podstawie odczytów czujnika odległości.",
+      "concepts": [
+        "czujnik odległości",
+        "mechanizm korbowy",
+        "mechanizm zębatkowo-zapadkowy"
+      ],
+      "skills": [
+        "precyzyjne sterowanie czujnikiem odległości",
+        "światło i dźwięk"
+      ],
+      "duration": 0,
+      "learning_outcomes": [
+        "Uczeń rozumie działanie mechanizmu zębatkowo-zapadkowego do zabezpieczania windy.",
+        "Uczeń potrafi wykorzystać czujnik odległości do pomiaru wysokości i wyświetlania danych na matrycy LED.",
+        "Uczeń potrafi zintegrować efekty świetlne i dźwiękowe jako informację zwrotną dla użytkownika."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "3-5-ETS1-1",
+          "description": "Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost."
+        },
+        {
+          "framework": "NGSS",
+          "code": "MS-PS2-2",
+          "description": "Plan an investigation to provide evidence that the change in an object's motion depends on the sum of the forces on the object and the mass of the object."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.4",
+          "description": "Innovative Designer: Students engineer a robotic system that performs a common real-world function—elevator motion."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.6",
+          "description": "Creative Communicator: Optionally, students explain their elevator system through a user interface on the Hub or through video reports."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.PRACTICE.MP4",
+          "description": "Model with mathematics."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.SL.5.1",
+          "description": "Engage in collaborative discussions."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-10",
+          "description": "Create programs using sequences, events, loops, and conditionals."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.2",
+          "description": "– Programowanie z wykorzystaniem czujników i instrukcji warunkowych (czujnik odległości jako wyzwalacz)."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "4.3",
+          "description": "– Organizacja kodu w funkcje zależne od danych z czujników."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "4.2",
+          "description": "– Obliczanie długości liny i liczby obrotów potrzebnych do przemieszczenia windy."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "2.1",
+          "description": "– Rozumienie mechanizmu korbowego i przekładni linowej jako części układu wciągającego."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "2.2",
+          "description": "– Siły działające w mechanizmie podnoszącym: napięcie liny, grawitacja, moment obrotowy."
+        }
+      ]
+    },
+    {
+      "lesson_id": 13,
+      "lesson_slug": "motorcycle-spike-spike-pl",
+      "title": "Motocykl",
+      "summary": "Zbuduj model motocykla, którego prędkością steruje się za pomocą czujnika koloru, a diody LED na hubie wizualizują aktualny stan programu.",
+      "concepts": [
+        "czujnik koloru",
+        "wał napędowy",
+        "przekładnia zębata"
+      ],
+      "skills": [
+        "czujnik koloru",
+        "instrukcje warunkowe",
+        "programowanie LED",
+        "wykorzystanie czujnika koloru do sterowania silnikiem"
+      ],
+      "duration": 0,
+      "learning_outcomes": [
+        "Uczeń potrafi zbudować pojazd z wałem napędowym przenoszącym napęd na tylne koło.",
+        "Uczeń potrafi wykorzystać czujnik koloru jako interfejs wejściowy do sterowania prędkością silnika.",
+        "Uczeń potrafi programować diody LED na hubie w celu wizualizacji stanu programu (np. prędkości)."
+      ],
+      "related_standards": []
+    },
+    {
+      "lesson_id": 14,
+      "lesson_slug": "color_sorter-spike-spike-pl",
+      "title": "Sortownik",
+      "summary": "Zbuduj i zaprogramuj zautomatyzowaną linię sortującą, która używa czujnika koloru do identyfikacji klocków i precyzyjnych ruchów silnika do ich dystrybucji.",
+      "concepts": [
+        "czujnik koloru",
+        "automat do klocków",
+        "równia pochyła",
+        "sortowanie przemysłowe",
+        "recykling"
+      ],
+      "skills": [
+        "powtórzenie i synteza: instrukcje warunkowe",
+        "czujnik koloru",
+        "pozycje silnika w kątach"
+      ],
+      "duration": 60,
+      "learning_outcomes": [
+        "Uczeń rozumie zastosowanie automatyzacji w przemyśle i procesach recyklingu.",
+        "Uczeń potrafi zintegrować działanie czujnika koloru z precyzyjnym ruchem silników w określonych pozycjach kątowych.",
+        "Uczeń potrafi zastosować instrukcje warunkowe i pętle do stworzenia wydajnego algorytmu sortującego."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "4-PS4-2",
+          "description": "Waves and Their Applications in Technologies for Information Transfer: Develop a model to describe that light reflecting from objects and entering the eye allows objects to be seen."
+        },
+        {
+          "framework": "NGSS",
+          "code": "4-ESS3-2",
+          "description": "Earth and Human Activity: Generate and compare multiple solutions to reduce the impacts of natural Earth processes on humans."
+        },
+        {
+          "framework": "NGSS",
+          "code": "5-ESS3-1",
+          "description": "Earth and Human Activity: Obtain and combine information about ways individual communities use science ideas to protect the Earth’s resources and environment."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.5.a",
+          "description": "Computational Thinker: Formulate problem definitions suited for technology-assisted methods such as data analysis, abstract models and algorithmic thinking in exploring and finding solutions."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.5.c",
+          "description": "Computational Thinker: Break problems into component parts, extract key information, and develop descriptive models to understand complex systems."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.7.b",
+          "description": "Global Collaborator: Use collaborative technologies to work with others, including peers, experts or community members, to examine issues and problems from multiple viewpoints."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.6.RP.3",
+          "description": "Ratios and Proportional Relationships: Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.7.RP.2",
+          "description": "Ratios and Proportional Relationships: Recognize and represent proportional relationships between quantities."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.SL.5.5",
+          "description": "Presentation of Knowledge and Ideas: Include multimedia components (e.g., graphics, sound) and visual displays in presentations when appropriate to enhance the development of main ideas or themes."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-10",
+          "description": "Algorithms and Programming: Create programs that include sequences, events, loops, and conditionals."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-11",
+          "description": "Algorithms and Programming: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-DA-07",
+          "description": "Data and Analysis: Use data to highlight or propose cause-and-effect relationships, predict outcomes, or communicate an idea."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "IV–VI.I.2.b)",
+          "description": "Rozumienie, analizowanie i rozwiązywanie problemów: Uczeń formułuje i zapisuje w postaci algorytmów polecenia składające się na sterowanie robotem lub obiektem na ekranie."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "IV–VI.I.3)",
+          "description": "Rozumienie, analizowanie i rozwiązywanie problemów: Uczeń wyróżnia podstawowe kroki w podejściu algorytmicznym do rozwiązywania problemów."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "IV–VI.II.2)",
+          "description": "Programowanie i rozwiązywanie problemów z wykorzystaniem komputera i innych urządzeń cyfrowych: Uczeń testuje na komputerze swoje programy pod względem zgodności z przyjętymi założeniami i ewentualnie je poprawia, objaśnia przebieg działania programów."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "V–VI.I.1)",
+          "description": "Liczby naturalne w dziesiątkowym układzie pozycyjnym: Uczeń zapisuje i odczytuje liczby naturalne wielocyfrowe."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "IV–VI.I.3)",
+          "description": "Liczby naturalne w dziesiątkowym układzie pozycyjnym: Uczeń porównuje liczby naturalne."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "IV-VI.I.8)",
+          "description": "Kultura pracy: Uczeń jest świadomym i odpowiedzialnym użytkownikiem wytworów techniki."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "IV-VI.IV.4)",
+          "description": "Dokumentacja techniczna: Uczeń czyta rysunki wykonawcze i złożeniowe."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "IV–VI.VI.7)",
+          "description": "Technologia wytwarzania: Uczeń dokonuje montażu poszczególnych części w całość, stosując różne rodzaje połączeń (rozłączne i nierozłączne, pośrednie i bezpośrednie, spoczynkowe i ruchowe)."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "VII-VIII.I.3)",
+          "description": "Wymagania przekrojowe: Uczeń przeprowadza wybrane obserwacje, pomiary i doświadczenia na podstawie ich opisów;"
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "VII-VIII.I.4)",
+          "description": "Wymagania przekrojowe: Uczeń opisuje przebieg doświadczenia lub pokazu; wyróżnia kluczowe kroki i sposób postępowania oraz wskazuje rolę użytych przyrządów;"
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "VII-VIII.IX.9)",
+          "description": "Optyka: Uczeń opisuje światło białe jako mieszaninę barw; omawia jakościowo rozszczepienie światła w pryzmacie;"
+        }
+      ]
+    },
+    {
+      "lesson_id": 15,
+      "lesson_slug": "gearbox_puzzle-spike-spike-pl",
+      "title": "Zębatkowa zagadka",
+      "summary": "Zbuduj mechaniczną łamigłówkę z losowymi ustawieniami, wykorzystując czujnik siły do interakcji, silnik do zmiany stanu i wyświetlacz LED do prezentacji zagadki.",
+      "concepts": [
+        "mechaniczna łamigłówka",
+        "matryca LED",
+        "przekładnia cierna",
+        "przekładnia zębata",
+        "przekładnia cięgnowa",
+        "obliczanie przełożenia"
+      ],
+      "skills": [
+        "czujnik dotyku",
+        "instrukcja warunkowa",
+        "piksele",
+        "rozwiązywanie problemu: mechaniczna łamigłówka"
+      ],
+      "duration": 70,
+      "learning_outcomes": [
+        "Uczeń potrafi rozróżniać i opisać działanie przekładni ciernej, zębatej i cięgnowej.",
+        "Uczeń potrafi używać instrukcji warunkowej 'jeżeli...to...w przeciwnym razie' do tworzenia logiki gry.",
+        "Uczeń potrafi programować indywidualne piksele na matrycy LED i generować losowe liczby."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "3-5-ETS1-2",
+          "description": "Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.5",
+          "description": "Computational Thinker: Students analyze force sensor readings and apply conditional logic and randomness to create varied puzzle paths."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.5.MD.A.1",
+          "description": "– Convert among different-sized standard measurement units within a given measurement system."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-10",
+          "description": "Create programs using sequences, events, loops, and conditionals."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.2",
+          "description": "– Programowanie warunkowe typu if else, z elementem losowości i sterowaniem wyjściem (piksele na ekranie LED)."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "4.2",
+          "description": "– Wykonywanie pomiarów długości i przeliczanie jednostek w obrębie jednego układu miar."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "2.3",
+          "description": "– Zastosowanie przekładni i czujnika siły w układzie mechanicznym."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "2.1",
+          "description": "– Związek między siłą a ruchem elementów przekładniowych."
+        }
+      ]
+    },
+    {
+      "lesson_id": 16,
+      "lesson_slug": "dragster-spike-spike-pl",
+      "title": "Wyścigówka",
+      "summary": "Zbuduj wyścigówkę typu dragster i kontroluj jej prędkość na dwa sposoby: mechanicznie za pomocą skrzyni biegów i programowo za pomocą czujnika obrotu.",
+      "concepts": [
+        "czujnik obrotu",
+        "skrzynia biegów",
+        "dźwignia",
+        "dwustopniowa przekładnia zębata"
+      ],
+      "skills": [
+        "instrukcje warunkowe",
+        "działania matematyczne"
+      ],
+      "duration": 45,
+      "learning_outcomes": [
+        "Uczeń rozumie zasadę działania dwustopniowej skrzyni biegów i jej wpływ na prędkość.",
+        "Uczeń potrafi wykorzystać dane z czujnika obrotu do dynamicznej regulacji mocy silnika.",
+        "Uczeń potrafi stosować operacje matematyczne (odejmowanie, dzielenie) do przetwarzania danych z czujników."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "3-5-ETS1-1",
+          "description": "Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost."
+        },
+        {
+          "framework": "NGSS",
+          "code": "MS-ETS1-4",
+          "description": "Develop a model to generate data for iterative testing and modifications."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.4",
+          "description": "Innovative Designer: Students create a functional robotic vehicle that clears obstacles using sensor data and mechanical steering."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.7",
+          "description": "Global Collaborator: As part of Robot Games, students collaborate in design and strategy—choosing who builds, tests, and drives the bulldozer robot."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.PRACTICE.MP4",
+          "description": "Model with mathematics."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.6.RP.A.3",
+          "description": "– Use ratio and rate reasoning to solve real-world problems."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.W.5.2",
+          "description": "Write informative/explanatory texts."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.SL.5.1",
+          "description": "Engage effectively in collaborative discussions."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-10",
+          "description": "Create programs using sequences, events, loops, and conditionals."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-17",
+          "description": "Systematically test and refine programs using a range of inputs."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.2",
+          "description": "– Programowanie z wykorzystaniem zdarzeń, pętli i czujników (np. detektor odległości)."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "3.1",
+          "description": "– Odczyt danych z czujników i ich wykorzystanie w działaniu algorytmu."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "4.2",
+          "description": "– Obliczanie odległości i prędkości w czasie ruchu pojazdu."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "MP4",
+          "description": "– Stosowanie matematyki w analizie działania mechanicznego układu."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "2.3",
+          "description": "– Zastosowanie sterowania skrętem w pojeździe z czujnikiem odległości."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.4",
+          "description": "– Planowanie i testowanie konstrukcji zdolnej do wykonywania zadań użytkowych."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "2.2",
+          "description": "– Związek między siłą napędową a masą i oporem przesuwanym (zależność między siłą a efektem przesunięcia)."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "6.2",
+          "description": "– Ruch pojazdu jako wynik działania siły, tarcia i rozkładu masy."
+        }
+      ]
+    },
+    {
+      "lesson_id": 17,
+      "lesson_slug": "claw_machine-spike-spike-pl",
+      "title": "Łapacz klocków",
+      "summary": "Zbuduj maszynę zręcznościową z chwytakiem na przekładni liniowej, sterując niezależnie ruchem i dźwiękiem za pomocą wielowątkowości.",
+      "concepts": [
+        "czujnik siły",
+        "programowanie dźwięku",
+        "przekładnia liniowa",
+        "przekładnia zębata",
+        "chwytak",
+        "gry losowe",
+        "zręcznościowe i logiczne",
+        "prawdopodobieństwo"
+      ],
+      "skills": [
+        "czujnik siły",
+        "wielowątkowość"
+      ],
+      "duration": 45,
+      "learning_outcomes": [
+        "Uczeń rozumie, jak działa przekładnia liniowa (zębatka z zębnikiem) do poruszania chwytakiem.",
+        "Uczeń potrafi zaimplementować wielowątkowość za pomocą bloków 'nadaj' i 'kiedy otrzymam'.",
+        "Uczeń potrafi zaprojektować interaktywną grę, łącząc mechanikę, czujniki i dźwięk."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "3-5-ETS1-1",
+          "description": "– Define a simple design problem reflecting a need or want that includes criteria for success and constraints on materials or cost."
+        },
+        {
+          "framework": "NGSS",
+          "code": "MS-PS4-3",
+          "description": "– Integrate qualitative scientific and technical information to support the claim that digitized signals are a reliable way to encode and transmit information."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.1",
+          "description": "Empowered Learner – Learners explore how commercial arcade machines function and replicate the logic in a programmable and mechanical system."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.6",
+          "description": "Creative Communicator – Students personalize the experience using sound programming, tying audio feedback to interaction (e.g. win/lose tones, motion effects)."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.5.MD.A.1",
+          "description": "– Convert among different-sized measurement units."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.SL.5.1",
+          "description": "– Engage in collaborative discussions."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-14",
+          "description": "– Create procedures with parameters to organize code and make it easier to reuse."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-11",
+          "description": "– Create clearly named variables that represent different data types and perform operations on their values."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.2",
+          "description": "– Programowanie z wykorzystaniem wielowątkowości i zdarzeń (broadcast, when I receive)."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "4.3",
+          "description": "– Tworzenie projektów łączących wiele wątków i kanałów komunikacji."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "6.4",
+          "description": "– Logiczna analiza wyników działania chwytaka i jego skuteczności."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "2.1",
+          "description": "– Zastosowanie przekładni zębatej liniowej (rack and pinion) jako mechanizmu napędowego chwytaka."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.5",
+          "description": "– Twórcze wykorzystanie mechaniki i elektroniki w projektach zbliżonych do rzeczywistego zastosowania."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "2.1",
+          "description": "– Działanie siły nacisku – związek między czujnikiem siły a efektem mechanicznym."
+        }
+      ]
+    },
+    {
+      "lesson_id": 18,
+      "lesson_slug": "conveyor-spike-spike-pl",
+      "title": "Przenośnik korytowy",
+      "summary": "Zbuduj przenośnik, który automatycznie transportuje klocek, wykorzystując czujnik koloru do sterowania cyklem i zmienną do liczenia powtórzeń.",
+      "concepts": [
+        "czujnik koloru",
+        "równia pochyła",
+        "robotyczne ramię",
+        "automatyzacja przemysłu",
+        "współpraca robotów"
+      ],
+      "skills": [
+        "używanie podglądu zmiennych",
+        "licznik przy pomocy zmiennej",
+        "wielowątkowość",
+        "wyświetlanie zmiennej"
+      ],
+      "duration": 50,
+      "learning_outcomes": [
+        "Uczeń rozumie zasadę działania równi pochyłej w systemach transportowych.",
+        "Uczeń potrafi tworzyć i modyfikować zmienne do śledzenia danych, np. jako licznik powtórzeń.",
+        "Uczeń potrafi wyświetlać wartość zmiennej w czasie rzeczywistym na matrycy LED huba."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "3-5-ETS1-2",
+          "description": "– Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints."
+        },
+        {
+          "framework": "NGSS",
+          "code": "MS-ETS1-4",
+          "description": "– Develop a model to generate data for iterative testing and modifications."
+        },
+        {
+          "framework": "NGSS",
+          "code": "MS-PS3-3",
+          "description": "– Apply scientific principles to design, construct, and test a device that either minimizes or maximizes thermal energy transfer."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.4",
+          "description": "Innovative Designer – Design a conveyor system with automation logic and object recognition using color sensors and variables."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.5",
+          "description": "Computational Thinker – Implement counters and conditionals to model item processing and track the flow of objects."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.7",
+          "description": "Global Collaborator – Explore real-world applications of conveyors in logistics, manufacturing, and recycling through class discussions or group designs."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.5.MD.A.1",
+          "description": "– Convert among different-sized measurement units."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.6.EE.B.6",
+          "description": "– Use variables to represent numbers and write expressions."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.W.5.2",
+          "description": "– Meeting the standard via multimedia output – Create an explanatory video report showing how the conveyor sorts and counts items using variables and sensors."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.SL.5.1",
+          "description": "– Engage in collaborative discussions on optimizing drive systems or improving code logic based on observed performance."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-10",
+          "description": "– Create programs using sequences, events, loops, and conditionals."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-11",
+          "description": "– Create clearly named variables that represent different data types and perform operations on their values."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-17",
+          "description": "– Systematically test and refine programs using a range of inputs."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.2",
+          "description": "– Programowanie z użyciem zmiennych, pętli i instrukcji warunkowych."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.5",
+          "description": "– Testowanie programu i jego dostosowanie do różnych danych wejściowych (kolory, liczba obiektów)."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "4.3",
+          "description": "– Tworzenie modeli systemów automatycznych i ich analiza działania."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "5.3",
+          "description": "– Użycie zmiennych i równań do opisu procesów mechanicznych."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "MP4",
+          "description": "– Modelowanie matematyczne procesu automatycznego przenoszenia i sortowania."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "2.1",
+          "description": "– Budowa i działanie mechanizmów transportowych w praktyce."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "3.3",
+          "description": "– Wdrażanie czujników do układów automatyki."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.5",
+          "description": "– Tworzenie projektów z użyciem mechaniki, elektroniki i programowania."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "2.1",
+          "description": "– Ruch ciał na pochyłej płaszczyźnie i jego zależność od siły i tarcia."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "5.2",
+          "description": "– Obserwacja i analiza działania siły tarcia i grawitacji na transportowane obiekty."
+        }
+      ]
+    },
+    {
+      "lesson_id": 19,
+      "lesson_slug": "butterfly-spike-spike-pl",
+      "title": "Motyl",
+      "summary": "Zbuduj robota-motyla, który porusza skrzydłami, sterując ich prędkością za pomocą przycisków huba, zmiennych i zagnieżdżonych instrukcji warunkowych.",
+      "concepts": [
+        "mechanizm korbowy",
+        "cykl życia motyla",
+        "funkcje łusek i kolorów owada"
+      ],
+      "skills": [
+        "zmiana wartości zmiennej",
+        "zagnieżdżona instrukcja warunkowa"
+      ],
+      "duration": 65,
+      "learning_outcomes": [
+        "Uczeń potrafi wyjaśnić biologiczny kontekst cyklu życia motyla.",
+        "Uczeń potrafi dynamicznie zmieniać wartość zmiennej w programie w odpowiedzi na działania użytkownika.",
+        "Uczeń potrafi stosować zagnieżdżone instrukcje warunkowe do tworzenia złożonej logiki sterującej."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "3-LS1-1",
+          "description": "– Develop models to describe that organisms have unique and diverse life cycles."
+        },
+        {
+          "framework": "NGSS",
+          "code": "4-LS1-2",
+          "description": "– Use a model to describe that animals receive different types of information through their senses."
+        },
+        {
+          "framework": "NGSS",
+          "code": "MS-LS1-4",
+          "description": "– Use argument based on empirical evidence and scientific reasoning to support an explanation for how characteristic animal behaviors affect survival."
+        },
+        {
+          "framework": "NGSS",
+          "code": "3-5-ETS1-2",
+          "description": "– Generate and compare multiple solutions based on criteria and constraints."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.6",
+          "description": "Creative Communicator – Students creatively animate paper wings and express nature-inspired design using mechanical and coding tools."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.4",
+          "description": "Innovative Designer – Use crank mechanism to explore how art and engineering merge through storytelling and biomimicry."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.5",
+          "description": "Computational Thinker – Apply nested conditionals and variable control to simulate natural wing behavior."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.1",
+          "description": "Empowered Learner – Connect natural science to programmable behavior to reflect insect anatomy and motion."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.4.MD.A.2",
+          "description": "– Use the four operations to solve word problems involving distances, intervals of time."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.PRACTICE.MP4",
+          "description": "– Model with mathematics."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.6.EE.B.6",
+          "description": "– Use variables to represent numbers and write expressions."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.W.5.2",
+          "description": "– Meeting the standard via multimedia output – Create a video report on how the mechanical butterfly was built and programmed to mimic real movement."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.SL.5.1",
+          "description": "– Engage in collaborative discussions on how natural forms inspire mechanical design."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-09",
+          "description": "– Create programs that use variables to store and modify data."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-10",
+          "description": "– Create programs using sequences, loops, and conditionals."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-15",
+          "description": "– Test and debug a program to ensure it works as intended."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-14",
+          "description": "– Create procedures with parameters to organize code."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.2",
+          "description": "– Programowanie z użyciem zmiennych i zagnieżdżonych instrukcji warunkowych."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "3.1",
+          "description": "– Sterowanie mechanizmem w oparciu o dane wejściowe (czas, zmienna)."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "4.3",
+          "description": "– Projektowanie i programowanie interaktywnych modeli nawiązujących do natury."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.4",
+          "description": "– Debugowanie programu w kontekście ruchu i estetyki."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "5.3",
+          "description": "– Wykorzystanie zmiennych i wyrażeń algebraicznych do kontroli ruchu."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "MP4",
+          "description": "– Modelowanie mechanicznego ruchu skrzydeł w oparciu o proporcje."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "6.4",
+          "description": "– Zastosowanie danych liczbowych do przewidywania zachowania układu."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "2.1",
+          "description": "– Użycie mechanizmu korbowego (crank mechanism) do generowania cyklicznego ruchu."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "3.3",
+          "description": "– Projektowanie elementów dekoracyjnych z papieru i ich integracja z ruchem."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.5",
+          "description": "– Zastosowanie techniki w projektach artystyczno-technicznych (STEAM)."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "2.1",
+          "description": "– Ruch cykliczny i jego parametry: amplituda, częstotliwość."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "5.2",
+          "description": "– Analiza zależności między prędkością obrotową a kątem wychylenia."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "6.1",
+          "description": "– Energia i praca w mechanizmie korbowym."
+        },
+        {
+          "framework": "PL Przyroda",
+          "code": "1.1",
+          "description": "– Obserwowanie i opisywanie organizmów żywych oraz ich środowiska życia."
+        },
+        {
+          "framework": "PL Przyroda",
+          "code": "2.3",
+          "description": "– Zrozumienie zależności między budową a funkcją organizmów."
+        },
+        {
+          "framework": "PL Przyroda",
+          "code": "3.1",
+          "description": "– Rozpoznawanie przystosowań organizmów do warunków życia w środowisku przyrodniczym."
+        },
+        {
+          "framework": "PL Przyroda",
+          "code": "4.2",
+          "description": "– Zastosowanie wiedzy przyrodniczej w tworzeniu modeli i symulacji."
+        },
+        {
+          "framework": "PL Przyroda",
+          "code": "5.1",
+          "description": "– Rozwijanie wrażliwości na piękno przyrody oraz potrzebę jej ochrony."
+        },
+        {
+          "framework": "PL Biologia",
+          "code": "IV-VI 1.3",
+          "description": "– Znajomość cyklu życiowego zwierząt na przykładzie owadów."
+        },
+        {
+          "framework": "PL Biologia",
+          "code": "IV-VI 2.2",
+          "description": "– Rozpoznawanie przystosowań zwierząt do środowiska."
+        },
+        {
+          "framework": "PL Biologia",
+          "code": "IV-VI 4.1",
+          "description": "– Zastosowanie wiedzy biologicznej w modelowaniu zachowań organizmów."
+        },
+        {
+          "framework": "PL Biologia",
+          "code": "VII-VIII 5.3",
+          "description": "– Obserwacja i analiza zachowań zwierząt."
+        },
+        {
+          "framework": "PL Geografia",
+          "code": "V-VI 1.5",
+          "description": "– Związek między środowiskiem przyrodniczym a występowaniem organizmów."
+        },
+        {
+          "framework": "PL Geografia",
+          "code": "V-VI 2.4",
+          "description": "– Różnorodność świata przyrody w wybranych strefach klimatycznych."
+        },
+        {
+          "framework": "PL Geografia",
+          "code": "V-VI 3.1",
+          "description": "– Analiza danych przyrodniczych i środowiskowych."
+        },
+        {
+          "framework": "PL Geografia",
+          "code": "VII-VIII 6.2",
+          "description": "– Wpływ działalności człowieka na środowisko naturalne."
+        }
+      ]
+    },
+    {
+      "lesson_id": 20,
+      "lesson_slug": "wind_turbine-spike-spike-pl",
+      "title": "Turbina wiatrowa",
+      "summary": "Zbuduj model turbiny wiatrowej, która używa czujnika koloru do liczenia obrotów i obliczania prędkości wiatru, wprowadzając pojęcia stopera i wielowątkowości.",
+      "concepts": [
+        "czujnik koloru",
+        "przepływ powietrza",
+        "prędkość obrotowa",
+        "przekładnia kątowa",
+        "wał napędowy",
+        "energia odnawialna",
+        "historia turbiny"
+      ],
+      "skills": [
+        "stoper",
+        "reset",
+        "licznik obrotów",
+        "obliczanie prędkości obrotowej",
+        "używanie dwóch zmiennych",
+        "wielowątkowość"
+      ],
+      "duration": 55,
+      "learning_outcomes": [
+        "Uczeń rozumie zasadę działania turbiny wiatrowej i konwersji energii wiatru na energię mechaniczną.",
+        "Uczeń potrafi używać stopera do mierzenia i resetowania czasu w programie.",
+        "Uczeń potrafi zaimplementować licznik obrotów i obliczyć prędkość obrotową za pomocą dwóch zmiennych i wielowątkowości."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "3-PS2-1",
+          "description": "– Plan and conduct an investigation to provide evidence of the effects of balanced and unbalanced forces on motion."
+        },
+        {
+          "framework": "NGSS",
+          "code": "4-PS3-4",
+          "description": "– Apply scientific ideas to design, test, and refine a device that converts energy from one form to another."
+        },
+        {
+          "framework": "NGSS",
+          "code": "5-ESS3-1",
+          "description": "– Obtain and combine information about ways individual communities use science ideas to protect Earth’s resources and environment."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.4",
+          "description": "Innovative Designer – Design a wind turbine with paper blades that optimizes rotation under various airflow conditions."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.5",
+          "description": "Computational Thinker – Use timers, variables, and sensor data to analyze the number of revolutions over time."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.7",
+          "description": "Global Collaborator – Discuss renewable energy solutions and how simple machines like turbines can help address global sustainability goals."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.6",
+          "description": "Creative Communicator – Document and explain findings via digital reporting or video presentations showing turbine performance under test conditions."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.5.MD.A.1",
+          "description": "– Convert among different-sized measurement units."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.6.EE.B.6",
+          "description": "– Use variables to represent numbers and write expressions."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.PRACTICE.MP2",
+          "description": "– Reason abstractly and quantitatively."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.PRACTICE.MP4",
+          "description": "– Model with mathematics."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.SL.5.1",
+          "description": "– Collaborative discussions centered around design effectiveness, environmental impact, and alternative energy."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-11",
+          "description": "– Create clearly named variables that represent different data types and perform operations on their values."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-12",
+          "description": "– Modify an existing program to add features."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-DA-07",
+          "description": "– Represent data using multiple encoding schemes."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-10",
+          "description": "– Use sequences, events, loops, and conditionals in programs."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.2",
+          "description": "– Użycie zmiennych i funkcji czasowych w programowaniu eksperymentu."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "3.1",
+          "description": "– Zbieranie danych z czujników (czujnik koloru jako licznik obrotów) i ich analiza."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.4",
+          "description": "– Tworzenie programu eksperymentalnego, który analizuje wpływ siły przepływu powietrza."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "4.3",
+          "description": "– Modelowanie zjawisk fizycznych z użyciem algorytmów i czujników."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "5.3",
+          "description": "– Wykorzystanie zmiennych i proporcji do obliczeń (np. obroty na minutę)."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "4.2",
+          "description": "– Pomiar czasu, kąta obrotu i liczby obrotów w jednostce czasu."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "MP2/MP4",
+          "description": "– Modelowanie matematyczne energii obrotowej i jej zależności od siły wiatru."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "2.1",
+          "description": "– Zastosowanie mechanizmu wiatraka do pozyskiwania energii."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "3.3",
+          "description": "– Testowanie różnych kształtów łopatek w kontekście efektywności energetycznej."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.4",
+          "description": "– Projektowanie układów zamieniających energię wiatru na ruch mechaniczny."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.5",
+          "description": "– Wdrażanie wiedzy z zakresu energii odnawialnej w praktycznym projekcie."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "2.1",
+          "description": "– Energia kinetyczna wiatru i jej przekształcenie w energię obrotową."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "5.1",
+          "description": "– Zależność między prędkością obrotową a siłą działającą na łopatki."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "6.3",
+          "description": "– Pomiary i analiza efektywności działania układu mechanicznego."
+        },
+        {
+          "framework": "PL Przyroda",
+          "code": "3.2",
+          "description": "– Poznanie źródeł energii odnawialnej, w tym energii wiatru."
+        },
+        {
+          "framework": "PL Przyroda",
+          "code": "4.1",
+          "description": "– Praktyczne zastosowanie wiedzy o przyrodzie w rozwiązaniach technologicznych."
+        },
+        {
+          "framework": "PL Przyroda",
+          "code": "5.1",
+          "description": "– Rozwijanie świadomości ekologicznej – ochrona zasobów naturalnych."
+        },
+        {
+          "framework": "PL Biologia",
+          "code": "2.3",
+          "description": "– Zrównoważony rozwój i wpływ technologii na środowisko życia organizmów."
+        },
+        {
+          "framework": "PL Biologia",
+          "code": "5.2",
+          "description": "– Ochrona środowiska i zastosowanie nauki w służbie planety."
+        },
+        {
+          "framework": "PL Geografia",
+          "code": "1.4",
+          "description": "– Zróżnicowanie zasobów naturalnych w regionach świata – wiatr jako zasób."
+        },
+        {
+          "framework": "PL Geografia",
+          "code": "2.2",
+          "description": "– Wykorzystanie warunków geograficznych do produkcji energii."
+        },
+        {
+          "framework": "PL Geografia",
+          "code": "6.2",
+          "description": "– Wpływ działalności człowieka na środowisko i energia odnawialna jako alternatywa."
+        }
+      ]
+    },
+    {
+      "lesson_id": 21,
+      "lesson_slug": "savonius_turbine-spike-spike-pl",
+      "title": "Turbina Savoniusa",
+      "summary": "Zbuduj pionową turbinę Savoniusa, która wykorzystuje czujnik odległości do liczenia obrotów i programuje wyświetlacz LED, aby pokazać symulowany poziom naładowania baterii.",
+      "concepts": [
+        "czujnik odległości",
+        "elektroniczny licznik obrotów",
+        "anemometr",
+        "magazynowanie energii",
+        "akumulator"
+      ],
+      "skills": [
+        "zaawansowane programowanie pikseli"
+      ],
+      "duration": 55,
+      "learning_outcomes": [
+        "Uczeń rozumie zasadę działania pionowej turbiny wiatrowej i koncepcję magazynowania energii.",
+        "Uczeń potrafi zaimplementować elektroniczny licznik obrotów za pomocą czujnika odległości.",
+        "Uczeń potrafi używać zaawansowanych operacji matematycznych (reszta z dzielenia, podłoga) do programowania wizualizacji na matrycy pikseli."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "4-PS3-4",
+          "description": "– Apply scientific ideas to design, test, and refine a device that converts energy from one form to another."
+        },
+        {
+          "framework": "NGSS",
+          "code": "MS-ETS1-2",
+          "description": "– Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints."
+        },
+        {
+          "framework": "NGSS",
+          "code": "5-ESS3-1",
+          "description": "– Obtain and combine information about ways individual communities use science ideas to protect Earth’s resources and environment."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.4",
+          "description": "Innovative Designer – Design and modify the vertical-axis turbine with different blade configurations to improve performance."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.7",
+          "description": "Global Collaborator – Research where Savonius turbines are used globally and share results of optimization."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.6",
+          "description": "Creative Communicator – Present results of design comparison, showing which version of the turbine performed best and why."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.6.EE.B.6",
+          "description": "– Use variables to represent numbers and write expressions."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.6.SP.B.5",
+          "description": "– Summarize numerical data sets."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.W.5.2",
+          "description": "– Meeting the standard via multimedia output – Create a video report comparing the Savonius turbine design with alternatives, explaining which design was most effective."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.SL.5.1",
+          "description": "– Collaborate to reflect and improve designs, including reviewing others’ test results."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-11",
+          "description": "– Create clearly named variables that represent different data types and perform operations."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-10",
+          "description": "– Create programs using sequences, loops, and conditionals."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-DA-07",
+          "description": "– Represent data in multiple formats."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.2",
+          "description": "– Programowanie z wykorzystaniem zmiennych do analizy obrotów turbiny."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "4.3",
+          "description": "– Projektowanie i analiza działania urządzeń energetycznych z użyciem czujników."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.4",
+          "description": "– Debugowanie i testowanie skuteczności programu w różnych warunkach eksperymentalnych."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "5.3",
+          "description": "– Obliczenia liczby obrotów, czasu pracy, średnich prędkości i proporcji."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "6.4",
+          "description": "– Modelowanie zależności między siłą wiatru a wydajnością turbiny."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "MP2/MP4",
+          "description": "– Rozumowanie ilościowe i tworzenie modeli matematycznych."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "2.1",
+          "description": "– Budowa urządzeń przetwarzających energię wiatru na ruch mechaniczny."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.4",
+          "description": "– Projektowanie prostych systemów energetycznych z wykorzystaniem czujników."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.5",
+          "description": "– Integracja wiedzy o aerodynamice i inżynierii w projektach technicznych."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "2.1",
+          "description": "– Energia kinetyczna wiatru i jej zamiana w ruch obrotowy."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "6.3",
+          "description": "– Pomiar efektywności działania turbiny, analiza danych ruchu."
+        },
+        {
+          "framework": "PL Przyroda",
+          "code": "3.2",
+          "description": "– Energia odnawialna – zastosowanie turbin wiatrowych."
+        },
+        {
+          "framework": "PL Biologia",
+          "code": "2.3",
+          "description": "– Zrównoważony rozwój i wpływ technologii na środowisko życia organizmów."
+        },
+        {
+          "framework": "PL Biologia",
+          "code": "5.1",
+          "description": "– Rozwijanie postaw proekologicznych przez zrozumienie działania prostych rozwiązań technologicznych."
+        },
+        {
+          "framework": "PL Geografia",
+          "code": "1.4",
+          "description": "– Zasoby naturalne i ich wykorzystanie – wiatr jako źródło energii."
+        },
+        {
+          "framework": "PL Geografia",
+          "code": "6.2",
+          "description": "– Znaczenie energii odnawialnej w kontekście globalnym i lokalnym."
+        }
+      ]
+    },
+    {
+      "lesson_id": 22,
+      "lesson_slug": "tiltrotor_aircraft-spike-spike-pl",
+      "title": "Pionowzlot",
+      "summary": "Zbuduj statek powietrzny typu pionowzlot z obrotowymi gondolami i podwójnymi wirnikami, wykorzystując czujnik odległości do sterowania prędkością i nachyleniem.",
+      "concepts": [
+        "czujnik odległości",
+        "przekładnia zębata",
+        "wał napędowy",
+        "przekładnia kątowa",
+        "przełożenie",
+        "aerodynamika",
+        "siła nośna",
+        "ciąg"
+      ],
+      "skills": [
+        "działania matematyczne",
+        "wykorzystanie czujnika odległości do sterowania prędkością"
+      ],
+      "duration": 60,
+      "learning_outcomes": [
+        "Uczeń rozumie podstawowe zasady aerodynamiki, takie jak siła nośna i ciąg.",
+        "Uczeń potrafi zbudować złożony mechanizm z wieloma przekładniami i wałem napędowym.",
+        "Uczeń potrafi zaprogramować dynamiczną zmianę prędkości silnika na podstawie danych z czujnika odległości."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "4-PS3-4",
+          "description": "Energy: Apply scientific ideas to design, test, and refine a device that converts energy from one form to another."
+        },
+        {
+          "framework": "NGSS",
+          "code": "5-PS2-1",
+          "description": "Motion and Stability: Forces and Interactions: Support an argument that the gravitational force exerted by Earth on objects is directed down."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.4.a",
+          "description": "Innovative Designer: Students know and use a deliberate design process for generating ideas, testing theories, creating innovative artifacts or solving authentic problems."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.5.a",
+          "description": "Computational Thinker: Students identify and define problems with clarity."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.4.MD.1",
+          "description": "Measurement and Data: Know relative sizes of measurement units within one system of units including km, m, cm; kg, g; lb, oz.; l, ml; hr, min, sec. Within a single system of measurement, express measurements in a larger unit in terms of a smaller unit. Record measurement equivalents in a two-column table."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.6.EE.9",
+          "description": "Expressions and Equations: Use variables to represent two quantities in a real-world problem that change in relationship to one another; write an equation to express one quantity, thought of as dependent on the other, and analyze the relationship between the two quantities using graphs and tables."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-10",
+          "description": "Algorithms and Programming: Create programs that include sequences, events, loops, and conditionals."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-AP-15",
+          "description": "Algorithms and Programming: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+        },
+        {
+          "framework": "CSTA",
+          "code": "1B-CS-01",
+          "description": "Computing Systems: Describe how internal and external parts of computing devices function to form a system."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "IV–VI.II.1.b)",
+          "description": "Programowanie i rozwiązywanie problemów z wykorzystaniem komputera i innych urządzeń cyfrowych: Uczeń projektuje, tworzy i zapisuje w wizualnym języku programowania prosty program sterujący robotem lub innym obiektem na ekranie komputera."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "IV–VI.II.2)",
+          "description": "Programowanie i rozwiązywanie problemów z wykorzystaniem komputera i innych urządzeń cyfrowych: Uczeń testuje na komputerze swoje programy pod względem zgodności z przyjętymi założeniami i ewentualnie je poprawia, objaśnia przebieg działania programów."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "IV–VI.I.1)",
+          "description": "Liczby naturalne w dziesiątkowym układzie pozycyjnym: Uczeń zapisuje i odczytuje liczby naturalne wielocyfrowe."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "V–VI.II.3)",
+          "description": "Działania na liczbach naturalnych: Uczeń mnoży i dzieli liczbę naturalną przez liczbę naturalną jednocyfrową, dwucyfrową lub trzycyfrową sposobem pisemnym, w pamięci (w najprostszych przykładach) i za pomocą kalkulatora (w trudniejszych przykładach)."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "IV–VI.I.6)",
+          "description": "Kultura pracy: Uczeń posługuje się nazewnictwem technicznym."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "IV–VI.IV.5)",
+          "description": "Dokumentacja techniczna: Uczeń analizuje rysunki zawarte w instrukcjach obsługi i katalogach."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "IV–VI.VI.7)",
+          "description": "Technologia wytwarzania: Uczeń dokonuje montażu poszczególnych części w całość, stosując różne rodzaje połączeń (rozłączne i nierozłączne, pośrednie i bezpośrednie, spoczynkowe i ruchowe)."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "VII-VIII.I.3)",
+          "description": "Wymagania przekrojowe: Uczeń przeprowadza wybrane obserwacje, pomiary i doświadczenia na podstawie ich opisów;"
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "VII-VIII.II.10)",
+          "description": "Ruch i siły: Uczeń stosuje pojęcie siły jako wielkości opisującej oddziaływanie na ciało, uwzględnia wektorowy charakter siły – wskazuje wartość, kierunek i zwrot wektora siły oraz ciało, do którego przyłożona jest siła; posługuje się jednostką siły;"
+        }
+      ]
+    },
+    {
+      "lesson_id": 23,
+      "lesson_slug": "guardian-spike-spike-pl",
+      "title": "Strażnik",
+      "summary": "Zbuduj autonomicznego robota-strażnika, który skanuje otoczenie za pomocą czujnika odległości i reaguje na zagrożenie, uruchamiając alarm i wyrzutnię pocisków.",
+      "concepts": [
+        "czujnik odległości",
+        "przekładnia liniowa",
+        "sprężystość",
+        "dźwignia",
+        "zmysły"
+      ],
+      "skills": [
+        "operacje na zmiennych",
+        "zagnieżdżone pętle",
+        "programowanie dźwięku"
+      ],
+      "duration": 55,
+      "learning_outcomes": [
+        "Uczeń potrafi wyjaśnić analogię między ludzkimi zmysłami a czujnikami robota.",
+        "Uczeń potrafi wykorzystać zagnieżdżone pętle do tworzenia złożonych, powtarzalnych zachowań, takich jak skanowanie.",
+        "Uczeń potrafi zaprogramować dźwięki jako sygnały alarmowe w odpowiedzi na dane z czujnika."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "3-PS2-4",
+          "description": "Define a simple design problem that can be solved by applying scientific ideas about magnets or forces."
+        },
+        {
+          "framework": "NGSS",
+          "code": "MS-ETS1-4",
+          "description": "Develop a model to generate data for iterative testing and modification of a proposed object, tool, or process."
+        },
+        {
+          "framework": "NGSS",
+          "code": "4-PS3-3",
+          "description": "Ask questions and predict outcomes about the changes in energy that occur when objects collide."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.5",
+          "description": "Computational Thinker Students develop and employ strategies for understanding and solving problems in ways that leverage the power of technological methods."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.4",
+          "description": "Innovative Designer Students use a variety of technologies within a design process to identify and solve problems by creating new, useful or imaginative solutions."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.7",
+          "description": "Global Collaborator Students use digital tools to broaden their perspectives and enrich their learning by collaborating with others and working effectively in teams locally and globally."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.6.EE.B.6",
+          "description": "Use variables to represent numbers and write expressions when solving real-world or mathematical problems."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.PRACTICE.MP1",
+          "description": "Make sense of problems and persevere in solving them."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.W.5.2",
+          "description": "Write informative/explanatory texts to examine a topic and convey ideas and information clearly."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.ELA-LITERACY.SL.5.1",
+          "description": "Engage effectively in a range of collaborative discussions with diverse partners."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-10",
+          "description": "Use conditionals to modify program flow based on sensor input."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-17",
+          "description": "Systematically test and refine programs using a range of test cases."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-13",
+          "description": "Decompose problems and create procedures to solve them."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.2",
+          "description": "Uczeń tworzy programy wykorzystujące zmienne i instrukcje warunkowe."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "4.3",
+          "description": "Uczeń modeluje rzeczywiste procesy za pomocą algorytmów i robotów."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.4",
+          "description": "Uczeń testuje, analizuje i poprawia programy."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "5.3",
+          "description": "Uczeń wykonuje obliczenia z zastosowaniem zmiennych i zależności logicznych."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "MP1/MP4",
+          "description": "Uczeń modeluje sytuacje matematyczne i rozwiązuje złożone problemy."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "2.1",
+          "description": "Uczeń rozpoznaje i buduje proste mechanizmy techniczne."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.4",
+          "description": "Uczeń wdraża rozwiązania reagujące na bodźce zewnętrzne."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "4.5",
+          "description": "Uczeń projektuje i testuje mechanizmy automatyczne."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "2.1",
+          "description": "Uczeń opisuje i analizuje działanie sił sprężystych."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "6.3",
+          "description": "Uczeń wykonuje pomiary wielkości fizycznych i interpretuje dane."
+        },
+        {
+          "framework": "PL Przyroda",
+          "code": "3.2",
+          "description": "Uczeń identyfikuje zagrożenia i reaguje na nie."
+        },
+        {
+          "framework": "PL Biologia",
+          "code": "5.1",
+          "description": "Uczeń wykazuje wrażliwość na potrzebę bezpieczeństwa i ochrony środowiska."
+        }
+      ]
+    },
+    {
+      "lesson_id": 24,
+      "lesson_slug": "gearbox-spike-spike-pl",
+      "title": "Skrzynia biegów",
+      "summary": "Zbuduj model trzybiegowej skrzyni biegów i zademonstruj, jak zmiana przełożeń wpływa na prędkość wyjściową, używając dwóch silników i wielowątkowości.",
+      "concepts": [
+        "trzybiegowa automatyczna skrzynia biegów",
+        "czujnik koloru",
+        "przekładnia liniowa",
+        "prędkość obrotowa",
+        "przełożenie",
+        "zmiana przełożenia"
+      ],
+      "skills": [
+        "wielowątkowość",
+        "dwie zmienne"
+      ],
+      "duration": 45,
+      "learning_outcomes": [
+        "Uczeń rozumie, jak różne przełożenia w skrzyni biegów wpływają na prędkość i moment obrotowy.",
+        "Uczeń potrafi zaimplementować mechanizm zmiany biegów za pomocą przekładni liniowej.",
+        "Uczeń potrafi zarządzać stanem programu i równoległymi procesami przy użyciu wielowątkowości i zmiennych."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "3-PS2-2",
+          "description": "Make observations and measurements of an object’s motion to provide evidence that a pattern can be used to predict future motion."
+        },
+        {
+          "framework": "NGSS",
+          "code": "3-PS2-4",
+          "description": "Define a simple design problem that can be solved by applying scientific ideas about magnets or forces."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.5",
+          "description": "Computational Thinker Students develop and employ strategies for understanding and solving problems."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.4",
+          "description": "Innovative Designer Students use a variety of technologies within a design process."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.6.EE.B.6",
+          "description": "Use variables to represent numbers and write expressions when solving real-world problems."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.5.MD.A.1",
+          "description": "Convert among different-sized standard measurement units within a given measurement system."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-11",
+          "description": "Create programs that use multiple variables and functions to organize code."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-10",
+          "description": "Use conditionals to alter program flow based on input."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.2",
+          "description": "Tworzenie programów wykorzystujących zmienne i warunki."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "3.1",
+          "description": "Odczyt i analiza danych z czujników."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "5.3",
+          "description": "Praca z danymi liczbowymi w programowaniu i analizie."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "4.2",
+          "description": "Wielkości fizyczne w matematyce – odległość, czas, prędkość."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "2.1",
+          "description": "Budowa mechanizmu przekładni zębatej."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "3.3",
+          "description": "Zastosowanie mechanizmów napędowych w praktyce."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "2.1",
+          "description": "Analiza działania przekładni w kontekście momentu siły i prędkości."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "5.2",
+          "description": "Zależności prędkości i mocy w układach mechanicznych."
+        }
+      ]
+    },
+    {
+      "lesson_id": 25,
+      "lesson_slug": "curling-spike-spike-pl",
+      "title": "Curling",
+      "summary": "Zbuduj stołową wersję gry w curling, kontrolując siłę wyrzutu dysku za pomocą czujnika obrotu i czujnika siły.",
+      "concepts": [
+        "czujnik siły",
+        "czujnik obrotu",
+        "akcelerometr",
+        "przekładnia dwustopniowa",
+        "ruch spiralny",
+        "sport zespołowy",
+        "opór ruchu",
+        "współczynnik tarcia"
+      ],
+      "skills": [
+        "powtórzenie i synteza: zmienne",
+        "mechanika gry",
+        "czujnik siły",
+        "wykorzystanie danych wejściowych do sterowania mocą silnika"
+      ],
+      "duration": 60,
+      "learning_outcomes": [
+        "Uczeń rozumie fizyczne pojęcia związane z curlingiem, takie jak tarcie i opór ruchu.",
+        "Uczeń potrafi zintegrować dane z wielu czujników (siły, obrotu) do precyzyjnego sterowania mocą silnika.",
+        "Uczeń potrafi zastosować zdobytą wiedzę o zmiennych i mechanice do stworzenia interaktywnej gry."
+      ],
+      "related_standards": [
+        {
+          "framework": "NGSS",
+          "code": "3-PS2-1",
+          "description": "Plan and conduct an investigation to provide evidence of the effects of balanced and unbalanced forces on the motion of an object."
+        },
+        {
+          "framework": "NGSS",
+          "code": "3-PS2-2",
+          "description": "Make observations and measurements of an object’s motion to provide evidence that a pattern can be used to predict future motion."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.5",
+          "description": "Computational Thinker Students develop and employ strategies for understanding and solving problems."
+        },
+        {
+          "framework": "ISTE",
+          "code": "1.4",
+          "description": "Innovative Designer Students use a variety of technologies within a design process."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.5.MD.A.1",
+          "description": "Convert among different-sized standard measurement units within a given measurement system."
+        },
+        {
+          "framework": "CCSS",
+          "code": "CCSS.MATH.CONTENT.6.SP.B.5",
+          "description": "Summarize numerical data sets in relation to their context."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-10",
+          "description": "Use conditionals to modify program behavior."
+        },
+        {
+          "framework": "CSTA",
+          "code": "2-AP-11",
+          "description": "Create programs that use multiple variables and functions."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "2.2",
+          "description": "Tworzenie programów z warunkami i zmiennymi."
+        },
+        {
+          "framework": "PL Informatyka",
+          "code": "3.1",
+          "description": "Zbieranie danych z czujników i ich analiza."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "5.3",
+          "description": "Wykorzystanie danych liczbowych w praktyce."
+        },
+        {
+          "framework": "PL Matematyka",
+          "code": "4.2",
+          "description": "Pomiar i porównanie odległości, prędkości i czasu."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "2.1",
+          "description": "Rozpoznawanie i konstruowanie mechanizmów napędowych."
+        },
+        {
+          "framework": "PL Technika",
+          "code": "3.3",
+          "description": "Projektowanie i testowanie rozwiązań praktycznych."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "1.3",
+          "description": "Obserwowanie i analizowanie ruchu ciał."
+        },
+        {
+          "framework": "PL Fizyka",
+          "code": "2.1",
+          "description": "Opis sił działających na ciało i ich efektów."
+        },
+        {
+          "framework": "PL Przyroda",
+          "code": "2.1",
+          "description": "Zastosowanie sił w codziennym życiu."
+        },
+        {
+          "framework": "PL Biologia",
+          "code": "3.2",
+          "description": "Przyczyny i skutki zmian ruchu ciał."
+        }
+      ]
+    }
+  ],
+  "hardware_required": [
+    "LEGO Education SPIKE Prime (45678)"
+  ],
+  "software_used": [
+    "Aplikacja SPIKE",
+    "Język programowania Bloki Słów (Word Blocks)"
+  ],
+  "related_articles": [],
+  "related_courses": [
+    "Kurs SPIKE Prime dla początkujących",
+    "Kurs SPIKE Prime dla zaawansowanych"
+  ],
+  "tags": [
+    "spike-prime",
+    "spike-word-blocks",
+    "teacher"
+  ],
+  "pedagogical_focus": "Rozwój myślenia algorytmicznego, nauka przez działanie (learning by doing), praktyczne rozwiązywanie problemów i integracja wiedzy z obszaru STEAM.",
+  "source": "Notebook LM auto-conversion (RoboCamp PDF, Website, and TXT files)",
+  "created_at": "",
+  "updated_at": ""
+}
 
