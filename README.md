@@ -21,12 +21,17 @@ It supports:
 ## Repository Structure
 
 ```
-offer/                # products, courses, catalog
-blog/                 # posts and structured chapters
-mapping/              # standards and lesson mapping
-social/               # social media archive
-video/                # video metadata and transcripts
-meta/                 # schemas and documentation
+.github/               # workflows and CI configuration
+blog/                  # articles and structured chapters (EN/PL)
+  └── articles/        # individual blog articles
+    ├── 3d-printing-in-school/
+    ├── lego-science-review/
+    └── lego-spike-prime-review/
+offer/                 # product and educational offer data
+  ├── catalog/         # pricing catalogs (PL/EN)
+  ├── courses/         # course metadata and content
+social/                # social media archive and posts
+tools/                 # helper scripts, schemas and utilities
 ```
 
 ---
