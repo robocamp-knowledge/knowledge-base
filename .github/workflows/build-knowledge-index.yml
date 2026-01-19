@@ -1,6 +1,7 @@
 name: Build Knowledge Index
 
 on:
+  workflow_dispatch:  # 👈 umożliwia ręczne uruchamianie z zakładki Actions
   schedule:
     - cron: "0 4 * * 1" # every Monday at 4:00 UTC
   push:
