@@ -1,0 +1,29 @@
+name: Build Knowledge Index
+
+on:
+  schedule:
+    - cron: "0 4 * * 1" # every Monday at 4:00 UTC
+  push:
+    paths:
+      - "blog/articles/**"
+
+jobs:
+  build-knowledge-index:
+    runs-on: ubuntu-latest
+    name: Generate metadata/knowledge_index.json
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run Build Knowledge Index (Python)
+        run: |
+          python3 tools/build_knowledge_index/build_index.py
+
+      - name: Commit and push updated index
+        run: |
+          git config user.name "RoboCamp Bot"
+          git config user.email "bot@robocamp.eu"
+          git add metadata/knowledge_index.json
+          git commit -m "Auto-update knowledge index [skip ci]" || echo "No changes"
+          git push
