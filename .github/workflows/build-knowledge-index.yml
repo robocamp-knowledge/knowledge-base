@@ -8,6 +8,9 @@ on:
     paths:
       - "blog/articles/**"
 
+permissions:
+  contents: write    # 👈 to daje Actions prawo do commita i push
+
 jobs:
   build-knowledge-index:
     runs-on: ubuntu-latest
