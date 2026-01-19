@@ -7,6 +7,7 @@ It serves as the central, authoritative source of information for:
 - licensing plans and product metadata,
 - lesson-to-standard mapping (NGSS, ISTE, CCSS, CSTA, PL),
 - structured blog content (posts and chapter-level JSON),
+- knowledge index metadata (`metadata/knowledge_index.json`) for AI-assisted learning and semantic references,
 - archived social media content,
 - video metadata and transcripts,
 - JSON schemas for all knowledge objects.
@@ -27,6 +28,7 @@ blog/                  # articles and structured chapters (EN/PL)
     ├── 3d-printing-in-school/
     ├── lego-science-review/
     └── lego-spike-prime-review/
+metadata/              # automatically generated semantic indexes (e.g., knowledge_index.json)
 offer/                 # product and educational offer data
   ├── catalog/         # pricing catalogs (PL/EN)
   ├── courses/         # course metadata and content
