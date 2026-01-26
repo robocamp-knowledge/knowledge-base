@@ -1,0 +1,168 @@
+{
+  "kb_meta": {
+    "segmented_at": "2026-01-26",
+    "segmentation_version": "justyna-3.3",
+    "kb_change_type": "regeneration",
+    "kb_note": "pierwsza generacja w nowej wersji Justyny",
+    "source_last_updated": "2025-05-12"
+  },
+  "chapters": [
+    {
+      "article_id": "homeschool-robotics-made-easy",
+      "post_slug": "homeschool-robotics-made-easy",
+      "chapter_id": "1",
+      "language": "en",
+      "heading": "Homeschool robotics made easy: Start robotics at home with RoboCamp and LEGO",
+      "text": "Getting started with robotics and programming at home might feel overwhelming, especially if you don't have a tech background. But once you find your footing, it becomes a worthwhile activity you and your kids can genuinely enjoy together.\n\n**Working on STEM projects as part of your homeschooling curriculum builds valuable skills**: breaking down problems, coming up with creative solutions, and learning to tinker and adapt. It’s not just about robots and code—it’s about building things, exploring ideas, and seeing how your kid lights up when their creation moves for the first time.\n\nWhether you're just beginning or figuring out what tools to pick, **RoboCamp lesson plans and LEGO Education offer a path that meets you right where you are, so you and your kids can genuinely enjoy exploring programming and robotics together**.\n\n(Teach robotics and programming at home)",
+      "summary": "The chapter frames starting robotics and programming at home as potentially overwhelming without a tech background, but describes it as an activity families can enjoy together once they find their footing. It lists skills built through STEM projects in a homeschooling curriculum, including breaking down problems, creating solutions, and learning to tinker and adapt. It also names RoboCamp lesson plans and LEGO Education as resources to help families begin and choose tools for exploring programming and robotics together.",
+      "primary_questions": [
+        "What concern does the chapter mention about starting robotics and programming at home without a tech background?",
+        "Which specific skills does the chapter list as outcomes of doing STEM projects in a homeschooling curriculum?",
+        "How does the chapter describe STEM work as being about more than robots and code?",
+        "What example does the chapter give of a child’s reaction when a creation moves for the first time?",
+        "Which two resources does the chapter name as offering a path for exploring programming and robotics at home?",
+        "What situation does the chapter mention about families who are still figuring out what tools to pick?"
+      ],
+      "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/",
+      "last_updated": "2025-05-12"
+    },
+    {
+      "article_id": "homeschool-robotics-made-easy",
+      "post_slug": "homeschool-robotics-made-easy",
+      "chapter_id": "2",
+      "language": "en",
+      "heading": "Who is Qualified to Teach Robotics at Home",
+      "text": "### Who is Qualified to Teach Robotics at Home\n\n**You are.** If robotics has caught your interest, that’s really all it takes to begin.\n\nYou don’t need a tech background to get started—just curiosity. **Educational robotics is built for beginners, so you’ll pick up what you need as you go.** At a basic level, it’s about motors that make things move, sensors that respond to the world around them, and code that ties it all together.\n\nBeginner robots are designed to be approachable. Some come with short guides or video tutorials, but step-by-step lesson plans with clear explanations are what truly make a difference (that’s exactly why we created RoboCamp the way we did).\n\nYou can check in with homeschool groups online or lean on a structured curriculum. It’s all manageable—even if you are learning together with your students.\n\nDon’t hold back. **With a good resource and a bit of time, you’ll grow more confident with every new build.**\n\n[(Get access to RoboCamp lesson plans)](https://robocamp.typeform.com/robocamp-offer?utm_source=website&utm_medium=blog&utm_campaign=homeshool)",
+      "summary": "The chapter states that a parent is qualified to teach robotics at home if robotics has caught their interest, and it says a tech background is not required. It describes beginner educational robotics in terms of motors, sensors, and code working together. It mentions learning support options such as short guides or video tutorials, emphasizes step-by-step lesson plans with clear explanations, and notes help from homeschool groups online or a structured curriculum.",
+      "primary_questions": [
+        "Who does the chapter identify as qualified to teach robotics at home?",
+        "What does the chapter say a parent needs in order to begin teaching robotics at home?",
+        "Which three basic components does the chapter list as making up educational robotics at a basic level?",
+        "What kinds of beginner materials does the chapter mention, and which type does it say makes the biggest difference?",
+        "What two support options does the chapter suggest for homeschoolers who want help while learning robotics?",
+        "What change in confidence does the chapter describe as happening with time and a good resource?"
+      ],
+      "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#who-is-qualified-to-teach-robotics-at-home",
+      "last_updated": "2025-05-12"
+    },
+    {
+      "article_id": "homeschool-robotics-made-easy",
+      "post_slug": "homeschool-robotics-made-easy",
+      "chapter_id": "3",
+      "language": "en",
+      "heading": "Why LEGO Sets are Perfect for Homeschooling",
+      "text": "### Why LEGO Sets are Perfect for Homeschooling\n\n* LEGO sets fit homeschooling well—kids learn by building and exploring\n* Kits are ready-to-use and grow with your kid by adjusting project difficulty\n* RoboCamp’s step-by-step lessons give parents the confidence to teach robotics—even if they’ve never coded before\n\nIf the idea of teaching robotics and programming at home makes you pause, you're not alone. But with the right resources, what seems tricky at first often turns out to be a rewarding experience for both you and your kid.\n\n**Because kids naturally learn by doing, LEGO sets are an ideal fit.** Through building and experimenting, they start understanding how machines work and how to control them with code. And since most kids already love playing with LEGO, there's no need to convince them to dive in—they're already halfway there. STEM becomes something they want to explore, not just another subject to check off the list.\n\nThe kits are ready to use right out of the box, with intuitive software designed for both kids and parents. A single LEGO Education set can serve multiple age groups (6–9 years and 9–12 years), simply by adjusting project complexity and programming language.\n\nAnd if you already have a box of LEGO bricks at home (which many families do), you can enhance RoboCamp projects even further, extending creativity and expanding learning time without additional investment.\n\n>\"Before RoboCamp, we were guessing our way through coding lessons,\" said Marta, a homeschooling parent of two. \"Now my kids look forward to 'robot day'—and I do, too.\"\n\nWith the kind of support RoboCamp offers—clear lessons, easy-to-follow instructions, and plenty of visuals—it’s much easier to feel prepared, even if this is your first time teaching anything tech-related. Whether you're just starting out or have a few years of experience under your belt, having that extra structure makes a big difference.",
+      "summary": "The chapter explains that LEGO sets fit homeschooling because kids learn by building and exploring, and it says kits can scale by adjusting project difficulty. It notes that LEGO Education kits use intuitive software for both kids and parents, and that one set can serve ages 6–9 and 9–12 by changing project complexity and programming language. It also mentions using extra LEGO bricks at home to expand RoboCamp projects and includes a quote from Marta about moving from guessing through coding lessons to looking forward to “robot day.”",
+      "primary_questions": [
+        "What three bullet points does the chapter list to explain why LEGO sets fit homeschooling?",
+        "How does the chapter describe the way kids learn that makes LEGO sets an ideal fit for robotics and programming?",
+        "What does the chapter say the kits are like “right out of the box,” and who is the software designed for?",
+        "Which two age ranges does the chapter say a single LEGO Education set can serve, and what adjustments make that possible?",
+        "What does the chapter say families can do if they already have a box of LEGO bricks at home?",
+        "Who is quoted in the chapter, and what change does she describe about coding lessons and “robot day”?"
+      ],
+      "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#why-lego-sets-are-perfect-for-homeschooling",
+      "last_updated": "2025-05-12"
+    },
+    {
+      "article_id": "homeschool-robotics-made-easy",
+      "post_slug": "homeschool-robotics-made-easy",
+      "chapter_id": "4",
+      "language": "en",
+      "heading": "LEGO Education WeDo 2.0 – best for younger kids (ages 6–9)",
+      "text": "#### LEGO Education WeDo 2.0 – best for younger kids (ages 6–9)\n\n(Examples of robots made with WeDo 2.0)\n\nWeDo 2.0 is a beginner-friendly robotics kit ideal for early learners.\n\nAlthough it’s now officially considered a \"retired product,\" it remains one of LEGO Education’s best-value sets. You can still find used kits for around $150–200 online, which matches the original price when first bought as new.\n\nCurious about what else the LEGO WeDo 2.0 kit can do? Dive into our blog for in-depth articles and [a full WeDo 2.0 review](https://www.robocamp.eu/en/blog/lego-education-wedo2-review/), packed with examples, ideas, and hands-on tips.\n\n**Parts included:**\n\n* 280+ LEGO elements\n* Smart hub with Bluetooth\n* Motor, tilt sensor, and distance sensor\n* Durable storage box with labeled sorting trays\n* Powered by either rechargeable battery or 2x AA batteries (not included)\n\n**Programming options:**\n\n* Icon blocks in WeDo 2.0 software (based on Scratch)\n* Fully compatible with Scratch 3.0\n* Available on Windows, macOS, iOS, Android, and Chromebook\n\n**Key advantages of WeDo 2.0:**\n\n* Simple, visual coding perfect for beginners\n* Great hands-on introduction to robotics and mechanics\n* Fully compatible with RoboCamp curriculum\n* Perfect for individual learners or co-op groups\n\n**Examples of robots you can build:**\n\n* Motorcycle that detects objects\n* Ferris wheel using belt drives and gears\n* Owl robot using tilt sensors and conditional programming",
+      "summary": "The chapter presents LEGO Education WeDo 2.0 as a beginner-friendly robotics kit for ages 6–9 and notes it is officially considered a retired product. It says used kits can still be found for around $150–200 online and lists included parts such as 280+ LEGO elements, a Bluetooth smart hub, a motor, and tilt and distance sensors. It also lists programming options including WeDo 2.0 icon blocks based on Scratch, compatibility with Scratch 3.0, and availability on Windows, macOS, iOS, Android, and Chromebook.",
+      "primary_questions": [
+        "What age range does the chapter specify for LEGO Education WeDo 2.0?",
+        "How does the chapter describe the product status of LEGO Education WeDo 2.0?",
+        "What used price range does the chapter mention for LEGO Education WeDo 2.0 kits online?",
+        "Which components does the chapter list under “Parts included” for LEGO Education WeDo 2.0?",
+        "What programming options and Scratch compatibility does the chapter list for LEGO Education WeDo 2.0?",
+        "Which platforms does the chapter say LEGO Education WeDo 2.0 is available on?",
+        "What example robots does the chapter list that can be built with LEGO Education WeDo 2.0?"
+      ],
+      "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#lego-education-wedo-20-best-for-younger-kids-ages-69",
+      "last_updated": "2025-05-12"
+    },
+    {
+      "article_id": "homeschool-robotics-made-easy",
+      "post_slug": "homeschool-robotics-made-easy",
+      "chapter_id": "5",
+      "language": "en",
+      "heading": "LEGO Education SPIKE Prime – best for older students (ages 9+)",
+      "text": "#### LEGO Education SPIKE Prime – best for older students (ages 9+)\n\n(Examples of robots made with LEGO SPIKE Prime)\n\nSPIKE Prime is the most advanced and flexible set currently offered by LEGO Education, making it a top choice for any homeschool STEM education program.\n\nIt’s a long-term investment, supporting 2–4 years of progressive STEM learning—from block-based coding to professional-level Python programming.\n\nIf you want to learn more about the LEGO SPIKE Prime set, check out our [other articles about the LEGO SPIKE series](https://www.robocamp.eu/en/blog/tag/spike/) and our [full review of SPIKE Prime](https://www.robocamp.eu/en/blog/lego-spike-prime-review/) on our blog.\n\n**Parts included:**\n\n* 520+ LEGO Technic elements\n* Smarthub with 6 input/output ports, 5x5 LED matrix, gyroscope, speaker\n* 2x large angular motors, 1x medium angular motor\n* Distance sensor, color sensor, and force sensor\n* Rechargeable battery and USB-C cable (included)\n* Durable storage box with labeled sorting trays\n\n**Programming options:**\n\n* Icon Blocks\n* Word Blocks (similar to Scratch)\n* Python for advanced learners\n* Works on Windows, macOS, iPadOS, and Chromebook\n\n**Key Advantages of SPIKE Prime:**\n\n* Scales from beginner to expert learning paths\n* Perfect for competitions and advanced STEM projects\n* Strong sensor/motor support for complex builds\n* Fully compatible with RoboCamp’s three-level curriculum\n\n**Examples of robots you can build:**\n\n* Bumper car with obstacle detection\n* Robotic manipulator for automation control\n* Claw machine demonstrating multi-threading concepts\n\n🎥 See a sample video lesson using the LEGO SPIKE Prime set:\n\n{{ macro.embed_youtube('Rw_Q9j-lA78') }}",
+      "summary": "The chapter describes LEGO Education SPIKE Prime as a set for students ages 9+ and states it supports 2–4 years of progressive STEM learning from block-based coding to Python. It lists parts such as 520+ LEGO Technic elements and a Smarthub with 6 input/output ports, a 5x5 LED matrix, a gyroscope, and a speaker, along with sensors and motors. It also lists programming options (Icon Blocks, Word Blocks, Python), the supported platforms (Windows, macOS, iPadOS, Chromebook), and example builds including a bumper car, a robotic manipulator, and a claw machine.",
+      "primary_questions": [
+        "What age group does the chapter specify for LEGO Education SPIKE Prime?",
+        "What duration does the chapter say LEGO Education SPIKE Prime can support for progressive STEM learning?",
+        "Which learning progression does the chapter describe from block-based coding to Python programming?",
+        "What hub features does the chapter list for the Smarthub included with LEGO Education SPIKE Prime?",
+        "Which motors and sensors does the chapter list as included with LEGO Education SPIKE Prime?",
+        "Which programming options and platforms does the chapter list for LEGO Education SPIKE Prime?",
+        "What example robots does the chapter list that can be built with LEGO Education SPIKE Prime?"
+      ],
+      "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#lego-education-spike-prime-best-for-older-students-ages-9",
+      "last_updated": "2025-05-12"
+    },
+    {
+      "article_id": "homeschool-robotics-made-easy",
+      "post_slug": "homeschool-robotics-made-easy",
+      "chapter_id": "6",
+      "language": "en",
+      "heading": "Quick Comparison : WeDo 2.0 and SPIKE Prime",
+      "text": "#### Quick Comparison : WeDo 2.0 and SPIKE Prime\n\nHere's a condensed side-by-side comparison to help you decide which LEGO Education set fits your homeschool needs best. This table outlines all the essential features—including ages recommended by our team, platform compatibility, and curriculum support.\n\nUse this quick reference to see which set aligns with your child’s learning stage and your teaching goals.\n\n(What LEGO set is best for homeschooling?)\n\n|     | [LEGO WeDo 2.0](https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#lego-education-wedo-20-best-for-younger-kids-ages-69) | [LEGO SPIKE Prime](https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#lego-education-spike-prime-best-for-older-students-ages-9) |\n| :---------------- | :----------------------: | :--------------------------: |\n| **Recommended Age** |   6–9 years old  | 9+ years old |\n| **Number of elements**  |   280 elements   | 520 elements |\n| **RoboCamp Curriculum**   |  95 lesson plans   | 61 lesson plans, more soon |\n| **Sensors** |  tilt, distance   | tilt, distance, color, force |\n| **Motors** |  1 motor   | 1 large, 2 medium angular motors |\n| **Programming Languages** |  WeDo 2.0 blocks, Scratch 3.0   | Icon Blocks, Word Blocks, Python |\n| **Platform Compatibility** |  Windows, macOS, iOS, Android, Chromebook   | Windows, macOS, iPadOS, Chromebook |\n| **Estimated Price** |  $150-200 (used)   | $400+ (new) |\n\n----\n\n[(Get access to RoboCamp lesson plans)](https://robocamp.typeform.com/robocamp-offer?utm_source=website&utm_medium=blog&utm_campaign=homeshool)",
+      "summary": "The chapter provides a side-by-side table comparing LEGO Education WeDo 2.0 and LEGO Education SPIKE Prime across essential features. It contrasts recommended age (6–9 vs 9+), number of elements (280 vs 520), and RoboCamp curriculum counts (95 lesson plans vs 61 lesson plans, more soon). It also compares sensors, motors, programming languages, platform compatibility, and estimated prices ($150–200 used vs $400+ new).",
+      "primary_questions": [
+        "What recommended age ranges does the table list for LEGO Education WeDo 2.0 and LEGO Education SPIKE Prime?",
+        "How many elements does the table list for LEGO Education WeDo 2.0 and LEGO Education SPIKE Prime?",
+        "What RoboCamp curriculum counts does the table list for the two sets, including the note about more lessons?",
+        "Which sensors are listed for LEGO Education WeDo 2.0 compared with LEGO Education SPIKE Prime?",
+        "What motor configurations does the table list for LEGO Education WeDo 2.0 and LEGO Education SPIKE Prime?",
+        "Which programming languages does the table list for each set?",
+        "What estimated price ranges does the table list for LEGO Education WeDo 2.0 and LEGO Education SPIKE Prime?"
+      ],
+      "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#quick-comparison-wedo-20-and-spike-prime",
+      "last_updated": "2025-05-12"
+    },
+    {
+      "article_id": "homeschool-robotics-made-easy",
+      "post_slug": "homeschool-robotics-made-easy",
+      "chapter_id": "7",
+      "language": "en",
+      "heading": "Why We Recommend Only These Two Sets for Homeschooling?",
+      "text": "#### Why We Recommend Only These Two Sets for Homeschooling?\n\nAfter years of hands-on work with LEGO Education, we’ve come to trust two sets above all for homeschool STEM learning: SPIKE Prime and WeDo 2.0. We’ve created more than 100 complete lesson plans for them, adding up to more than 200 hours of structured activities. Compare that with how quickly a regular LEGO set is used up—and it’s clear how much more learning and engagement these kits deliver.\n\n**They’re not just fun; they keep kids building, thinking, and learning for months**.\n\nWe also appreciate how adaptable these sets are. **WeDo 2.0 works seamlessly with Scratch, while SPIKE Prime connects with creative tools like Tinkercad**—ideal for designing and printing 3D models or even prepping laser-cut parts. That kind of flexibility is hard to find elsewhere.\n\nWe know homeschool budgets are carefully planned. That’s exactly why we recommend these two sets—they’ve consistently offered the best value in helping kids develop real, lasting STEM skills at home.\n\n**Are you already using a different LEGO Education set, like SPIKE Essential or LEGO MINDSTORMS?** That’s alright too, use what you have! We’ve worked with these kits for years and know how to get the most out of them. Check our lesson plans created [for SPIKE Essential](https://www.robocamp.eu/en/lessons/tag/spike-essential/#lessons) and [for MINDSTORMS](https://www.robocamp.eu/en/lessons/tag/mindstorms/) kits.\n\nRoboCamp courses are designed to help you make the absolute best use of what you already own, so you can keep moving forward without needing to buy anything new right away.",
+      "summary": "The chapter states that RoboCamp trusts two LEGO Education sets for homeschool STEM learning: SPIKE Prime and WeDo 2.0. It says RoboCamp created more than 100 complete lesson plans for them, totaling more than 200 hours of structured activities, and contrasts this with how quickly a regular LEGO set is used up. It also notes that WeDo 2.0 works with Scratch, SPIKE Prime connects with tools like Tinkercad, and that lesson plans are available for SPIKE Essential and LEGO MINDSTORMS as well.",
+      "primary_questions": [
+        "Which two sets does the chapter say RoboCamp trusts for homeschool STEM learning?",
+        "How many complete lesson plans does the chapter say RoboCamp created for SPIKE Prime and WeDo 2.0?",
+        "What total number of structured activity hours does the chapter attribute to those lesson plans?",
+        "What comparison does the chapter make between these educational kits and how quickly a regular LEGO set is used up?",
+        "What does the chapter say about WeDo 2.0 working with Scratch?",
+        "Which creative tool does the chapter mention SPIKE Prime connecting with for designing and printing 3D models or prepping laser-cut parts?",
+        "Which other LEGO Education sets does the chapter mention having lesson plans for besides SPIKE Prime and WeDo 2.0?"
+      ],
+      "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#why-we-recommend-only-these-two-sets-for-homeschooling",
+      "last_updated": "2025-05-12"
+    },
+    {
+      "article_id": "homeschool-robotics-made-easy",
+      "post_slug": "homeschool-robotics-made-easy",
+      "chapter_id": "8",
+      "language": "en",
+      "heading": "Lesson Plans for Homeschoolers: How RoboCamp Makes Robotics Easy",
+      "text": "### Lesson Plans for Homeschoolers: How RoboCamp Makes Robotics Easy\n\nWhichever LEGO Education set you choose, RoboCamp is here to make sure you’re not left guessing. **You’ll have the tools and guidance to dive into robotics and programming at home—with clarity, not confusion.**\n\n>“We use the lesson plans right after lunch, two days a week,” says homeschooling mom Jess. “It’s become our calm, focused time—no planning stress on my end.”\n\nIf your kitchen doubles as a science lab and your lesson planner already feels full, you’re not alone. Many homeschool families want to add STEM, but worry it’ll take too much prep. **That’s where RoboCamp comes in—it’s like having a tech-savvy co-teacher who’s always ready.**\n\nWe’ve worked closely with homeschool families for years and built our resources to match what actually works, not just what looks good on paper. Our lesson plans are secular and designed to be flexible—whether you use a structured approach or follow your own rhythm.\n\n**With RoboCamp, you get:**\n\n* Full access to our library of step-by-step robotics and programming lesson plans for homeschoolers\n* Beginner-friendly coding instructions (Icon Blocks, Scratch, Word Blocks, Python)\n* Courses divided by level: beginner, intermediate, expert\n* Clear, flexible lesson structure—ideal for one kid or a group\n* Regular updates and new content to keep things fresh\n* No planning required: just open the lesson and go\n\n**One thing that truly sets RoboCamp apart: as a parent, you’re not limited to a handful of sample lessons—you get full access to the entire library.** It’s a powerful tool that puts you in the driver’s seat, giving you the freedom to plan ahead, explore options, and guide your kid’s learning with confidence.\n\nYou can distribute assignments to your kids regularly—for example, one per week or two per week—ensuring systematic learning and achieving the best educational outcomes.\n\n### Get Access to RoboCamp for Homeschoolers\n\nEvery homeschool setup has its own rhythm, and we’re ready to meet you right where you are. To get access to our lesson plans at a discount, fill out a short form—let us know what your goals are, which LEGO set you’ve got, and how your kids like to learn.\n\nWe’ll create a personalized RoboCamp plan with lesson plans for homeschoolers, tailored to your kids’ pace and interests. **It’s the easiest way to start programming for kids—from your own home.**\n\nAs a homeschooler, you can **get a discount of up to 80%!** Don't wait, ask for the quote now.\n[(Get access to RoboCamp lesson plans)](https://robocamp.typeform.com/robocamp-offer?utm_source=website&utm_medium=blog&utm_campaign=homeshool)\n\n**Sound good? Share your setup and let’s build something exciting together.**\n\n<br>\n\n(Build robots at home with RoboCamp)",
+      "summary": "The chapter describes RoboCamp lesson plans for homeschoolers as a way to start robotics and programming at home with guidance, and it includes a quote about using the lessons after lunch two days a week with no planning stress. It lists what access includes, such as step-by-step lesson plans, coding instructions for Icon Blocks, Scratch, Word Blocks, and Python, and courses divided into beginner, intermediate, and expert levels. It also states the lesson plans are secular and flexible, and it invites families to fill out a form for a personalized plan and a discount of up to 80%.",
+      "primary_questions": [
+        "What timing and weekly frequency does the quoted parent describe for using RoboCamp lesson plans, and what effect does she mention on planning stress?",
+        "What concern about adding STEM does the chapter describe in relation to homeschool preparation time?",
+        "What does the chapter say about the lesson plans being secular and designed to be flexible for different homeschooling rhythms?",
+        "Which coding instruction types and programming options does the chapter list as available through RoboCamp?",
+        "How are RoboCamp courses divided by level according to the chapter?",
+        "What does the chapter say parents receive beyond a handful of sample lessons when they get full access to the library?",
+        "What details does the chapter ask families to provide in the discount form, and what maximum discount percentage is mentioned?"
+      ],
+      "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#lesson-plans-for-homeschoolers-how-robocamp-makes-robotics-easy",
+      "last_updated": "2025-05-12"
+    }
+  ]
+}
