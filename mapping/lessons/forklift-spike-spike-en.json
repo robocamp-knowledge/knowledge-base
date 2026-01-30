@@ -1,0 +1,40 @@
+{
+  "exercise_slug": "forklift-spike-spike-en",
+  "type": "STANDARDS_ALIGNMENT_SUMMARY",
+  "schema_version": "synthesize_v1.1",
+  "based_on_confirmed_extract_only": true,
+  "no_inferred_elements": true,
+  "standards": [
+    {
+      "standard_family": "NGSS",
+      "statement_id": "ngss:3-5-ETS1-2",
+      "code": "3-5-ETS1-2",
+      "text": "Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem.",
+      "alignment_explanation": "The exercise involves testing launches at multiple distances, evaluating outcomes, and manually adjusting stored launch power values under fixed constraints, explicitly comparing which distance–power solutions work best.",
+      "not_covered_or_out_of_scope": [
+        "Comparison of different physical designs",
+        "Formal optimization metrics beyond observed success or failure"
+      ]
+    },
+    {
+      "standard_family": "CSTA",
+      "statement_id": "csta:1A-AP-08",
+      "code": "1A-AP-08",
+      "text": "Model daily processes by creating and following algorithms (sets of step-by-step instructions) to complete tasks.",
+      "alignment_explanation": "The launcher behavior is controlled by a clearly defined step-by-step algorithm that measures distance, selects launch power, activates motors, pauses, and resets the mechanism.",
+      "not_covered_or_out_of_scope": [
+        "Algorithm abstraction beyond explicit step sequences"
+      ]
+    },
+    {
+      "standard_family": "CSTA",
+      "statement_id": "csta:1A-AP-10",
+      "code": "1A-AP-10",
+      "text": "Develop programs with sequences and simple loops, to express ideas or address a problem.",
+      "alignment_explanation": "The program uses explicit command sequences along with repeat and forever loops, conditionals, and arithmetic operations to manage distance-based launch behavior.",
+      "not_covered_or_out_of_scope": [
+        "Advanced or nested loop structures"
+      ]
+    }
+  ]
+}
