@@ -717,7 +717,7 @@
   },
   {
     "Lp": "5",
-    "Plan": "SPIKE Prime Programming Course Beginner",
+    "Plan": "RoboCamp - Kurs programowania SPIKE Prime dla początkujących",
     "Category": "Course",
     "Slug_EN": "spike-prime-beginner",
     "Description": "The course includes 15 structured lesson plans (45 minutes each) for programming in Word Blocks with LEGO® Education SPIKE™ Prime. Designed as simple starter lessons for early-stage learners and short class periods, it introduces motor control, sensors (touch, distance, color, tilt), loops, and conditionals through step-by-step builds. Sample projects include Swing, Safe Box, and Rangefinder. The curriculum is aligned with STEAM and 21st-century skills and is planned to expand to a total of 25 lessons (same 45-minute format).",
@@ -896,7 +896,7 @@
   },
   {
     "Lp": "6",
-    "Plan": "SPIKE Prime Programming Course Intermediate",
+    "Plan": "RoboCamp - Kurs programowania SPIKE Prime dla średniozaawansowanych",
     "Category": "Course",
     "Slug_EN": "spike-prime-intermediate",
     "Description": "The Intermediate SPIKE Prime course is a full-year, 25-lesson curriculum that transforms LEGO Education SPIKE Prime into an engaging gateway to coding, engineering and STEAM for ages 9-13+. Lessons begin with simple sequences and build up to variables, multithreading and fully autonomous robot systems. Designed for teachers and facilitators who want a powerful, ready-to-teach robotics program with minimal coding background required.",
@@ -2342,7 +2342,7 @@
     "Instructor_Count": "1",
     "License_Scope": "Single instructor",
     "Hardware_Required_list": "SPIKE Prime (existing sets required)",
-    "Software_Used_list": "Word Blocks, TinkerCad",
+    "Software_Used_list": "Word Blocks, TinkerCad, xTool Creative Space",
     "Age_Range": "10-14",
     "Skill_Level": "Intermediate",
     "Skill_Progression": "Yes",
@@ -2358,6 +2358,185 @@
           "Base": "0",
           "3D_Printing": "0",
           "Laser_Cutting": "10"
+        }
+      },
+      "WeDo20": "0",
+      "WeDo1": "0",
+      "EV3": {
+        "Education": "0",
+        "Home": "0"
+      },
+      "mBot": {
+        "Laser_Cutting": "0"
+      }
+    },
+    "Lessons_Science_1_3": "0",
+    "Lessons_Science_4_6": "0",
+    "Lessons_Science_7_9": "0",
+    "Lessons_CSAI_1_3": "0",
+    "Lessons_CSAI_4_6": "0",
+    "Lessons_CSAI_7_9": "0",
+    "Base": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          },
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        },
+        "6M": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        },
+        "3M": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        }
+      }
+    },
+    "Special": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          },
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        }
+      }
+    },
+    "Renewal": {
+      "Subscription": {
+        "1Y": {
+          "_Promo": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          },
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          },
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        }
+      }
+    },
+    "NGO": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        },
+        "6M": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        }
+      }
+    },
+    "Homeschool": {
+      "_NoSub": {
+        "_1Y": {
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        },
+        "_2Y": {
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "Lp": "15",
+    "Plan": "Cyfrowy Uczeń SP 4-8 15K",
+    "Category": "reference_quote",
+    "Slug_EN": "sample-quote-spike-prime-initial-lab-setup-4-8",
+    "Description": "Przykładowa, niewiążąca wycena początkowa dla szkół i placówek edukacyjnych rozpoczynających naukę robotyki od podstaw z wykorzystaniem zestawów LEGO® Education SPIKE™ Prime (klasy 4–8).\n\nWycena obejmuje kompletne zestawy robotyczne SPIKE Prime, matę warsztatową do pracy z robotami oraz roczne licencje RoboCamp na kursy programowania na poziomie początkującym i średniozaawansowanym. Rozwiązanie zostało zaprojektowane jako pełne, gotowe do wdrożenia środowisko dydaktyczne umożliwiające prowadzenie regularnych zajęć z robotyki i programowania bez wcześniejszego zaplecza sprzętowego.\n\nDokument ma charakter referencyjny i służy planowaniu budżetu pracowni robotyki, w szczególności w projektach grantowych i programach wyposażenia szkół.",
+    "Product_description_URL": null,
+    "Reference_Document_URL": "https://drive.google.com/file/d/1V7-IE9si6muTXAsar7eQobdhWDjpn9Ho/view",
+    "Reference_Document_Type:": "sample_quote_pdf",
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
+    "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, STEM clubs / makerspaces, Schools starting robotics programs",
+    "Buyer_Role_list": "School principal, Program director, After-school owner, ICT / STEM coordinator",
+    "Instructor_Count": "1 or more",
+    "License_Scope": "Single or dual instructor (depending on course allocation)",
+    "Hardware_Required_list": "LEGO Education SPIKE Prime (included in this setup)",
+    "Software_Used_list": "Word Blocks",
+    "Age_Range": "7-9, 8-11",
+    "Skill_Level": "Beginner, Intermediate",
+    "Skill_Progression": "Yes",
+    "Skill_Progression_Type": "Across courses",
+    "Outcomes_list": "Fully equipped LEGO SPIKE Prime robotics lab ready for immediate classroom use, structured progression from beginner to intermediate programming skills, ability to run regular robotics lessons for grades 4–8 without prior robotics infrastructure.",
+    "Includes": "LEGO Education SPIKE Prime core robot sets with motors, sensors, and programmable hub, RoboCamp workshop mat for robotics activities, RoboCamp – Kurs programowania SPIKE Prime dla początkujących\r\n(12-month digital license), RoboCamp – Kurs programowania SPIKE Prime dla średniozaawansowanych (12-month digital license).",
+    "Why_This_Course_or_Plan": "Provides a complete entry point into robotics education using LEGO SPIKE Prime for schools starting from scratch. Combines essential hardware and a structured teaching pathway that guides teachers and students from basic programming concepts to more advanced robotics applications without requiring prior experience or additional infrastructure.",
+    "Lessons": {
+      "Total": "50",
+      "SPIKE": {
+        "Essential": "0",
+        "Prime": {
+          "Base": "50",
+          "3D_Printing": "0",
+          "Laser_Cutting": "0"
         }
       },
       "WeDo20": "0",
