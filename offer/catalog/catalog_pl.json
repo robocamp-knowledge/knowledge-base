@@ -6,6 +6,10 @@
     "Slug_EN": "teacher-plan",
     "Description": "The RoboCamp Teacher Plan provides 1 year of unlimited access to all RoboCamp courses, covering over 298 lesson plans across LEGO® Education sets. This includes 25 SPIKE Essential lessons and 85 SPIKE Prime lessons (Beginner, Intermediate, Expert, and Short). The plan also features WeDo 2.0, EV3, and 3D Printing & Laser Cutting courses. All future updates and new courses are automatically added to the teacher’s account. The subscription is intended for one teacher and their students.",
     "Product_description_URL": null,
+    "Reference_Document_URL": null,
+    "Reference_Document_Type:": null,
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
     "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors, Parents / homeschool",
     "Buyer_Role_list": "Teacher, After-school owner",
     "Instructor_Count": "1 or more",
@@ -181,6 +185,10 @@
     "Slug_EN": "school-plan",
     "Description": null,
     "Product_description_URL": null,
+    "Reference_Document_URL": null,
+    "Reference_Document_Type:": null,
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
     "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors, Parents / homeschool",
     "Buyer_Role_list": "Teacher, School principal, Program director, After-school owner",
     "Instructor_Count": "2",
@@ -356,6 +364,10 @@
     "Slug_EN": "school-plan",
     "Description": "The RoboCamp School Plan provides 1 year of unlimited access to all RoboCamp courses for all teachers in a school. It includes over 266 lesson plans, with 25 for SPIKE Essential and 65 for SPIKE Prime, plus WeDo 2.0, EV3, and 3D Printing & Laser Cutting. Any new lessons or courses released during the subscription are added automatically, ensuring the entire school benefits from the latest content.",
     "Product_description_URL": null,
+    "Reference_Document_URL": null,
+    "Reference_Document_Type:": null,
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
     "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors, Parents / homeschool",
     "Buyer_Role_list": "School principal, Program director, After-school owner",
     "Instructor_Count": "2-10",
@@ -531,6 +543,10 @@
     "Slug_EN": "spike-essential-early",
     "Description": "The course includes 25 structured lesson plans ( 60 minutes each) introducing students to programming with Icon Blocks using LEGO® Education SPIKE™ Essential. Step by step, students build and code original robot designs while learning the basics of coding, sensors, and mechanics. The curriculum is designed for young learners, helping them develop fundamental programming and engineering skills in a fun and structured way, aligned with STEAM and 21st-century education standards.",
     "Product_description_URL": "https://www.robocamp.pl/pl/course-spike-essential-early-learners/",
+    "Reference_Document_URL": null,
+    "Reference_Document_Type:": null,
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
     "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors, Parents / homeschool",
     "Buyer_Role_list": "Teacher, After-school owner, School principal, Program director",
     "Instructor_Count": "1 or more",
@@ -706,6 +722,10 @@
     "Slug_EN": "spike-prime-beginner",
     "Description": "The course includes 15 structured lesson plans (45 minutes each) for programming in Word Blocks with LEGO® Education SPIKE™ Prime. Designed as simple starter lessons for early-stage learners and short class periods, it introduces motor control, sensors (touch, distance, color, tilt), loops, and conditionals through step-by-step builds. Sample projects include Swing, Safe Box, and Rangefinder. The curriculum is aligned with STEAM and 21st-century skills and is planned to expand to a total of 25 lessons (same 45-minute format).",
     "Product_description_URL": "https://www.robocamp.pl/pl/course-spike-prime-beginner/",
+    "Reference_Document_URL": null,
+    "Reference_Document_Type:": null,
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
     "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors, Parents / homeschool",
     "Buyer_Role_list": "Teacher, After-school owner, School principal, Program director",
     "Instructor_Count": "1 or more",
@@ -881,6 +901,10 @@
     "Slug_EN": "spike-prime-intermediate",
     "Description": "The Intermediate SPIKE Prime course is a full-year, 25-lesson curriculum that transforms LEGO Education SPIKE Prime into an engaging gateway to coding, engineering and STEAM for ages 9-13+. Lessons begin with simple sequences and build up to variables, multithreading and fully autonomous robot systems. Designed for teachers and facilitators who want a powerful, ready-to-teach robotics program with minimal coding background required.",
     "Product_description_URL": "https://www.robocamp.pl/pl/course-spike-prime-intermediate/",
+    "Reference_Document_URL": null,
+    "Reference_Document_Type:": null,
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
     "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors, Parents / homeschool",
     "Buyer_Role_list": "Teacher, After-school owner, School principal, Program director",
     "Instructor_Count": "1 or more",
@@ -1056,6 +1080,10 @@
     "Slug_EN": "spike-prime-expert",
     "Description": "The course currently offers 7 lesson plans (expanding to 10) that teach students how to design and 3D print custom LEGO-compatible parts for SPIKE Prime robots. Using mainly Tinkercad, with selected lessons in Fusion 360 and Blender, students learn step by step how to model small, practical elements that can be quickly produced on a school 3D printer. By enhancing robots with original parts such as manipulators, turbines, or sensors, students experience both engineering creativity and the real-world use of digital fabrication tools.\nThis course is currently available in beta version, offered at a reduced price until the full curriculum of 10 lessons is completed.",
     "Product_description_URL": "https://www.robocamp.pl/pl/course-spike-prime-expert/",
+    "Reference_Document_URL": null,
+    "Reference_Document_Type:": null,
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
     "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors, Parents / homeschool",
     "Buyer_Role_list": "Teacher, After-school owner, School principal, Program director",
     "Instructor_Count": "1 or more",
@@ -1231,6 +1259,10 @@
     "Slug_EN": "3d-printing-spike",
     "Description": "The course currently offers 7 lesson plans (expanding to 10) that teach students how to design and 3D print custom LEGO-compatible parts for SPIKE Prime robots. Using mainly Tinkercad, with selected lessons in Fusion 360 and Blender, students learn step by step how to model small, practical elements that can be quickly produced on a school 3D printer. By enhancing robots with original parts such as manipulators, turbines, or sensors, students experience both engineering creativity and the real-world use of digital fabrication tools. The course helps schools make effective use of their 3D printers, often underused due to the time-consuming nature of larger prints.",
     "Product_description_URL": null,
+    "Reference_Document_URL": null,
+    "Reference_Document_Type:": null,
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
     "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors, Parents / homeschool",
     "Buyer_Role_list": "Teacher, After-school owner, School principal, Program director",
     "Instructor_Count": "1 or more",
@@ -1406,6 +1438,10 @@
     "Slug_EN": "2d-laser-spike",
     "Description": "The course currently offers 4 lesson plans (expanding to 10) that teach students how to design and laser cut custom wooden parts for LEGO® Education SPIKE™ Prime robots. Using Tinkercad for modeling, students create components that can be cut in just minutes, making laser cutting a faster and more practical alternative to 3D printing in the classroom. The wooden parts add both functionality and aesthetics, turning robotics into a cross-disciplinary experience that combines engineering and art (STAM).\nThis course is currently available in beta version, offered at a reduced price until the full curriculum of 10 lessons is completed.",
     "Product_description_URL": null,
+    "Reference_Document_URL": null,
+    "Reference_Document_Type:": null,
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
     "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors, Parents / homeschool",
     "Buyer_Role_list": "Teacher, After-school owner, School principal, Program director",
     "Instructor_Count": "1 or more",
@@ -1581,6 +1617,10 @@
     "Slug_EN": "wedo20-intermediate",
     "Description": "The course includes 25 structured lesson plans (60 minutes each) for programming in LEGO® Education WeDo 2.0. Students build and code original robots while learning key concepts such as loops, variables, and sensor input through step-by-step instructions. The curriculum provides a full-year learning path, from simple projects to advanced problem-solving, helping students develop logical thinking, creativity, and engineering skills. Although LEGO has officially discontinued support for WeDo 2.0, the set can still be successfully used in schools, especially as a bridge between SPIKE Essential and SPIKE Prime, making it ideal for 8–9 year olds.",
     "Product_description_URL": null,
+    "Reference_Document_URL": null,
+    "Reference_Document_Type:": null,
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
     "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors, Parents / homeschool",
     "Buyer_Role_list": "Teacher, After-school owner, School principal, Program director",
     "Instructor_Count": "1 or more",
@@ -1756,6 +1796,10 @@
     "Slug_EN": "ev3-intermediate",
     "Description": "The course includes 24 structured lesson plans (90 minutes each) for programming in LEGO® Mindstorms EV3, fully compatible with both EV3 Lab (legacy) and EV3 Classroom (modern) software. Students build and program advanced robots while exploring mechanics, sensors, loops, variables, and multithreading. Although LEGO has officially discontinued EV3, many schools still have the sets, and this curriculum allows them to fully unlock their potential. Designed for older students, the course develops problem-solving, programming, and engineering skills, making it an ideal step beyond WeDo or SPIKE Essential.",
     "Product_description_URL": null,
+    "Reference_Document_URL": null,
+    "Reference_Document_Type:": null,
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
     "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors, Parents / homeschool",
     "Buyer_Role_list": "Teacher, After-school owner, School principal, Program director",
     "Instructor_Count": "1 or more",
@@ -1807,6 +1851,543 @@
           "NoSub": {
             "_Price": {
               "PL": 980.0
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        },
+        "6M": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        },
+        "3M": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        }
+      }
+    },
+    "Special": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          },
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        }
+      }
+    },
+    "Renewal": {
+      "Subscription": {
+        "1Y": {
+          "_Promo": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          },
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          },
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        }
+      }
+    },
+    "NGO": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        },
+        "6M": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        }
+      }
+    },
+    "Homeschool": {
+      "_NoSub": {
+        "_1Y": {
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        },
+        "_2Y": {
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "Lp": "12",
+    "Plan": "Cyfrowy Uczeń SP1-3 5K",
+    "Category": "reference_quote",
+    "Slug_EN": "sample-quote-spike-essential-extension-parts-and-courses",
+    "Description": "Przykładowa, niewiążąca wycena uzupełniająca dla placówek posiadających zestawy LEGO® Education SPIKE™ Essential, przygotowana w celu przedłużenia dalszego użytkowania pracowni po wygaszeniu zestawu. \n\nWycena obejmuje zestaw części zamiennych oraz dwie roczne licencje RoboCamp (poziom początkujący i średniozaawansowany), umożliwiające prowadzenie zajęć w oparciu o istniejący sprzęt przez jednego lub dwóch nauczycieli. \n\nDokument ma charakter referencyjny i służy planowaniu budżetu, w szczególności w projektach grantowych lub modernizacyjnych.",
+    "Product_description_URL": null,
+    "Reference_Document_URL": "https://drive.google.com/file/d/1ehVIvNKy-XQQZYRRZOLVa2ijVU2Yh7vF/view",
+    "Reference_Document_Type:": "sample_quote_pdf",
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
+    "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors (with existing SPIKE Essential sets)",
+    "Buyer_Role_list": "School principal, Program director, After-school owner, ICT / STEM coordinator",
+    "Instructor_Count": "1 or more",
+    "License_Scope": "Single or dual instructor (depending on course allocation)",
+    "Hardware_Required_list": "SPIKE Essential (existing sets required)",
+    "Software_Used_list": "Icon Blocks, Word Blocks",
+    "Age_Range": "5-6, 7-9",
+    "Skill_Level": "Beginner, Intermediate",
+    "Skill_Progression": "Yes",
+    "Skill_Progression_Type": "Across courses",
+    "Outcomes_list": "Extended operational lifespan of existing LEGO SPIKE Essential labs, restored ability to conduct full robotics lessons using original hardware, structured teaching progression from beginner to intermediate level without replacing complete sets.",
+    "Includes": "LEGO Education SPIKE Essential Replacement Parts Pack (additional construction elements for restoring and extending existing sets), LEGO Education SPIKE Essential rechargeable battery, LEGO Education SPIKE Essential small angular motors, RoboCamp 12-month digital license for LEGO SPIKE Essential programming – beginner level (Icon Blocks), RoboCamp 12-month digital license for LEGO SPIKE Essential programming – intermediate level (Word Blocks).",
+    "Why_This_Course_or_Plan": "Enables continued use of existing SPIKE Essential labs without replacing full sets. Provides a structured teaching pathway from beginner to intermediate level using the same hardware. Designed as a cost-effective way to extend the educational lifecycle of discontinued LEGO Education equipment.",
+    "Lessons": {
+      "Total": "50",
+      "SPIKE": {
+        "Essential": "50",
+        "Prime": {
+          "Base": "0",
+          "3D_Printing": "0",
+          "Laser_Cutting": "0"
+        }
+      },
+      "WeDo20": "0",
+      "WeDo1": "0",
+      "EV3": {
+        "Education": "50",
+        "Home": "0"
+      },
+      "mBot": {
+        "Laser_Cutting": "0"
+      }
+    },
+    "Lessons_Science_1_3": "0",
+    "Lessons_Science_4_6": "0",
+    "Lessons_Science_7_9": "0",
+    "Lessons_CSAI_1_3": "0",
+    "Lessons_CSAI_4_6": "0",
+    "Lessons_CSAI_7_9": "0",
+    "Base": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          },
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        },
+        "6M": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        },
+        "3M": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        }
+      }
+    },
+    "Special": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          },
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        }
+      }
+    },
+    "Renewal": {
+      "Subscription": {
+        "1Y": {
+          "_Promo": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          },
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          },
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        }
+      }
+    },
+    "NGO": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        },
+        "6M": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        }
+      }
+    },
+    "Homeschool": {
+      "_NoSub": {
+        "_1Y": {
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        },
+        "_2Y": {
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "Lp": "13",
+    "Plan": "Cyfrowy Uczeń SP4-8 6K",
+    "Category": "reference_quote",
+    "Slug_EN": "sample-quote-spike-prime-extension-parts-and-courses-4-8",
+    "Description": "Przykładowa, niewiążąca wycena uzupełniająca dla szkół posiadających zestawy LEGO® Education SPIKE™ Prime (klasy 4–8), przygotowana w celu przedłużenia dalszego użytkowania istniejącej pracowni robotyki bez konieczności zakupu nowych zestawów bazowych.\n\nWycena obejmuje zestaw części zamiennych, akumulatory, serwomotory oraz roczne licencje RoboCamp na trzy poziomy programowania (początkujący, średniozaawansowany i zaawansowany), umożliwiające prowadzenie zajęć w oparciu o posiadany sprzęt przez jednego lub kilku nauczycieli.\n\nDokument ma charakter referencyjny i służy planowaniu budżetu, w szczególności w projektach grantowych oraz działaniach modernizacyjnych pracowni.",
+    "Product_description_URL": null,
+    "Reference_Document_URL": "https://drive.google.com/file/d/1cCRs3hUfCRWxtK3HDWANMYlItU5zJ1N4/view",
+    "Reference_Document_Type:": "sample_quote_pdf",
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
+    "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors (with existing SPIKE Prime sets)",
+    "Buyer_Role_list": "School principal, Program director, After-school owner, ICT / STEM coordinator",
+    "Instructor_Count": "1 or more",
+    "License_Scope": "Single or dual instructor (depending on course allocation)",
+    "Hardware_Required_list": "SPIKE Prime (existing sets required)",
+    "Software_Used_list": "Word Blocks, Python",
+    "Age_Range": "7-9, 8-11, 10-16",
+    "Skill_Level": "Beginner, Intermediate, Advanced",
+    "Skill_Progression": "Yes",
+    "Skill_Progression_Type": "Across courses",
+    "Outcomes_list": "Extended lifespan of existing LEGO SPIKE Prime labs, restored ability to conduct advanced robotics lessons using original hardware, continuous programming progression from beginner to advanced level for students in grades 4–8 without purchasing new base sets.",
+    "Includes": "LEGO Education SPIKE Prime Replacement Parts Pack (additional construction elements for restoring and extending existing sets), LEGO Education SPIKE Prime rechargeable batteries, LEGO Education SPIKE Prime large and medium angular motors, RoboCamp 12-month digital license for LEGO SPIKE Prime programming – beginner level (Word Blocks), RoboCamp 12-month digital license for LEGO SPIKE Prime programming – intermediate level (Word Blocks), RoboCamp 12-month digital license for LEGO SPIKE Prime programming – advanced level (Word Blocks and Python).",
+    "Why_This_Course_or_Plan": "Provides a cost-effective way to extend the operational life of existing SPIKE Prime labs used in grades 4–8. Combines hardware restoration with a full programming progression from beginner to advanced level, allowing schools to continue and expand robotics education without replacing complete LEGO Education sets.",
+    "Lessons": {
+      "Total": "75",
+      "SPIKE": {
+        "Essential": "0",
+        "Prime": {
+          "Base": "75",
+          "3D_Printing": "0",
+          "Laser_Cutting": "0"
+        }
+      },
+      "WeDo20": "0",
+      "WeDo1": "0",
+      "EV3": {
+        "Education": "0",
+        "Home": "0"
+      },
+      "mBot": {
+        "Laser_Cutting": "0"
+      }
+    },
+    "Lessons_Science_1_3": "0",
+    "Lessons_Science_4_6": "0",
+    "Lessons_Science_7_9": "0",
+    "Lessons_CSAI_1_3": "0",
+    "Lessons_CSAI_4_6": "0",
+    "Lessons_CSAI_7_9": "0",
+    "Base": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          },
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        },
+        "6M": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        },
+        "3M": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        }
+      }
+    },
+    "Special": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          },
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        }
+      }
+    },
+    "Renewal": {
+      "Subscription": {
+        "1Y": {
+          "_Promo": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          },
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          },
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        }
+      }
+    },
+    "NGO": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        },
+        "6M": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        }
+      }
+    },
+    "Homeschool": {
+      "_NoSub": {
+        "_1Y": {
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        },
+        "_2Y": {
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "Lp": "14",
+    "Plan": "Cyfrowy Uczeń SP 4-8 2D 15K",
+    "Category": "reference_quote",
+    "Slug_EN": "sample-quote-spike-prime-laser-cutting-extension",
+    "Description": "Przykładowa, niewiążąca wycena rozszerzająca dla szkół posiadających zestawy LEGO® Education SPIKE™ Prime, przygotowana w celu zwiększenia możliwości konstrukcyjnych istniejącej pracowni robotyki poprzez wprowadzenie technologii cięcia laserowego.\n\nWycena obejmuje desktopową wycinarkę laserową wraz z systemem filtracji powietrza, materiały eksploatacyjne oraz roczną licencję RoboCamp na kurs projektowania i wycinania elementów do robotów SPIKE Prime. Rozwiązanie umożliwia uczniom projektowanie indywidualnych części w aplikacji Tinkercad i wycinanie ich na laserze w celu rozbudowy i modyfikacji istniejących konstrukcji robotycznych.\n\nDokument ma charakter referencyjny i służy planowaniu budżetu pracowni technologicznej oraz integracji robotyki z projektowaniem 2D i wytwarzaniem cyfrowym.",
+    "Product_description_URL": null,
+    "Reference_Document_URL": "https://drive.google.com/file/d/122XiFAr3so7_jMcSctlRy_8w_SRkSEee/view",
+    "Reference_Document_Type:": "sample_quote_pdf",
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
+    "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors (with existing SPIKE Prime sets)",
+    "Buyer_Role_list": "School principal, Program director, After-school owner, ICT / STEM coordinator",
+    "Instructor_Count": "1",
+    "License_Scope": "Single instructor",
+    "Hardware_Required_list": "SPIKE Prime (existing sets required)",
+    "Software_Used_list": "Word Blocks, TinkerCad",
+    "Age_Range": "10-14",
+    "Skill_Level": "Intermediate",
+    "Skill_Progression": "Yes",
+    "Skill_Progression_Type": "Within course",
+    "Outcomes_list": "Expanded construction possibilities for LEGO SPIKE Prime robots through custom laser-cut parts, integration of robotics with 2D design and digital fabrication, increased student creativity and engineering problem-solving without replacing existing robot sets.",
+    "Includes": "Desktop laser cutting and engraving machine with integrated camera system, air filtration and fume extraction unit suitable for school use, consumable materials for laser cutting (wood-based sheets), RoboCamp 12-month digital license for designing and laser-cutting custom parts for LEGO SPIKE Prime robots (10 construction scenarios).",
+    "Why_This_Course_or_Plan": "Extends the construction capabilities of existing SPIKE Prime labs by introducing laser cutting as a fast and classroom-efficient fabrication technology. Laser cutting allows students to design and produce custom wooden parts significantly faster than typical 3D printing workflows, making it well suited for regular school lessons with limited time.\n\nThe use of laser-cut wooden elements also provides a high level of visual quality and aesthetic finish, enabling the creation of precise, durable, and visually attractive robot components. This extension is designed for schools seeking quick iteration cycles, immediate results, and visually refined constructions without replacing existing LEGO SPIKE Prime sets.",
+    "Lessons": {
+      "Total": "10",
+      "SPIKE": {
+        "Essential": "0",
+        "Prime": {
+          "Base": "0",
+          "3D_Printing": "0",
+          "Laser_Cutting": "10"
+        }
+      },
+      "WeDo20": "0",
+      "WeDo1": "0",
+      "EV3": {
+        "Education": "0",
+        "Home": "0"
+      },
+      "mBot": {
+        "Laser_Cutting": "0"
+      }
+    },
+    "Lessons_Science_1_3": "0",
+    "Lessons_Science_4_6": "0",
+    "Lessons_Science_7_9": "0",
+    "Lessons_CSAI_1_3": "0",
+    "Lessons_CSAI_4_6": "0",
+    "Lessons_CSAI_7_9": "0",
+    "Base": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          },
+          "NoSub": {
+            "_Price": {
+              "PL": null
             },
             "_Link": {
               "PL": null
