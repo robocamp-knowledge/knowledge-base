@@ -1,7 +1,7 @@
 [
   {
     "Lp": "1",
-    "Plan": "RoboCamp Plan Nauczyciel",
+    "Plan": "RoboCamp - Plan Nauczyciel",
     "Category": "Plan",
     "Slug_EN": "teacher-plan",
     "Description": "The RoboCamp Teacher Plan provides 1 year of unlimited access to all RoboCamp courses, covering over 298 lesson plans across LEGO® Education sets. This includes 25 SPIKE Essential lessons and 85 SPIKE Prime lessons (Beginner, Intermediate, Expert, and Short). The plan also features WeDo 2.0, EV3, and 3D Printing & Laser Cutting courses. All future updates and new courses are automatically added to the teacher’s account. The subscription is intended for one teacher and their students.",
@@ -180,7 +180,7 @@
   },
   {
     "Lp": "2",
-    "Plan": "RoboCamp Plan Szkoła dla 2 nauczycieli",
+    "Plan": "RoboCamp - Plan Szkoła dla 2 nauczycieli",
     "Category": "Plan",
     "Slug_EN": "school-plan",
     "Description": null,
@@ -359,7 +359,7 @@
   },
   {
     "Lp": "3",
-    "Plan": "RoboCamp Plan Rada Pedagogiczna",
+    "Plan": "RoboCamp - Plan Rada Pedagogiczna",
     "Category": "Plan",
     "Slug_EN": "school-plan",
     "Description": "The RoboCamp School Plan provides 1 year of unlimited access to all RoboCamp courses for all teachers in a school. It includes over 266 lesson plans, with 25 for SPIKE Essential and 65 for SPIKE Prime, plus WeDo 2.0, EV3, and 3D Printing & Laser Cutting. Any new lessons or courses released during the subscription are added automatically, ensuring the entire school benefits from the latest content.",
@@ -543,8 +543,8 @@
     "Slug_EN": "spike-essential-early",
     "Description": "The course includes 25 structured lesson plans ( 60 minutes each) introducing students to programming with Icon Blocks using LEGO® Education SPIKE™ Essential. Step by step, students build and code original robot designs while learning the basics of coding, sensors, and mechanics. The curriculum is designed for young learners, helping them develop fundamental programming and engineering skills in a fun and structured way, aligned with STEAM and 21st-century education standards.",
     "Product_description_URL": "https://www.robocamp.pl/pl/course-spike-essential-early-learners/",
-    "Reference_Document_URL": null,
-    "Reference_Document_Type:": null,
+    "Reference_Document_URL": "https://drive.google.com/file/d/1n4sbYcaelqLDpp_LmbBy0DXgjveNJWbP/view",
+    "Reference_Document_Type:": "course_curriculum",
     "Reference_Video_URL": null,
     "Reference_Video_Type": null,
     "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors, Parents / homeschool",
@@ -1254,7 +1254,7 @@
   },
   {
     "Lp": "8",
-    "Plan": "3D Modelling\nand Printing Course Parts for LEGO SPIKE Prime robots",
+    "Plan": "RoboCamp - Kurs projektowania i druku 3D części do robotów SPIKE Prime",
     "Category": "Course",
     "Slug_EN": "3d-printing-spike",
     "Description": null,
@@ -1433,7 +1433,7 @@
   },
   {
     "Lp": "9",
-    "Plan": "2D Modelling and Laser Cutting Course Parts for LEGO SPIKE Prime robots",
+    "Plan": "RoboCamp - Kurs projektowania i cięcia 2D części do robotów SPIKE Prime",
     "Category": "Course",
     "Slug_EN": "2d-laser-spike",
     "Description": "Kurs zawiera również ćwiczenia wprowadzające praktyczne koncepcje sztucznej inteligencji i uczenia maszynowego (AI & Machine Learning), pokazując uczniom zaawansowane możliwości zestawu SPIKE Prime, które są trudne lub nieergonomiczne do realizacji w języku blokowym.",
@@ -1612,7 +1612,7 @@
   },
   {
     "Lp": "10",
-    "Plan": "Programming WeDo 2.0 Robots: Beginner to Advanced course",
+    "Plan": "RoboCamp - Kurs programowania robotów LEGO WeDo 2.0",
     "Category": "Course",
     "Slug_EN": "wedo20-intermediate",
     "Description": "The course includes 25 structured lesson plans (60 minutes each) for programming in LEGO® Education WeDo 2.0. Students build and code original robots while learning key concepts such as loops, variables, and sensor input through step-by-step instructions. The curriculum provides a full-year learning path, from simple projects to advanced problem-solving, helping students develop logical thinking, creativity, and engineering skills. Although LEGO has officially discontinued support for WeDo 2.0, the set can still be successfully used in schools, especially as a bridge between SPIKE Essential and SPIKE Prime, making it ideal for 8–9 year olds.",
@@ -1791,30 +1791,30 @@
   },
   {
     "Lp": "11",
-    "Plan": "Programming Mindstorms EV3 for Intermediate Learners course!",
+    "Plan": "RoboCamp - Kurs programowania Mindstorms EV3 aplikacja Classroom",
     "Category": "Course",
     "Slug_EN": "ev3-intermediate",
     "Description": "The course includes 24 structured lesson plans (90 minutes each) for programming in LEGO® Mindstorms EV3, fully compatible with both EV3 Lab (legacy) and EV3 Classroom (modern) software. Students build and program advanced robots while exploring mechanics, sensors, loops, variables, and multithreading. Although LEGO has officially discontinued EV3, many schools still have the sets, and this curriculum allows them to fully unlock their potential. Designed for older students, the course develops problem-solving, programming, and engineering skills, making it an ideal step beyond WeDo or SPIKE Essential.",
-    "Product_description_URL": null,
-    "Reference_Document_URL": null,
-    "Reference_Document_Type:": null,
+    "Product_description_URL": "https://www.robocamp.pl/pl/course-ev3-classroom/",
+    "Reference_Document_URL": "https://drive.google.com/file/d/1Z4yrOy4TZw7oOpffT5tsxX8rBCRXXicL/view",
+    "Reference_Document_Type:": "course_curriculum",
     "Reference_Video_URL": null,
     "Reference_Video_Type": null,
     "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors, Parents / homeschool",
-    "Buyer_Role_list": "Teacher, STEM/Robotics coordinator, School principal, Program director, After-school owner",
+    "Buyer_Role_list": "Teacher, After-school owner, School principal, Program director",
     "Instructor_Count": "1 or more",
     "License_Scope": "Single instructor",
     "Hardware_Required_list": "Mindstorms EV3 Edu",
-    "Software_Used_list": null,
+    "Software_Used_list": "EV3 Classroom (primary)\nEV3 Lab (legacy, included)",
     "Age_Range": "10-14",
     "Skill_Level": "Intermediate",
     "Skill_Progression": "Yes",
     "Skill_Progression_Type": "Within course",
     "Outcomes_list": null,
-    "Includes": null,
-    "Why_This_Course_or_Plan": "Dual Software Compatibility – Works with both EV3 Lab and EV3 Classroom.\nComprehensive Curriculum – 24 lessons designed for a full school year.\nAdvanced Robotics Projects – From vehicles and cranes to color sorters and simulation models.\nExtended Use of Retired Sets – Perfect for schools that still have EV3 sets and want to maximize their value.\nSkill Development – Builds programming proficiency, engineering knowledge, and teamwork.\nBridges Generations – Serves as a natural continuation after WeDo or SPIKE Essential.",
+    "Includes": "24 structured lesson plans for EV3 Classroom (primary version)\n24 equivalent lesson plans adapted for EV3 Lab (legacy version, included)\nReady-to-use teacher materials and student instructions\nRobotics projects covering mechanics, sensors, logic, and multithreading",
+    "Why_This_Course_or_Plan": "Primary Classroom Curriculum – Designed around the EV3 Classroom app as the main and recommended software environment.\nLegacy Software Support Included – Provides an equivalent EV3 Lab version for schools still using discontinued software, at no extra cost.\nFull-Year Robotics Program – 24 Classroom lessons (plus legacy-compatible Lab version) structured for long-term progression.\nAdvanced Robotics Projects – Students build and program vehicles, cranes, sorters, and complex autonomous systems.\nExtended Use of Retired Hardware – Enables schools to continue meaningful use of existing EV3 sets.\nStrong Skill Progression – Develops programming logic, engineering thinking, and systematic problem-solving.\nNatural Continuation Path – Ideal next step after WeDo or SPIKE Essential.",
     "Lessons": {
-      "Total": "50",
+      "Total": "Lessons__Total = 24\nLessons__EV3_Classroom = 24\nLessons__EV3_Lab = 24",
       "SPIKE": {
         "Essential": "0",
         "Prime": {
@@ -1826,7 +1826,7 @@
       "WeDo20": "0",
       "WeDo1": "0",
       "EV3": {
-        "Education": "50",
+        "Education": "Lessons__Total = 24\nLessons__EV3_Classroom = 24\nLessons__EV3_Lab = 24",
         "Home": "0"
       },
       "mBot": {
