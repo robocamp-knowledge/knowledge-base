@@ -1,0 +1,53 @@
+POST #1
+Date: 2026-01-15
+Platform: Facebook
+Language: en
+Tags: spike-prime, stem-education, ai, machine-learning, educational-robotics, teacher-training
+URL: https://www.facebook.com/robocamp/posts/pfbid0VwB4YKYDTXfDaQk9mDk9cZBB3qcHynS49Tmshckwb1dASoY5tT653SCMenqCFFxwl
+
+Content:
+The recent announcement of LEGO Education’s Computer Science & AI sets raises an important question: should AI in robotics education focus on using AI tools, or on understanding how learning algorithms actually work? Understanding how AI learns — through feedback, adaptation, and iteration — can already be taught today, even with robotics sets that many schools already have in their classrooms. One example is Launcher AI+, an advanced SPIKE Prime activity developed by the RoboCamp team. Students build a catapult-style robot that repeatedly launches a ball toward a target. After each attempt, the robot receives feedback — the shot was too short or too far — and adjusts its launch power accordingly. With every iteration, the program updates its parameters and gradually improves accuracy. There is no black-box AI here. Students design the learning logic themselves and can clearly see how data and feedback shape the robot’s behavior over time. This is what learning about AI can look like — without new hardware, and without using AI as a shortcut instead of understanding how it works.
+
+---
+POST #2
+Date: 2026-01-13
+Platform: Facebook
+Language: en
+Tags: spike-prime, spike-essential, stem-education, educational-robotics, edtech
+URL: https://www.facebook.com/robocamp/posts/pfbid02WN5Av55Zrcntnr34dik8nrtgD3PpcoXz2BXj4NGrsqj1cnF8KJtg4ZmvMP2MAX3ml
+
+Content:
+LEGO® Education has announced a new Computer Science & AI product line and, at the same time, shared an update regarding the retirement of SPIKE Prime and SPIKE Essential. For schools already working with SPIKE sets, the following confirmed timelines are particularly important: SPIKE Prime and SPIKE Essential will remain available for purchase at least until mid-2026; spare parts will be available until June 2028; software support will continue until June 2031. This means that existing SPIKE sets will remain reliable long-term educational tools. At this stage, it is too early to evaluate the new Computer Science & AI sets — we publish reviews only after hands-on classroom testing.
+
+---
+POST #3
+Date: 2025-09-09
+Platform: Facebook
+Language: pl
+Tags: spike-prime, stem-education, 3d-printing, educational-robotics
+URL: https://www.facebook.com/robocamp/posts/pfbid0VVBVzrGkfmDBuRujZDYzvnwTzG7sRz2VoDSNQezd2AT1Ge1v8rFwXAHvSXr5S7xol
+
+Content:
+💙 6 lat wspólnej pracy i ciągle nowe wyzwania! Wasz rozwój motywuje nas do tworzenia coraz lepszych scenariuszy lekcji. Bardzo cieszy nas, że do pracy z zestawami SPIKE Prime włączacie również druk 3D i ploter laserowy. Pokazujecie w praktyce, że lekcje robotyki nie kończą się na tym, co jest w pudełku – jedynym ograniczeniem jest wyobraźnia ✨
+
+---
+POST #4
+Date: 2025-06-25
+Platform: Facebook
+Language: en
+Tags: spike-essential, stem-education, robotics-for-kids, coding-for-kids
+URL: https://www.facebook.com/reel/675163292163333/
+
+Content:
+🚀 Cosmic Battle – a galactic duel right in your classroom! Build two starfighters inspired by iconic sci-fi universes and let them battle it out. The winner is decided by chance, making this a perfect introduction to coding and robotics for students aged 6–9 using LEGO Education SPIKE Essential and Word Blocks coding.
+
+---
+POST #5
+Date: 2025-06-09
+Platform: Facebook
+Language: en
+Tags: 3d-printing, spike-prime, educational-robotics
+URL: https://www.facebook.com/robocamp/posts/pfbid0jTjrcHZ8s7zSj3dZx3EmcJhcNqXq63siyJiQHc7U25r4MkjeFAR9VVGnHcYTK6gpl
+
+Content:
+🚀 3D Printing for Robotics – Unlimited Potential or Unnecessary Complication? RoboCamp lesson plans show how 3D-printed components can extend LEGO SPIKE Prime projects, offering creative freedom while also raising logistical challenges related to time and equipment access.
