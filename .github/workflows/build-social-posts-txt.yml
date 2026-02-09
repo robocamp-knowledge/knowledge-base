@@ -1,0 +1,31 @@
+name: Build social posts TXT
+
+on:
+  push:
+    paths:
+      - "social/social_posts.json"
+
+jobs:
+  build-social-posts-txt:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Build social_posts.txt
+        run: |
+          python tools/build_social_posts_txt/build_social_posts_txt.py
+
+      - name: Commit generated TXT
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add social/social_posts.txt
+          git commit -m "Auto-generate social_posts.txt" || echo "No changes to commit"
+          git push
