@@ -5,324 +5,197 @@
         "spike-prime",
         "ai",
         "machine-learning",
-        "educational-robotics",
         "stem-education",
-        "robotics-education",
-        "advanced-learning"
+        "educational-robotics"
       ],
       "canonical_url": "https://www.facebook.com/robocamp/posts/pfbid0W9xcAGMfBzPuVuKRFDLNfqnYo4BLvjnPqR8Z9ZpSVUyrDJ4LsLXWWUZCwapdPCjLl",
-      "heading": "AI Learning with SPIKE Prime: A New Approach",
+      "heading": "Should AI in Education Focus on Tools or Understanding?",
       "heading_source": "ai_generated",
       "image_url": null,
       "language": "en",
       "platform": "Facebook",
-      "post_format": null,
+      "post_format": "post",
       "post_id": "fb:pfbid0W9xcAGMfBzPuVuKRFDLNfqnYo4BLvjnPqR8Z9ZpSVUyrDJ4LsLXWWUZCwapdPCjLl",
       "published_at": "2026-01-15T09:32:16.000Z",
-      "summary": "RoboCamp introduces Launcher AI+, an advanced SPIKE Prime activity that teaches students about AI learning through feedback and iteration without new hardware. Students design learning logic to enhance a robot's launch accuracy.",
+      "summary": "The text discusses using SPIKE Prime to teach AI learning processes without new hardware. Students engage with a catapult-style robot to understand AI through feedback and iteration.",
       "summary_source": "ai_generated",
-      "text": "The recent announcement of LEGO Education’s Computer Science & AI sets raises an important question: should AI in robotics education focus on using AI tools, or on understanding how learning algorithms actually work? Understanding how AI learns — through feedback, adaptation, and iteration — can already be taught today, even with robotics sets that many schools already have in their classrooms. One example is Launcher AI+, an advanced SPIKE Prime activity developed by the RoboCamp team. Students build a catapult-style robot that repeatedly launches a ball toward a target. After each attempt, the robot receives feedback — the shot was too short or too far — and adjusts its launch power accordingly. With every iteration, the program updates its parameters and gradually improves accuracy. There is no black-box AI here. Students design the learning logic themselves and can clearly see how data and feedback shape the robot’s behavior over time. This is what learning about AI can look like — without new hardware, and without using AI as a shortcut instead of understanding how it works. If you’d like to learn more about this approach, you’ll find additional details in the comments below. #robocamp #LEGOEducation #SPIKEprime #STEM #STEMEducation #stemforkids #edtech #AIinEducation #machinelearningeducation"
+      "text": "The recent announcement of LEGO Education’s Computer Science & AI sets raises an important question: should AI in robotics education focus on using AI tools, or on understanding how learning algorithms actually work?  Understanding how AI learns — through feedback, adaptation, and iteration — can already be taught today, even with robotics sets that many schools already have in their classrooms.  One example is Launcher AI+, an advanced SPIKE Prime activity developed by the RoboCamp team.  Students build a catapult-style robot that repeatedly launches a ball toward a target. After each attempt, the robot receives feedback — the shot was too short or too far — and adjusts its launch power accordingly. With every iteration, the program updates its parameters and gradually improves accuracy.  There is no black-box AI here. Students design the learning logic themselves and can clearly see how data and feedback shape the robot’s behavior over time.  This is what learning about AI can look like — without new hardware, and without using AI as a shortcut instead of understanding how it works.  If you’d like to learn more about this approach, you’ll find additional details in the comments below.  #robocamp #LEGOEducation #SPIKEprime #STEM #STEMEducation #stemforkids #edtech #AIinEducation #machinelearningeducation"
     },
     {
       "audience_tags": [
         "spike-prime",
         "spike-essential",
-        "ai",
         "educational-robotics",
         "stem-education",
-        "hardware-support",
-        "product-announcement"
+        "edtech"
       ],
       "canonical_url": "https://www.facebook.com/robocamp/posts/pfbid02WariY1u1b7VLXezsBtiEJNsiMyqtSbP25vLhgdhBsLRz3JkkrzZ78fHnh59QU8SNl",
-      "heading": "LEGO Announces AI Sets, Retires SPIKE Prime",
+      "heading": "SPIKE Prime and Essential Availability Extended",
       "heading_source": "ai_generated",
       "image_url": null,
       "language": "en",
       "platform": "Facebook",
-      "post_format": null,
+      "post_format": "post",
       "post_id": "fb:pfbid02WariY1u1b7VLXezsBtiEJNsiMyqtSbP25vLhgdhBsLRz3JkkrzZ78fHnh59QU8SNl",
       "published_at": "2026-01-13T19:32:39.000Z",
-      "summary": "SPIKE Prime and SPIKE Essential will be available until mid-2026, with support until 2031. LEGO announces a new Computer Science & AI line.",
+      "summary": "LEGO Education announced a new AI product line and extended support for SPIKE Prime and Essential, which will be available until 2026 with software support until 2031.",
       "summary_source": "ai_generated",
-      "text": "LEGO® Education has announced a new Computer Science & AI product line and, at the same time, shared an update regarding the retirement of SPIKE Prime and SPIKE Essential. For schools already working with SPIKE sets, the following confirmed timelines are particularly important: – SPIKE Prime and SPIKE Essential will remain available for purchase at least until mid-2026, – spare parts for SPIKE Prime and SPIKE Essential will be available until June 2028, – software for SPIKE will remain supported until June 2031. This means that the well-established SPIKE Prime and SPIKE Essential sets will continue to be reliable, long-term educational tools for many years to come. As for the new Computer Science & AI sets — at this stage, it is simply too early to evaluate them. We don’t form opinions until we have had the opportunity to work hands-on with the sets and test them in real classroom conditions. We will publish a full review of the new sets after proper testing. In the meantime, we invite you to read our review of LEGO Education Science. Since the new Computer Science & AI line is based on the same generation of electronic components, it is currently the best available reference point for understanding the direction LEGO Education is heading with its future educational products. Link to the review in the comments. #robocamp #LEGOEducation #SPIKEprime #SPIKEEssential #educationalrobotics #STEM #stemeducation #stemforkids #edtech"
+      "text": "LEGO® Education has announced a new Computer Science & AI product line and, at the same time, shared an update regarding the retirement of SPIKE Prime and SPIKE Essential.  For schools already working with SPIKE sets, the following confirmed timelines are particularly important: – SPIKE Prime and SPIKE Essential will remain available for purchase at least until mid-2026, – spare parts for SPIKE Prime and SPIKE Essential will be available until June 2028, – software for SPIKE will remain supported until June 2031.  This means that the well-established SPIKE Prime and SPIKE Essential sets will continue to be reliable, long-term educational tools for many years to come.  As for the new Computer Science & AI sets — at this stage, it is simply too early to evaluate them. We don’t form opinions until we have had the opportunity to work hands-on with the sets and test them in real classroom conditions.  We will publish a full review of the new sets after proper testing.  In the meantime, we invite you to read our review of LEGO Education Science. Since the new Computer Science & AI line is based on the same generation of electronic components, it is currently the best available reference point for understanding the direction LEGO Education is heading with its future educational products.  Link to the review in the comments.  #robocamp #LEGOEducation #SPIKEprime #SPIKEEssential #educationalrobotics #STEM #stemeducation #stemforkids #edtech"
     },
     {
       "audience_tags": [
         "spike-prime",
         "3d-printing",
-        "laser-cutting",
-        "educational-robotics",
-        "creative-learning",
         "stem-education",
-        "project-based-learning"
+        "educational-robotics",
+        "3d-design"
       ],
       "canonical_url": "https://www.facebook.com/robocamp/posts/pfbid0Vhy3co6CQ79qkqsLWcaN2vTxt2aDFtxq15cfEwjjENkqa5rreAdKTpHcDzgVd3Kol",
-      "heading": "6 Lat Współpracy z SPIKE Prime",
+      "heading": "Wyzwania i Rozwój z SPIKE Prime i Drukiem 3D",
       "heading_source": "ai_generated",
       "image_url": null,
       "language": "pl",
       "platform": "Facebook",
-      "post_format": null,
+      "post_format": "post",
       "post_id": "fb:pfbid0Vhy3co6CQ79qkqsLWcaN2vTxt2aDFtxq15cfEwjjENkqa5rreAdKTpHcDzgVd3Kol",
       "published_at": "2025-09-09T08:14:49.000Z",
-      "summary": "RoboCamp celebrates 6 years of collaboration, emphasizing the creativity added by 3D printing and laser cutting with SPIKE Prime sets.",
+      "summary": "Post highlights the integration of 3D printing and laser cutting in SPIKE Prime lessons, enhancing robotics education beyond traditional kits.",
       "summary_source": "ai_generated",
-      "text": "💙 6 lat wspólnej pracy i ciągle nowe wyzwania! Wasz rozwój motywuje nas do tworzenia coraz lepszych scenariuszy lekcji. Bardzo cieszy nas, że do pracy z zestawami SPIKE Prime włączacie również druk 3D i ploter laserowy. Pokazujecie w praktyce, że lekcje robotyki nie kończą się na tym, co jest w pudełku – jedynym ograniczeniem jest wyobraźnia ✨ #RoboCamp #LEGOEducation #SPIKEPrime #EducationalRobotics #STEMEducation #3DPrinting #Tinkercad #3DDesign"
+      "text": "💙 6 lat wspólnej pracy i ciągle nowe wyzwania! Wasz rozwój motywuje nas do tworzenia coraz lepszych scenariuszy lekcji. Bardzo cieszy nas, że do pracy z zestawami SPIKE Prime włączacie również druk 3D i ploter laserowy. Pokazujecie w praktyce, że lekcje robotyki nie kończą się na tym, co jest w pudełku – jedynym ograniczeniem jest wyobraźnia ✨  #RoboCamp #LEGOEducation #SPIKEPrime #EducationalRobotics #STEMEducation #3DPrinting #Tinkercad #3DDesign"
     },
     {
       "audience_tags": [
         "spike-essential",
-        "coding-for-kids",
-        "educational-robotics",
         "stem-education",
-        "interactive-learning",
-        "sci-fi-themed"
+        "robotics-for-kids",
+        "coding-for-kids"
       ],
       "canonical_url": "https://www.facebook.com/reel/675163292163333/",
-      "heading": "Galactic Duel with SPIKE Essential for Kids",
+      "heading": "Cosmic Battle: Starfighter Coding and Robotics",
       "heading_source": "ai_generated",
       "image_url": null,
       "language": "en",
       "platform": "Facebook",
-      "post_format": null,
+      "post_format": "reel",
       "post_id": "fb:675163292163333",
       "published_at": "2025-06-25T14:07:31.000Z",
-      "summary": "Cosmic Battle introduces students aged 6–9 to coding and robotics using LEGO® Education SPIKE Essential sets in a fun, unpredictable environment.",
+      "summary": "The activity involves building starfighters using SPIKE Essential for kids aged 6–9, focusing on coding and unpredictability in a fun setting.",
       "summary_source": "ai_generated",
-      "text": "🚀 Cosmic Battle – a galactic duel right in your classroom! 🌌 Build two starfighters that resemble iconic ships from sci-fi universes… then let them battle it out! 🔫 Who will win? No one knows – the outcome is decided by chance! 🎲 A perfect way to introduce young students to coding and robotics through fun and unpredictability. 👧 Designed for students aged 6–9 👩‍🏫 Includes ready-to-use lesson plans, simple instructions, and Word Blocks coding 📦 Required kit: LEGO® Education SPIKE Essential (#45345) #RoboCamp #STEMeducation #RoboticsForKids #CodingForKids #LEGOEducation #EdTech #SPIKEEssential"
+      "text": "🚀 Cosmic Battle – a galactic duel right in your classroom! 🌌  Build two starfighters that resemble iconic ships from sci-fi universes… then let them battle it out! 🔫 Who will win? No one knows – the outcome is decided by chance! 🎲 A perfect way to introduce young students to coding and robotics through fun and unpredictability.  👧 Designed for students aged 6–9 👩‍🏫 Includes ready-to-use lesson plans, simple instructions, and Word Blocks coding 📦 Required kit: LEGO® Education SPIKE Essential (#45345)  #RoboCamp #STEMeducation #RoboticsForKids #CodingForKids #LEGOEducation #EdTech #SPIKEEssential"
     },
     {
       "audience_tags": [
         "3d-printing",
         "spike-prime",
         "educational-robotics",
-        "creative-learning",
-        "stem-education",
-        "classroom-innovation"
+        "stem-education"
       ],
       "canonical_url": "https://www.facebook.com/robocamp/posts/pfbid0jgXQEENabbQpX14Sh9vQ1kuah7AXJYeNVhB94CxyL7naSXKWeevKLaq3qG4f1qSxl",
-      "heading": "3D Printing in Robotics: Freedom or Challenge?",
+      "heading": "3D Printing in Robotics: Potential and Challenges",
       "heading_source": "ai_generated",
       "image_url": null,
       "language": "en",
       "platform": "Facebook",
-      "post_format": null,
+      "post_format": "post",
       "post_id": "fb:pfbid0jgXQEENabbQpX14Sh9vQ1kuah7AXJYeNVhB94CxyL7naSXKWeevKLaq3qG4f1qSxl",
       "published_at": "2025-06-09T17:26:49.000Z",
-      "summary": "RoboCamp explores the use of 3D printing with SPIKE Prime, offering creative freedom but also logistical challenges in robotics classes.",
+      "summary": "The post considers the potential and challenges of using 3D printing in SPIKE Prime robotics education, weighing creative freedom against logistical issues.",
       "summary_source": "ai_generated",
-      "text": "🚀 3D Printing for Robotics – Unlimited Potential or Unnecessary Complication? At RoboCamp, you'll find lesson plans that incorporate 3D-printed components, specifically designed to unlock the full potential of LEGO® Education SPIKE™ Prime. ✅ On one hand – unlimited creative freedom! Design and print exactly what you need. The only limit is your imagination! ⚠️ On the other hand – logistical challenges. You need access to a 3D printer and must allocate time for printing, which doesn't always go smoothly. ➡️ What do you think? Would you utilize a 3D printer in this way? Is it a fantastic method to enhance robotics classes, or is it too much trouble? 💬 Share your thoughts – your opinions are invaluable to us!"
+      "text": "🚀 3D Printing for Robotics – Unlimited Potential or Unnecessary Complication?  At RoboCamp, you'll find lesson plans that incorporate 3D-printed components, specifically designed to unlock the full potential of LEGO® Education SPIKE™ Prime.  ✅ On one hand – unlimited creative freedom! Design and print exactly what you need. The only limit is your imagination!  ⚠️ On the other hand – logistical challenges. You need access to a 3D printer and must allocate time for printing, which doesn't always go smoothly.  ➡️ What do you think? Would you utilize a 3D printer in this way? Is it a fantastic method to enhance robotics classes, or is it too much trouble?  💬 Share your thoughts – your opinions are invaluable to us!"
     },
     {
       "audience_tags": [
         "spike-prime",
         "python",
-        "coding-for-kids",
-        "classic-games",
         "educational-robotics",
-        "stem-education",
-        "hands-on-learning"
+        "stem-education"
       ],
       "canonical_url": "https://www.facebook.com/robocamp/posts/pfbid0CW7aw25RtEi5XfU7RjHtxvZe5M467KNdyzf1xAxzm5kSnLAMvZ3vjFHGwa43qkGTl",
-      "heading": "Create Classic Games Using SPIKE and Python",
+      "heading": "Learn Python by Building Classic Games with SPIKE Prime",
       "heading_source": "ai_generated",
       "image_url": null,
       "language": "en",
       "platform": "Facebook",
-      "post_format": null,
+      "post_format": "post",
       "post_id": "fb:pfbid0CW7aw25RtEi5XfU7RjHtxvZe5M467KNdyzf1xAxzm5kSnLAMvZ3vjFHGwa43qkGTl",
       "published_at": "2025-05-28T13:37:47.000Z",
-      "summary": "RoboCamp’s SPIKE Prime Programming Course Expert enables students to recreate classic games like Snake and Arkanoid using Python and LEGO kits.",
+      "summary": "Students use SPIKE Prime to learn Python and game mechanics by building classic games like Snake and Arkanoid, as part of an expert-level course.",
       "summary_source": "ai_generated",
-      "text": "Snake and Arkanoid in Python? Build them yourself with SPIKE Prime! 🤖🕹️ Remember playing Snake on your first mobile phone? Or spending hours with Arkanoid on an old computer? For many of us, these games were our very first step into the digital world – first as players, then as programmers, and today as educators. At RoboCamp, we now give kids the chance to experience something similar. Only this time — from the other side of the screen. As part of our SPIKE Prime Programming Course Expert, students create their own versions of these classic games using LEGO kits and the Python programming language.🔧🧠💻 It’s not just fun. It’s: ✅ hands-on coding in Python, ✅ learning how game mechanics work, ✅ exploring the history of gamedev through experience. Why do we teach kids to program Snake and Arkanoid? Because that’s how our own tech journey began. Those pixelated games sparked our curiosity and made us ask: How does it work? Could I build this myself? Now it’s the kids’ turn. We give them the tools — and they become the creators. Python. Robots. The classics of gamedev. All ready — in our expert-level course. Join us on this journey from pixels to robots! 💾➡️🤖 #RoboCamp #LEGOEducation #SPIKEPrime #PythonForKids #EducationalRobotics #STEMEducation"
+      "text": "Snake and Arkanoid in Python? Build them yourself with SPIKE Prime! 🤖🕹️   Remember playing Snake on your first mobile phone? Or spending hours with Arkanoid on an old computer? For many of us, these games were our very first step into the digital world – first as players, then as programmers, and today as educators.  At RoboCamp, we now give kids the chance to experience something similar. Only this time — from the other side of the screen.  As part of our SPIKE Prime Programming Course Expert, students create their own versions of these classic games using LEGO kits and the Python programming language.🔧🧠💻  It’s not just fun. It’s: ✅ hands-on coding in Python, ✅ learning how game mechanics work, ✅ exploring the history of gamedev through experience.  Why do we teach kids to program Snake and Arkanoid? Because that’s how our own tech journey began. Those pixelated games sparked our curiosity and made us ask: How does it work? Could I build this myself?  Now it’s the kids’ turn. We give them the tools — and they become the creators. Python. Robots. The classics of gamedev. All ready — in our expert-level course.  Join us on this journey from pixels to robots! 💾➡️🤖  #RoboCamp #LEGOEducation #SPIKEPrime #PythonForKids #EducationalRobotics #STEMEducation"
     },
     {
       "audience_tags": [
         "spike-prime",
         "mbot-2",
         "laser-cutting",
-        "mechanical-principles",
-        "stem-education",
-        "educational-robotics"
+        "educational-robotics",
+        "stem-education"
       ],
       "canonical_url": "https://www.facebook.com/robocamp/posts/pfbid0WeF8sXCBoJ1XHNZvfz8Hf7ngJzcPbdMYjTMXQEb3wN9LttwZFuhd3EM8eCr9cx9bl",
-      "heading": "Build a Moving Owl with SPIKE and mBot",
+      "heading": "Build a Moving Owl Model: SPIKE Prime and mBot 2",
       "heading_source": "ai_generated",
       "image_url": null,
       "language": "en",
       "platform": "Facebook",
-      "post_format": null,
+      "post_format": "post",
       "post_id": "fb:pfbid0WeF8sXCBoJ1XHNZvfz8Hf7ngJzcPbdMYjTMXQEb3wN9LttwZFuhd3EM8eCr9cx9bl",
       "published_at": "2025-02-26T18:00:12.000Z",
-      "summary": "RoboCamp's Flying Bird project teaches students mechanical principles using LEGO SPIKE Prime or mBot 2 and a laser cutter to build a moving owl model.",
+      "summary": "The Flying Bird project lets students build an owl model using SPIKE Prime or mBot 2, incorporating laser-cut elements and exploring mechanical principles.",
       "summary_source": "ai_generated",
-      "text": "🦉 Flying Bird – SPIKE Prime / mBot 2 / laser cutter Build a moving owl model with your students through the Flying Bird project. Wooden elements and string create a crank mechanism powered by a motor, illustrating mechanical principles in practice. • Construction of a working mechanism • Understanding the principle of a crank • Development of design skills The model can be constructed using the LEGO SPIKE Prime or mBot 2 set, along with elements cut with a laser cutter, allowing for the creation of complex mechanisms. Get this lesson plan and more: bit.ly/robocamp_offer"
+      "text": "🦉 Flying Bird – SPIKE Prime / mBot 2 / laser cutter  Build a moving owl model with your students through the Flying Bird project. Wooden elements and string create a crank mechanism powered by a motor, illustrating mechanical principles in practice. • Construction of a working mechanism • Understanding the principle of a crank • Development of design skills  The model can be constructed using the LEGO SPIKE Prime or mBot 2 set, along with elements cut with a laser cutter, allowing for the creation of complex mechanisms.  Get this lesson plan and more: bit.ly/robocamp_offer"
     },
     {
       "audience_tags": [
         "spike-prime",
         "mbot-2",
         "laser-cutting",
-        "physics-education",
-        "stem-education",
-        "educational-robotics"
+        "educational-robotics",
+        "stem-education"
       ],
       "canonical_url": "https://www.facebook.com/robocamp/posts/pfbid02GFYtdJrYqacHxK43TMQHy1QdjQPBZ5eVjrNHD5ALExzet3yCfjazoYqgytaZWLSvl",
-      "heading": "Learn Physics with Carousel Model",
-      "heading_source": "ai_generated",
-      "image_url": null,
-      "language": "en",
-      "platform": "Facebook",
-      "post_format": null,
-      "post_id": "fb:pfbid02GFYtdJrYqacHxK43TMQHy1QdjQPBZ5eVjrNHD5ALExzet3yCfjazoYqgytaZWLSvl",
-      "published_at": "2025-02-24T09:00:08.000Z",
-      "summary": "The Carousel project from RoboCamp shows centrifugal force with LEGO SPIKE Prime or mBot 2, incorporating laser-cut elements for hands-on physics learning.",
-      "summary_source": "ai_generated",
-      "text": "🎠 Carousel – SPIKE Prime / mBot 2 / laser cutter Demonstrate centrifugal force to your students with the Carousel model. The faster it spins, the more the airplanes tilt away from the vertical position, allowing observation of physics in action. • Visualization of physical concepts • Hands-on scientific experience • Development of analytical skills This robot construction can be created using the LEGO SPIKE Prime or mBot 2 set, along with precisely cut elements using a laser cutter, ensuring accuracy and aesthetic quality. Get this RoboCamp lesson plan and more: bit.ly/robocamp_offer"
-    },
-    {
-      "audience_tags": [
-        "spike-prime",
-        "mbot-2",
-        "laser-cutting",
-        "robot-building",
-        "stem-education",
-        "educational-robotics"
-      ],
-      "canonical_url": "https://www.facebook.com/robocamp/posts/pfbid02Fzv8mPMrGtrYswaPSj8nJNdHRoi2obWWQYZxiYYfzcDAVMP6bxjgqRuQr44dp9z5l",
-      "heading": "Introduce New Robot Projects in Class",
-      "heading_source": "ai_generated",
-      "image_url": null,
-      "language": "en",
-      "platform": "Facebook",
-      "post_format": null,
-      "post_id": "fb:pfbid02Fzv8mPMrGtrYswaPSj8nJNdHRoi2obWWQYZxiYYfzcDAVMP6bxjgqRuQr44dp9z5l",
-      "published_at": "2025-02-19T18:00:13.000Z",
-      "summary": "RoboCamp offers lesson plans for building 8 new robot projects like cranes and carousels using LEGO SPIKE Prime, mBot 2, and a laser cutter.",
-      "summary_source": "ai_generated",
-      "text": "🤖 8 new robots for your lessons! 🔗bit.ly/robocamp_offer Do your students dream of building cranes, carousels, and flying birds? With ready-made lesson plans and a laser cutter, you can introduce all of them into your classes! 🦾 Crane – joystick control 🎡 Wheel of Fortune – fun and education in one 🎠 Carousel – learning about centrifugal force 🦉 Flying Bird – mechanisms in motion Each of these projects is designed with the use of a laser cutter and LEGO SPIKE Prime and mBot 2 sets in mind, allowing for the creation of unique and educational experiences for students. 👇 Learn more: 🔗 bit.ly/robocamp_offer"
-    },
-    {
-      "audience_tags": [
-        "spike-prime",
-        "mbot-2",
-        "laser-cutting",
-        "physics-education",
-        "stem-education",
-        "educational-robotics"
-      ],
-      "canonical_url": "https://www.instagram.com/p/DGc5CGjtrlO/",
       "heading": "Explore Centrifugal Force with Carousel Model",
       "heading_source": "ai_generated",
       "image_url": null,
       "language": "en",
-      "platform": "Instagram",
-      "post_format": "Sidecar",
-      "post_id": "ig:DGc5CGjtrlO",
-      "published_at": "2025-02-24T10:00:09.000Z",
-      "summary": "The Carousel model from RoboCamp helps students understand centrifugal force using LEGO SPIKE Prime or mBot 2 and laser-cut precision.",
+      "platform": "Facebook",
+      "post_format": "post",
+      "post_id": "fb:pfbid02GFYtdJrYqacHxK43TMQHy1QdjQPBZ5eVjrNHD5ALExzet3yCfjazoYqgytaZWLSvl",
+      "published_at": "2025-02-24T09:00:08.000Z",
+      "summary": "The Carousel model uses SPIKE Prime or mBot 2, with laser-cut elements to teach centrifugal force and provide hands-on scientific experience.",
       "summary_source": "ai_generated",
-      "text": "🎠 Carousel – SPIKE Prime / mBot 2 / laser cutter bit.ly/robo_offer\n\nDemonstrate centrifugal force to your students with the Carousel model. The faster it spins, the more the airplanes tilt away from the vertical position, allowing observation of physics in action.\n• Visualization of physical concepts\n• Hands-on scientific experience\n• Development of analytical skills\n\nThis robot construction can be created using the LEGO SPIKE Prime or mBot 2 set, along with precisely cut elements using a laser cutter, ensuring accuracy and aesthetic quality.\n\nGet this RoboCamp lesson plan and more:\nbit.ly/robo_offer"
+      "text": "🎠 Carousel – SPIKE Prime / mBot 2 / laser cutter  Demonstrate centrifugal force to your students with the Carousel model. The faster it spins, the more the airplanes tilt away from the vertical position, allowing observation of physics in action. • Visualization of physical concepts • Hands-on scientific experience • Development of analytical skills  This robot construction can be created using the LEGO SPIKE Prime or mBot 2 set, along with precisely cut elements using a laser cutter, ensuring accuracy and aesthetic quality.  Get this RoboCamp lesson plan and more: bit.ly/robocamp_offer"
     },
     {
       "audience_tags": [
         "spike-prime",
-        "python",
-        "coding-for-kids",
+        "mbot-2",
+        "laser-cutting",
         "educational-robotics",
-        "classic-games",
         "stem-education"
       ],
-      "canonical_url": "https://www.instagram.com/p/DKMwH6wxFp2/",
-      "heading": "Code Classic Games with SPIKE and Python",
+      "canonical_url": "https://www.facebook.com/robocamp/posts/pfbid02Fzv8mPMrGtrYswaPSj8nJNdHRoi2obWWQYZxiYYfzcDAVMP6bxjgqRuQr44dp9z5l",
+      "heading": "Introducing 8 New Robotics Projects for Classes",
       "heading_source": "ai_generated",
       "image_url": null,
       "language": "en",
-      "platform": "Instagram",
-      "post_format": "Sidecar",
-      "post_id": "ig:DKMwH6wxFp2",
-      "published_at": "2025-05-28T13:40:02.000Z",
-      "summary": "The SPIKE Prime Programming Course Expert allows students to build robots and code classic games like Snake using Python.",
+      "platform": "Facebook",
+      "post_format": "post",
+      "post_id": "fb:pfbid02Fzv8mPMrGtrYswaPSj8nJNdHRoi2obWWQYZxiYYfzcDAVMP6bxjgqRuQr44dp9z5l",
+      "published_at": "2025-02-19T18:00:13.000Z",
+      "summary": "The post describes eight robotics projects using SPIKE Prime and mBot 2 with laser cutting, including cranes and carousels, enhancing educational experiences.",
       "summary_source": "ai_generated",
-      "text": "Build Snake & Arkanoid with SPIKE Prime? Yes, in Python! 🤖 🕹️\n\nOur journey into tech started with simple games.\nSnake on our first phones. Arkanoid on an old computer.\nNow it’s time for your kids to code them from scratch.\n\nIn our SPIKE Prime Programming Course Expert, students:\n🧱 build robots\n💻 code in Python\n🎮 recreate iconic games\n🧠 and learn how it all works behind the scenes.\n\nWhy these games?\nBecause they made us fall in love with tech.\nNow we pass that spark on.\n\nLet’s turn pixels into robots — together. 🚀\n\n📚 For curious minds. For future creators.\n#RoboCamp #LEGOEducation #SPIKEPrime #PythonForKids #STEMEducation #EducationalRobotics"
+      "text": "🤖 8 new robots for your lessons!  🔗bit.ly/robocamp_offer  Do your students dream of building cranes, carousels, and flying birds? With ready-made lesson plans and a laser cutter, you can introduce all of them into your classes!  🦾 Crane – joystick control  🎡 Wheel of Fortune – fun and education in one  🎠 Carousel – learning about centrifugal force  🦉 Flying Bird – mechanisms in motion  Each of these projects is designed with the use of a laser cutter and LEGO SPIKE Prime and mBot 2 sets in mind, allowing for the creation of unique and educational experiences for students.  👇 Learn more: 🔗 bit.ly/robocamp_offer"
     },
     {
       "audience_tags": [
         "spike-prime",
         "mbot-2",
         "laser-cutting",
-        "robot-building",
-        "stem-education",
-        "educational-robotics"
-      ],
-      "canonical_url": "https://www.instagram.com/p/DGQ3_h2BjWP/",
-      "heading": "Innovative Robot Projects for Classrooms",
-      "heading_source": "ai_generated",
-      "image_url": null,
-      "language": "en",
-      "platform": "Instagram",
-      "post_format": "Sidecar",
-      "post_id": "ig:DGQ3_h2BjWP",
-      "published_at": "2025-02-19T18:00:11.000Z",
-      "summary": "RoboCamp provides lesson plans for creating various robot projects, enhancing classroom experiences with LEGO SPIKE Prime and mBot 2.",
-      "summary_source": "ai_generated",
-      "text": "🤖 8 new robots for your lessons! \n\nDo your students dream of building cranes, carousels, and flying birds? With ready-made lesson plans and a laser cutter, you can introduce all of them into your classes!\n\n🦾 Crane – joystick control \n🎡 Wheel of Fortune – fun and education in one \n🎠 Carousel – learning about centrifugal force \n🦉 Flying Bird – mechanisms in motion \nEach of these projects is designed with the use of a laser cutter and LEGO SPIKE Prime and mBot 2 sets in mind, allowing for the creation of unique and educational experiences for students.\n\n👇 Learn more:\n🔗 bit.ly/robo_offer"
-    },
-    {
-      "audience_tags": [
-        "spike-prime",
-        "3d-printing",
-        "stem-education",
-        "data-collection",
         "educational-robotics",
-        "maker-education"
-      ],
-      "canonical_url": "https://www.instagram.com/p/DK6z1buMvhr/",
-      "heading": "Build an Anemometer with SPIKE Prime",
-      "heading_source": "ai_generated",
-      "image_url": null,
-      "language": "en",
-      "platform": "Instagram",
-      "post_format": "Sidecar",
-      "post_id": "ig:DK6z1buMvhr",
-      "published_at": "2025-06-15T10:57:32.000Z",
-      "summary": "Students create an anemometer using LEGO® SPIKE™ Prime and a 3D-printed propeller, combining STEM learning with real-world data collection.",
-      "summary_source": "ai_generated",
-      "text": "🌬️ What is wind — and how can we measure its strength with LEGO®?\n\nIn this lesson plan, students build a fully functional anemometer using LEGO® Education SPIKE™ Prime and a custom 3D-printed propeller. It’s a perfect way to combine STEM learning, engineering and real-world data collection — all in one engaging class. 📊💡\n\nHere’s what the lesson includes:\n1️⃣ A propeller designed from scratch in Autodesk Tinkercad,\n2️⃣ Step-by-step building and programming instructions,\n3️⃣ As a final result: a LEGO robot that measures wind speed in real time! 🌬️\n\n🎯 To complete the lesson, you’ll need:\n🔹 Autodesk Tinkercad\n🔹 A 3D printer\n🔹 LEGO® Education SPIKE™ Prime set\n\nLooking for new ways to bring innovation into your classroom? This one is definitely worth a try! 🚀\n\n#3DPrintingInEducation #LEGOEducation #SPIKEPrime #EducationalRobotics #STEMEducation #3DPrintYourRobot #MakerEducation #LessonPlanning #InnovativeTeaching #PythonForKids"
-    },
-    {
-      "audience_tags": [
-        "spike-essential",
-        "coding-for-kids",
-        "educational-robotics",
-        "stem-education",
-        "interactive-learning",
-        "sci-fi-themed"
-      ],
-      "canonical_url": "https://www.instagram.com/p/DLU5cFbS7Bb/",
-      "heading": "Cosmic Battle: A Fun Way to Learn Coding",
-      "heading_source": "ai_generated",
-      "image_url": null,
-      "language": "en",
-      "platform": "Instagram",
-      "post_format": "clips",
-      "post_id": "ig:DLU5cFbS7Bb",
-      "published_at": "2025-06-25T14:07:05.000Z",
-      "summary": "Cosmic Battle offers a dynamic way to teach coding and robotics to students aged 6–9 using LEGO® SPIKE Essential.",
-      "summary_source": "ai_generated",
-      "text": "🚀 Cosmic Battle – a galactic duel right in your classroom! 🌌\n\nBuild two starfighters that resemble iconic ships from sci-fi universes… then let them battle it out! 🔫\nWho will win? No one knows – the outcome is decided by chance! 🎲\nA perfect way to introduce young students to coding and robotics through fun and unpredictability.\n\n👧 Designed for students aged 6–9\n👩‍🏫 Includes ready-to-use lesson plans, simple instructions, and Word Blocks coding\n📦 Required kit: LEGO® Education SPIKE Essential (#45345)\n\n#RoboCamp #STEMeducation #RoboticsForKids #CodingForKids #LEGOEducation #EdTech #SPIKEEssential"
-    },
-    {
-      "audience_tags": [
-        "spike-prime",
-        "mbot-2",
-        "laser-cutting",
-        "mechanical-principles",
-        "stem-education",
-        "educational-robotics"
+        "stem-education"
       ],
       "canonical_url": "https://www.instagram.com/p/DGi7RQxtyGP/",
-      "heading": "Create a Moving Owl with SPIKE Prime",
+      "heading": "Create a Moving Owl with SPIKE Prime and mBot 2",
       "heading_source": "ai_generated",
       "image_url": null,
       "language": "en",
@@ -330,9 +203,112 @@
       "post_format": "Sidecar",
       "post_id": "ig:DGi7RQxtyGP",
       "published_at": "2025-02-26T18:15:09.000Z",
-      "summary": "The Flying Bird lesson plan teaches students about mechanical principles using LEGO SPIKE Prime or mBot 2 and laser-cut components.",
+      "summary": "The Flying Bird project involves building an owl model using SPIKE Prime or mBot 2 and laser-cut elements, focusing on mechanical design skills.",
       "summary_source": "ai_generated",
-      "text": "🦉 Flying Bird – SPIKE Prime / mBot 2 / laser cutter\n\nBuild a moving owl model with your students through the Flying Bird project. Wooden elements and string create a crank mechanism powered by a motor, illustrating mechanical principles in practice.\n• Construction of a working mechanism\n• Understanding the principle of a crank\n• Development of design skills\n\nThe model can be constructed using the LEGO SPIKE Prime or mBot 2 set, along with elements cut with a laser cutter, allowing for the creation of complex mechanisms.\n\nGet this lesson plan and more:\nbit.ly/robo_offer"
+      "text": "🦉 Flying Bird – SPIKE Prime / mBot 2 / laser cutter\\n\\nBuild a moving owl model with your students through the Flying Bird project. Wooden elements and string create a crank mechanism powered by a motor, illustrating mechanical principles in practice.\\n• Construction of a working mechanism\\n• Understanding the principle of a crank\\n• Development of design skills\\n\\nThe model can be constructed using the LEGO SPIKE Prime or mBot 2 set, along with elements cut with a laser cutter, allowing for the creation of complex mechanisms.\\n\\nGet this lesson plan and more:\\nbit.ly/robo_offer"
+    },
+    {
+      "audience_tags": [
+        "spike-prime",
+        "mbot-2",
+        "laser-cutting",
+        "educational-robotics",
+        "stem-education"
+      ],
+      "canonical_url": "https://www.instagram.com/p/DGQ3_h2BjWP/",
+      "heading": "8 Robotics Projects with Laser Cutting and SPIKE Prime",
+      "heading_source": "ai_generated",
+      "image_url": null,
+      "language": "en",
+      "platform": "Instagram",
+      "post_format": "Sidecar",
+      "post_id": "ig:DGQ3_h2BjWP",
+      "published_at": "2025-02-19T18:00:11.000Z",
+      "summary": "Students can engage in eight robotics projects involving SPIKE Prime and mBot 2, using laser cutting to create cranes, carousels, and more.",
+      "summary_source": "ai_generated",
+      "text": "🤖 8 new robots for your lessons! \\n\\nDo your students dream of building cranes, carousels, and flying birds? With ready-made lesson plans and a laser cutter, you can introduce all of them into your classes!\\n\\n🦾 Crane – joystick control \\n🎡 Wheel of Fortune – fun and education in one \\n🎠 Carousel – learning about centrifugal force \\n🦉 Flying Bird – mechanisms in motion \\nEach of these projects is designed with the use of a laser cutter and LEGO SPIKE Prime and mBot 2 sets in mind, allowing for the creation of unique and educational experiences for students.\\n\\n👇 Learn more:\\n🔗 bit.ly/robo_offer"
+    },
+    {
+      "audience_tags": [
+        "spike-prime",
+        "python",
+        "educational-robotics",
+        "stem-education"
+      ],
+      "canonical_url": "https://www.instagram.com/p/DKMwH6wxFp2/",
+      "heading": "Learn Python by Recreating Classic Games with SPIKE Prime",
+      "heading_source": "ai_generated",
+      "image_url": null,
+      "language": "en",
+      "platform": "Instagram",
+      "post_format": "Sidecar",
+      "post_id": "ig:DKMwH6wxFp2",
+      "published_at": "2025-05-28T13:40:02.000Z",
+      "summary": "Students in the SPIKE Prime course learn Python by building robots to recreate classic games like Snake and Arkanoid, promoting tech enthusiasm.",
+      "summary_source": "ai_generated",
+      "text": "Build Snake & Arkanoid with SPIKE Prime? Yes, in Python! 🤖 🕹️\\n\\nOur journey into tech started with simple games.\\nSnake on our first phones. Arkanoid on an old computer.\\nNow it’s time for your kids to code them from scratch.\\n\\nIn our SPIKE Prime Programming Course Expert, students:\\n🧱 build robots\\n💻 code in Python\\n🎮 recreate iconic games\\n🧠 and learn how it all works behind the scenes.\\n\\nWhy these games?\\nBecause they made us fall in love with tech.\\nNow we pass that spark on.\\n\\nLet’s turn pixels into robots — together. 🚀\\n\\n📚 For curious minds. For future creators.\\n#RoboCamp #LEGOEducation #SPIKEPrime #PythonForKids #STEMEducation #EducationalRobotics"
+    },
+    {
+      "audience_tags": [
+        "3d-printing",
+        "spike-prime",
+        "stem-education",
+        "educational-robotics",
+        "maker-education"
+      ],
+      "canonical_url": "https://www.instagram.com/p/DK6z1buMvhr/",
+      "heading": "Measure Wind Speed with 3D-Printed Anemometer and SPIKE Prime",
+      "heading_source": "ai_generated",
+      "image_url": null,
+      "language": "en",
+      "platform": "Instagram",
+      "post_format": "Sidecar",
+      "post_id": "ig:DK6z1buMvhr",
+      "published_at": "2025-06-15T10:57:32.000Z",
+      "summary": "Students use SPIKE Prime and a 3D-printed propeller to build an anemometer, integrating STEM education with real-world data collection.",
+      "summary_source": "ai_generated",
+      "text": "🌬️ What is wind — and how can we measure its strength with LEGO®?\\n\\nIn this lesson plan, students build a fully functional anemometer using LEGO® Education SPIKE™ Prime and a custom 3D-printed propeller. It’s a perfect way to combine STEM learning, engineering and real-world data collection — all in one engaging class. 📊💡\\n\\nHere’s what the lesson includes:\\n1️⃣ A propeller designed from scratch in Autodesk Tinkercad,\\n2️⃣ Step-by-step building and programming instructions,\\n3️⃣ As a final result: a LEGO robot that measures wind speed in real time! 🌬️\\n\\n🎯 To complete the lesson, you’ll need:\\n🔹 Autodesk Tinkercad\\n🔹 A 3D printer\\n🔹 LEGO® Education SPIKE™ Prime set\\n\\nLooking for new ways to bring innovation into your classroom? This one is definitely worth a try! 🚀\\n\\n#3DPrintingInEducation #LEGOEducation #SPIKEPrime #EducationalRobotics #STEMEducation #3DPrintYourRobot #MakerEducation #LessonPlanning #InnovativeTeaching #PythonForKids"
+    },
+    {
+      "audience_tags": [
+        "spike-prime",
+        "mbot-2",
+        "laser-cutting",
+        "educational-robotics",
+        "stem-education"
+      ],
+      "canonical_url": "https://www.instagram.com/p/DGc5CGjtrlO/",
+      "heading": "Teaching Physics with Carousel Model and SPIKE Prime",
+      "heading_source": "ai_generated",
+      "image_url": null,
+      "language": "en",
+      "platform": "Instagram",
+      "post_format": "Sidecar",
+      "post_id": "ig:DGc5CGjtrlO",
+      "published_at": "2025-02-24T10:00:09.000Z",
+      "summary": "The Carousel project with SPIKE Prime or mBot 2 uses laser-cut elements to teach centrifugal force, offering a hands-on learning experience.",
+      "summary_source": "ai_generated",
+      "text": "🎠 Carousel – SPIKE Prime / mBot 2 / laser cutter bit.ly/robo_offer\\n\\nDemonstrate centrifugal force to your students with the Carousel model. The faster it spins, the more the airplanes tilt away from the vertical position, allowing observation of physics in action.\\n• Visualization of physical concepts\\n• Hands-on scientific experience\\n• Development of analytical skills\\n\\nThis robot construction can be created using the LEGO SPIKE Prime or mBot 2 set, along with precisely cut elements using a laser cutter, ensuring accuracy and aesthetic quality.\\n\\nGet this RoboCamp lesson plan and more:\\nbit.ly/robo_offer"
+    },
+    {
+      "audience_tags": [
+        "spike-essential",
+        "stem-education",
+        "robotics-for-kids",
+        "coding-for-kids"
+      ],
+      "canonical_url": "https://www.instagram.com/p/DLU5cFbS7Bb/",
+      "heading": "Classroom Coding Fun with Cosmic Battle Activity",
+      "heading_source": "ai_generated",
+      "image_url": null,
+      "language": "en",
+      "platform": "Instagram",
+      "post_format": "clips",
+      "post_id": "ig:DLU5cFbS7Bb",
+      "published_at": "2025-06-25T14:07:05.000Z",
+      "summary": "The Cosmic Battle uses SPIKE Essential for students aged 6–9, involving starfighter coding and robotics in a fun and unpredictable setting.",
+      "summary_source": "ai_generated",
+      "text": "🚀 Cosmic Battle – a galactic duel right in your classroom! 🌌\\n\\nBuild two starfighters that resemble iconic ships from sci-fi universes… then let them battle it out! 🔫\\nWho will win? No one knows – the outcome is decided by chance! 🎲\\nA perfect way to introduce young students to coding and robotics through fun and unpredictability.\\n\\n👧 Designed for students aged 6–9\\n👩‍🏫 Includes ready-to-use lesson plans, simple instructions, and Word Blocks coding\\n📦 Required kit: LEGO® Education SPIKE Essential (#45345)\\n\\n#RoboCamp #STEMeducation #RoboticsForKids #CodingForKids #LEGOEducation #EdTech #SPIKEEssential"
     }
   ]
 }
