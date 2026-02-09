@@ -1,6 +1,6 @@
 POST #1
 Date: 2026-01-15
-Platform: Facebook
+Type: Facebook post
 Language: en
 Tags: spike-prime, ai, machine-learning, educational-robotics, stem-education, robotics-education, advanced-learning
 URL: https://www.facebook.com/robocamp/posts/pfbid0W9xcAGMfBzPuVuKRFDLNfqnYo4BLvjnPqR8Z9ZpSVUyrDJ4LsLXWWUZCwapdPCjLl
@@ -11,7 +11,7 @@ The recent announcement of LEGO Education’s Computer Science & AI sets raises 
 ---
 POST #2
 Date: 2026-01-13
-Platform: Facebook
+Type: Facebook post
 Language: en
 Tags: spike-prime, spike-essential, ai, educational-robotics, stem-education, hardware-support, product-announcement
 URL: https://www.facebook.com/robocamp/posts/pfbid02WariY1u1b7VLXezsBtiEJNsiMyqtSbP25vLhgdhBsLRz3JkkrzZ78fHnh59QU8SNl
@@ -22,7 +22,7 @@ LEGO® Education has announced a new Computer Science & AI product line and, at 
 ---
 POST #3
 Date: 2025-09-09
-Platform: Facebook
+Type: Facebook post
 Language: pl
 Tags: spike-prime, 3d-printing, laser-cutting, educational-robotics, creative-learning, stem-education, project-based-learning
 URL: https://www.facebook.com/robocamp/posts/pfbid0Vhy3co6CQ79qkqsLWcaN2vTxt2aDFtxq15cfEwjjENkqa5rreAdKTpHcDzgVd3Kol
@@ -33,7 +33,7 @@ Content:
 ---
 POST #4
 Date: 2025-06-25
-Platform: Facebook
+Type: Facebook reel
 Language: en
 Tags: spike-essential, coding-for-kids, educational-robotics, stem-education, interactive-learning, sci-fi-themed
 URL: https://www.facebook.com/reel/675163292163333/
@@ -44,7 +44,7 @@ Content:
 ---
 POST #5
 Date: 2025-06-09
-Platform: Facebook
+Type: Facebook post
 Language: en
 Tags: 3d-printing, spike-prime, educational-robotics, creative-learning, stem-education, classroom-innovation
 URL: https://www.facebook.com/robocamp/posts/pfbid0jgXQEENabbQpX14Sh9vQ1kuah7AXJYeNVhB94CxyL7naSXKWeevKLaq3qG4f1qSxl
@@ -55,7 +55,7 @@ Content:
 ---
 POST #6
 Date: 2025-05-28
-Platform: Facebook
+Type: Facebook post
 Language: en
 Tags: spike-prime, python, coding-for-kids, classic-games, educational-robotics, stem-education, hands-on-learning
 URL: https://www.facebook.com/robocamp/posts/pfbid0CW7aw25RtEi5XfU7RjHtxvZe5M467KNdyzf1xAxzm5kSnLAMvZ3vjFHGwa43qkGTl
@@ -66,7 +66,7 @@ Snake and Arkanoid in Python? Build them yourself with SPIKE Prime! 🤖🕹️ 
 ---
 POST #7
 Date: 2025-02-26
-Platform: Facebook
+Type: Facebook post
 Language: en
 Tags: spike-prime, mbot-2, laser-cutting, mechanical-principles, stem-education, educational-robotics
 URL: https://www.facebook.com/robocamp/posts/pfbid0WeF8sXCBoJ1XHNZvfz8Hf7ngJzcPbdMYjTMXQEb3wN9LttwZFuhd3EM8eCr9cx9bl
@@ -77,7 +77,7 @@ Content:
 ---
 POST #8
 Date: 2025-02-24
-Platform: Facebook
+Type: Facebook post
 Language: en
 Tags: spike-prime, mbot-2, laser-cutting, physics-education, stem-education, educational-robotics
 URL: https://www.facebook.com/robocamp/posts/pfbid02GFYtdJrYqacHxK43TMQHy1QdjQPBZ5eVjrNHD5ALExzet3yCfjazoYqgytaZWLSvl
@@ -88,7 +88,7 @@ Content:
 ---
 POST #9
 Date: 2025-02-19
-Platform: Facebook
+Type: Facebook post
 Language: en
 Tags: spike-prime, mbot-2, laser-cutting, robot-building, stem-education, educational-robotics
 URL: https://www.facebook.com/robocamp/posts/pfbid02Fzv8mPMrGtrYswaPSj8nJNdHRoi2obWWQYZxiYYfzcDAVMP6bxjgqRuQr44dp9z5l
@@ -99,7 +99,7 @@ Content:
 ---
 POST #10
 Date: 2025-02-24
-Platform: Instagram
+Type: Instagram sidecar
 Language: en
 Tags: spike-prime, mbot-2, laser-cutting, physics-education, stem-education, educational-robotics
 URL: https://www.instagram.com/p/DGc5CGjtrlO/
@@ -120,7 +120,7 @@ bit.ly/robo_offer
 ---
 POST #11
 Date: 2025-05-28
-Platform: Instagram
+Type: Instagram sidecar
 Language: en
 Tags: spike-prime, python, coding-for-kids, educational-robotics, classic-games, stem-education
 URL: https://www.instagram.com/p/DKMwH6wxFp2/
@@ -150,7 +150,7 @@ Let’s turn pixels into robots — together. 🚀
 ---
 POST #12
 Date: 2025-02-19
-Platform: Instagram
+Type: Instagram sidecar
 Language: en
 Tags: spike-prime, mbot-2, laser-cutting, robot-building, stem-education, educational-robotics
 URL: https://www.instagram.com/p/DGQ3_h2BjWP/
@@ -172,7 +172,7 @@ Each of these projects is designed with the use of a laser cutter and LEGO SPIKE
 ---
 POST #13
 Date: 2025-06-15
-Platform: Instagram
+Type: Instagram sidecar
 Language: en
 Tags: spike-prime, 3d-printing, stem-education, data-collection, educational-robotics, maker-education
 URL: https://www.instagram.com/p/DK6z1buMvhr/
@@ -199,7 +199,7 @@ Looking for new ways to bring innovation into your classroom? This one is defini
 ---
 POST #14
 Date: 2025-06-25
-Platform: Instagram
+Type: Instagram clip
 Language: en
 Tags: spike-essential, coding-for-kids, educational-robotics, stem-education, interactive-learning, sci-fi-themed
 URL: https://www.instagram.com/p/DLU5cFbS7Bb/
@@ -220,7 +220,7 @@ A perfect way to introduce young students to coding and robotics through fun and
 ---
 POST #15
 Date: 2025-02-26
-Platform: Instagram
+Type: Instagram sidecar
 Language: en
 Tags: spike-prime, mbot-2, laser-cutting, mechanical-principles, stem-education, educational-robotics
 URL: https://www.instagram.com/p/DGi7RQxtyGP/
@@ -237,3 +237,15 @@ The model can be constructed using the LEGO SPIKE Prime or mBot 2 set, along wit
 
 Get this lesson plan and more:
 bit.ly/robo_offer
+
+
+=== META ===
+Total posts: 15
+Platforms: Facebook (9), Instagram (6)
+Languages: en (14), pl (1)
+Date range: 2025-02-19 → 2026-01-15
+Post types:
+- Facebook post: 8
+- Facebook reel: 1
+- Instagram sidecar: 5
+- Instagram clip: 1
