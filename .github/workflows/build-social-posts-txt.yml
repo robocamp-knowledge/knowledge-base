@@ -1,9 +1,13 @@
 name: Build social posts TXT
 
 on:
+  # Automatycznie przy zmianie JSON-a
   push:
     paths:
       - "social/social_posts.json"
+
+  # Ręcznie z poziomu GitHub UI
+  workflow_dispatch:
 
 jobs:
   build-social-posts-txt:
