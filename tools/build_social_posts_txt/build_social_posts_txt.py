@@ -17,6 +17,13 @@ def format_date(iso_ts: str | None) -> str | None:
 
 def detect_post_type(platform: str, post_format: str | None, url: str) -> str:
     if platform == "Facebook":
+        if post_format:
+            pf = post_format.lower()
+            if pf == "reel":
+                return "Facebook reel"
+            if pf == "post":
+                return "Facebook post"
+        # fallback (starsze dane)
         if url and "/reel/" in url:
             return "Facebook reel"
         return "Facebook post"
@@ -31,7 +38,6 @@ def detect_post_type(platform: str, post_format: str | None, url: str) -> str:
         return "Instagram post"
 
     return platform or "Unknown"
-
 
 with open(INPUT_FILE, "r", encoding="utf-8") as f:
     data = json.load(f)
