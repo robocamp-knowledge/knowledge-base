@@ -49,6 +49,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_PL": "https://www.robocamp.pl/pl/pricing/#formularz",
+    "Post_Purchase_License_Activation_URL_PL": "https://www.robocamp.pl/pl/pricing/#aktywacja",
     "Base": {
       "Subscription": {
         "1Y": {
@@ -228,6 +230,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_PL": "https://www.robocamp.pl/pl/pricing/#formularz",
+    "Post_Purchase_License_Activation_URL_PL": "https://www.robocamp.pl/pl/pricing/#aktywacja",
     "Base": {
       "Subscription": {
         "1Y": {
@@ -407,6 +411,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_PL": "https://www.robocamp.pl/pl/pricing/#formularz",
+    "Post_Purchase_License_Activation_URL_PL": "https://www.robocamp.pl/pl/pricing/#aktywacja",
     "Base": {
       "Subscription": {
         "1Y": {
@@ -586,6 +592,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_PL": "https://www.robocamp.pl/pl/pricing/#formularz",
+    "Post_Purchase_License_Activation_URL_PL": "https://www.robocamp.pl/pl/pricing/#aktywacja",
     "Base": {
       "Subscription": {
         "1Y": {
@@ -765,6 +773,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_PL": "https://www.robocamp.pl/pl/pricing/#formularz",
+    "Post_Purchase_License_Activation_URL_PL": "https://www.robocamp.pl/pl/pricing/#aktywacja",
     "Base": {
       "Subscription": {
         "1Y": {
@@ -944,6 +954,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_PL": "https://www.robocamp.pl/pl/pricing/#formularz",
+    "Post_Purchase_License_Activation_URL_PL": "https://www.robocamp.pl/pl/pricing/#aktywacja",
     "Base": {
       "Subscription": {
         "1Y": {
@@ -1123,6 +1135,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_PL": "https://www.robocamp.pl/pl/pricing/#formularz",
+    "Post_Purchase_License_Activation_URL_PL": "https://www.robocamp.pl/pl/pricing/#aktywacja",
     "Base": {
       "Subscription": {
         "1Y": {
@@ -1258,7 +1272,7 @@
     "Category": "Course",
     "Slug_EN": "3d-printing-spike",
     "Description": null,
-    "Product_description_URL": null,
+    "Product_description_URL": "https://www.robocamp.pl/pl/course-spike-prime-3d/",
     "Reference_Document_URL": null,
     "Reference_Document_Type:": null,
     "Reference_Video_URL": null,
@@ -1302,6 +1316,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_PL": "https://www.robocamp.pl/pl/pricing/#formularz",
+    "Post_Purchase_License_Activation_URL_PL": "https://www.robocamp.pl/pl/pricing/#aktywacja",
     "Base": {
       "Subscription": {
         "1Y": {
@@ -1481,6 +1497,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_PL": "https://www.robocamp.pl/pl/pricing/#formularz",
+    "Post_Purchase_License_Activation_URL_PL": "https://www.robocamp.pl/pl/pricing/#aktywacja",
     "Base": {
       "Subscription": {
         "1Y": {
@@ -1660,6 +1678,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_PL": "https://www.robocamp.pl/pl/pricing/#formularz",
+    "Post_Purchase_License_Activation_URL_PL": "https://www.robocamp.pl/pl/pricing/#aktywacja",
     "Base": {
       "Subscription": {
         "1Y": {
@@ -1839,6 +1859,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_PL": "https://www.robocamp.pl/pl/pricing/#formularz",
+    "Post_Purchase_License_Activation_URL_PL": "https://www.robocamp.pl/pl/pricing/#aktywacja",
     "Base": {
       "Subscription": {
         "1Y": {
@@ -2018,6 +2040,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_PL": null,
+    "Post_Purchase_License_Activation_URL_PL": null,
     "Base": {
       "Subscription": {
         "1Y": {
@@ -2197,6 +2221,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_PL": null,
+    "Post_Purchase_License_Activation_URL_PL": null,
     "Base": {
       "Subscription": {
         "1Y": {
@@ -2376,6 +2402,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_PL": null,
+    "Post_Purchase_License_Activation_URL_PL": null,
     "Base": {
       "Subscription": {
         "1Y": {
@@ -2555,6 +2583,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_PL": null,
+    "Post_Purchase_License_Activation_URL_PL": null,
     "Base": {
       "Subscription": {
         "1Y": {
@@ -2734,6 +2764,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_PL": null,
+    "Post_Purchase_License_Activation_URL_PL": null,
     "Base": {
       "Subscription": {
         "1Y": {
