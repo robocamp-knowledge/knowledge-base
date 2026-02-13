@@ -49,6 +49,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_EN": null,
+    "Post_Purchase_License_Activation_URL_EN": null,
     "Base": {
       "Subscription": {
         "1Y": {
@@ -229,6 +231,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_EN": null,
+    "Post_Purchase_License_Activation_URL_EN": null,
     "Base": {
       "Subscription": {
         "1Y": {
@@ -272,7 +276,7 @@
             "EN": 1129.0
           },
           "_Link": {
-            "EN": "https://buy.stripe.com/5kA1617yQ0722haeVf"
+            "EN": "https://buy.stripe.com/5kA1617yQ0722haeVf?locale=en"
           },
           "NoSub": {
             "_Price": {
@@ -409,6 +413,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_EN": null,
+    "Post_Purchase_License_Activation_URL_EN": null,
     "Base": {
       "Subscription": {
         "1Y": {
@@ -589,6 +595,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_EN": null,
+    "Post_Purchase_License_Activation_URL_EN": null,
     "Base": {
       "Subscription": {
         "1Y": {
@@ -769,6 +777,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_EN": null,
+    "Post_Purchase_License_Activation_URL_EN": null,
     "Base": {
       "Subscription": {
         "1Y": {
@@ -949,6 +959,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_EN": null,
+    "Post_Purchase_License_Activation_URL_EN": null,
     "Base": {
       "Subscription": {
         "1Y": {
@@ -1129,6 +1141,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_EN": null,
+    "Post_Purchase_License_Activation_URL_EN": null,
     "Base": {
       "Subscription": {
         "1Y": {
@@ -1309,6 +1323,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_EN": null,
+    "Post_Purchase_License_Activation_URL_EN": null,
     "Base": {
       "Subscription": {
         "1Y": {
@@ -1489,6 +1505,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_EN": null,
+    "Post_Purchase_License_Activation_URL_EN": null,
     "Base": {
       "Subscription": {
         "1Y": {
@@ -1669,6 +1687,8 @@
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_EN": null,
+    "Post_Purchase_License_Activation_URL_EN": null,
     "Base": {
       "Subscription": {
         "1Y": {
