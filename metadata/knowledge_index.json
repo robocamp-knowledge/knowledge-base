@@ -1,73 +1,163 @@
 {
-  "generated_at": "2026-02-09T05:27:22.475046Z",
+  "generated_at": "2026-02-16T05:27:06.553654Z",
   "sources": {
     "articles": [
       {
-        "slug": "lego-science-review",
-        "article_id": "lego-science-review",
-        "language": "en",
-        "title": "LEGO Education Science Review: Convenience at cost of freedom",
-        "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/",
+        "slug": "3d-printing-in-school",
+        "article_id": "3d-printing-in-school",
+        "language": "pl",
+        "title": "Drukarka 3D w szkole – możliwości, mity i lekcja krok po kroku",
+        "canonical_url": "https://www.robocamp.pl/pl/blog/druk-3d-robotyka-w-szkole/",
         "chapters": [
           {
             "chapter_id": "1",
-            "title": "LEGO Education Science Review: Convenience at cost of freedom",
-            "summary": "LEGO® Education Science is introduced as a screen-free STEM line positioned between classic LEGO robotics and offline science kits, distinct from SPIKE Prime and SPIKE Essential. The sets include electronic components that run via pre-programmed motion sequences triggered by connect cards, while the product is explicitly not designed to teach programming. The core trade-off is a convenient, repeatable 45-minute “plug-and-teach” lesson flow versus reduced construction freedom and engineering skill development. It is framed as a fit for early primary science/physics teaching and quick cover lessons, with SPIKE (and optionally BricQ Motion) presented as alternatives for more open-ended engineering and coding.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/"
+            "title": "Drukarka 3D w szkole – możliwości, mity i lekcja krok po kroku",
+            "summary": "Rozdział opisuje sytuację, w której drukarka 3D stała się obowiązkowym wyposażeniem publicznych szkół podstawowych, a szkoły mają już sprzęt i filamenty, oraz wskazanego nauczyciela do obsługi. Podkreśla, że brakuje informacji o praktycznym wykorzystaniu druku 3D na lekcjach, w tym materiałów dydaktycznych i przygotowania do codziennej pracy. Autor zapowiada analizę rzeczywistych możliwości i ograniczeń edukacyjnych drukarki 3D, opartą na doświadczeniach własnych i pracach naukowych dydaktyków z ostatnich lat.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/druk-3d-robotyka-w-szkole/"
           },
           {
             "chapter_id": "2",
-            "title": "What’s in the box",
-            "summary": "The chapter describes the physical packaging and the three age-banded LEGO Education Science kits, noting that the new boxes are smaller but made of cheaper, more crack-prone plastic and lack a full sorting tray system. Each core set is designed for four children and includes three printed building booklets, while electronics and connect cards increase with age level. The K-2 kit (45620) includes 277 elements and a dual motor at 329.95 USD, the 3-5 kit (45621) adds a wireless controller and two connect cards at 399.95 USD, and the 6-8 kit (45622) adds more electronics including a color sensor at 499.95 USD. Classroom Bundles of six sets include extras such as multi-chargers, spare parts, and additional connect cards, and LEGO guarantees access to a Teacher Portal for all three sets.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/#whats-in-the-box"
+            "title": "Mity o druku 3D w szkole",
+            "summary": "Rozdział wskazuje, że wiele tekstów o drukarkach 3D to materiały marketingowe producentów, które rzadko omawiają ograniczenia i rozwiązywanie problemów. Opisuje mit, że druk 3D jest szybki i bezproblemowy, podkreślając długi czas druku pojedynczego modelu oraz typowe awarie, takie jak zatkana głowica czy odklejenie modelu od stołu. Wyjaśnia też, że drukarka 3D w szkole jest przede wszystkim narzędziem nauczyciela, brakuje przystosowanych materiałów i programu nauczania, a rzetelne dane o wpływie na wyniki w nauce są nadal ograniczone; na koniec wskazuje dwa kierunki zastosowań: drukowanie rekwizytów i naukę projektowania.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/druk-3d-robotyka-w-szkole/#mity-o-druku-3d-w-szkole"
           },
           {
             "chapter_id": "3",
-            "title": "Building bricks",
-            "summary": "The Science sets use a muted palette dominated by turquoise, brown, and bright coral to visually distinguish the line, with printed materials kept more subdued. The box contains significantly more System bricks than Technic elements, a reversal from prior LEGO Education launches and a choice that favors younger users while limiting moving mechanisms. Notable parts include rounded baseplates with fewer studs, rubber plates with plastic studs for grip, and a stud-ended string in the K-2 set reminiscent of WeDo 1.0. The scarcity of mechanical elements like wheels and gears constrains construction and makes mechanical topics beyond basics harder to teach, which is illustrated by simpler models such as the Bird Nest comparison across multiple LEGO Education sets.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/#building-bricks"
+            "title": "Rekwizyty 3D",
+            "summary": "Rozdział definiuje rekwizyty 3D jako obiekty wydrukowane na drukarce 3D, które można wykorzystać na lekcjach różnych przedmiotów jako eksponat lub element zadania, a w razie uszkodzenia wydrukować ponownie. Opisuje, że modele wyszukuje się w internetowych bibliotekach 3D (często po angielsku), pobiera w formacie STL i drukuje po przygotowaniu w slicerze, przy czym część modeli jest darmowa, a za bardziej skomplikowane bywa pobierana jednorazowa opłata. Wśród zalet wymienia wzrost zainteresowania przedmiotem, większą stymulację dzięki elementom kinestetycznym oraz niski koszt oparty na filamencie PLA, a wśród wad brak kontaktu ucznia z procesem druku i projektowania, ograniczoną wartość edukacyjną oraz ograniczenia wynikające z różnic materiału, rozmiaru obszaru roboczego i czasu druku.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/druk-3d-robotyka-w-szkole/#rekwizyty-3d"
           },
           {
             "chapter_id": "4",
-            "title": "Electronic elements",
-            "summary": "The chapter introduces an entirely new electronics system for LEGO Education Science, designed for offline use where connect cards trigger pre-programmed commands without screens. Despite the screen-free default, the electronics can also be programmed via the Coding Canvas app using block-based code, with wireless Bluetooth connections and no cables. The amount of electronics increases with older kits, and LEGO prevents using only the oldest set across all age groups by including unique building elements per set for Teacher Portal lessons. It then details core components including the single motor (45650) with an absolute encoder, the dual motor (45651) with two heads and motion sensing, the controller (45652) with ±90° levers and ~45-minute charge time, and the color sensor (45653) detecting six colors at 4–16 mm.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/#electronic-elements"
+            "title": "Przykładowe rekwizyty 3D na lekcje STEAM",
+            "summary": "Rozdział przedstawia przykładowe projekty rekwizytów 3D na lekcje STEAM, z oceną trudności w skali od ⭐ do ⭐⭐⭐ oraz z podanymi szacunkami czasu druku i zużycia filamentu PLA. Szacunki zostały wykonane dla drukarki Flashforge Adventurer 4 przy optymalnych ustawieniach, a rozdział podaje, że 1 m filamentu PLA 1.75 mm waży około 2,98 g i że w szpuli 1 kg jest około 335 m. W sekcjach dla biologii, matematyki, geografii, historii, fizyki i sztuki rozdział podaje konkretne modele z linkami, wraz z czasem druku (np. 4 godz. 40 min., 15 godz., 35+ godz., 40+ godz.) i długością filamentu (np. 17,5 m, 13,02 m, 165 m) oraz dodatkowymi akcesoriami, takimi jak klej, magnesy czy wiertarka.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/druk-3d-robotyka-w-szkole/#rekwizyty-3d"
           },
           {
             "chapter_id": "5",
-            "title": "Connect cards (45657)",
-            "summary": "Connect cards (45657) replace the traditional hub-and-cable control model used in earlier LEGO Education robotics sets by enabling wireless offline activation of factory-programmed behaviors stored in each element. Users power on components, tap them with a chosen card, and the LED shows the card’s color to indicate grouping and readiness, with card colors serving as tags that define which motors and sensors cooperate. LEGO has not disclosed the underlying card technology, but the chapter suggests it is likely NFC or a related short-range system using passive transponders. The hub-free design reduces cables in builds but increases charging workload because each electronic element needs power separately, which leads to the multi-charger (45623) offering eight USB-C plugs to charge eight elements in under an hour.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/#connect-cards-45657"
+            "title": "Projektowanie 3D",
+            "summary": "Rozdział opisuje scenariusz zajęć, w którym uczniowie projektują modele 3D na podstawie zadania, przesyłają je nauczycielowi do druku, a następnie testują wydruki i w razie potrzeby poprawiają projekty do ponownego druku. Wskazuje zalety obejmujące wysoką wartość edukacyjną (m.in. naukę środowiska projektowego, elementy matematyki, wyobraźnię przestrzenną i często anglojęzyczny interfejs), rozwijanie kompetencji przyszłości oraz wsparcie kreatywności przy niewielkich kosztach organizacyjnych w sali informatycznej. Jednocześnie rozdział opisuje wady: konieczność specjalistycznych kwalifikacji nauczyciela (znajomość oprogramowania, slicera i drukarki), brak uniwersalnej ścieżki edukacyjnej dla szkoły podstawowej oraz dużą pracochłonność, ilustrowaną przykładem 12-osobowej grupy i średnio 2 godzin druku na projekt, co może oznaczać cały weekend z drukarką.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/druk-3d-robotyka-w-szkole/#projektowanie-3d"
           },
           {
             "chapter_id": "6",
-            "title": "Working with the set and teaching materials",
-            "summary": "LEGO® positions Science sets as hands-on teaching aids for science and math that should make experiments faster and more engaging than improvised materials, while aiming for repeatable use and “aha moments.” The chapter questions the 45-minute lesson promise by citing a LEGO implementation report where many lessons took 45–60 minutes and some were extended further, and it notes practical issues like lost/mixed bricks and frequent charging. Classroom use is organized around groups of four students with matching minifigures and printed instruction roles, which can reduce the number of sets needed but may require rearranging tables and can create confusion about task ownership. The intended collaboration model can speed building but may also cause tensions and classroom chaos compared with simpler pair work.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/#working-with-the-set-and-teaching-materials"
+            "title": "Robotyka 3D – czyli roboty i projektowanie 3D",
+            "summary": "Rozdział opisuje połączenie robotyki edukacyjnej z projektowaniem 3D, w którym nauczyciel prowadzi standardową lekcję robotyki (wprowadzenie, budowanie, badanie i programowanie), a uczniowie projektują element 3D do wykonania dodatkowych zadań z robotem. Ukończone projekty są przesyłane do nauczyciela do druku i testowane przez uczniów z robotem, przy czym rozdział podkreśla dostęp do instrukcji krok po kroku oraz gotowych projektów na platformie RoboCamp, co ma skracać czas nauki i ograniczać liczbę błędów. W części „Lekcja w praktyce” opisano zestaw filmów dla uczniów w wieku 12 lat i starszych, pracę z robotem Manipulator z klocków LEGO Education SPIKE Prime oraz trzy projekty (beczka, kolba Erlenmeyera i ciężarek) przygotowywane m.in. w Autodesk Fusion 360 i drukowane po ustawieniu parametrów slicera dla drukarki Flashforge Adventurer 3.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/druk-3d-robotyka-w-szkole/#robotyka-3d-czyli-roboty-i-projektowanie-3d"
           },
           {
             "chapter_id": "7",
-            "title": "Teaching materials and Teacher Portal",
-            "summary": "LEGO Education promotes the Teacher Portal and teaching materials as a key strength of Science, offering 40 NGSS-aligned lessons per set spanning Life Science, Physical Science, Engineering Design, and Earth and Space Science. The chapter notes that coverage is incomplete, with gaps especially in Earth & Space Science and missing topics such as waves and sound, while engineering is covered thoroughly. It argues that such standards-mapped lesson plans could have been created for existing sets rather than requiring a new expensive series, and points to RoboCamp’s SPIKE curricula as an example of multi-year programming-aligned planning. Materials are delivered via an online Teacher Portal plus printed building instructions, but matching printed models to portal lessons is difficult due to missing search, non-representative lesson tiles, and code-only references.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/#teaching-materials-and-teacher-portal"
+            "title": "Jak przygotować się do pracy z drukarką 3D",
+            "summary": "Rozdział wskazuje, że drukowanie 3D w szkole może służyć jako fabryka rekwizytów, narzędzie do nauki projektowania lub element lekcji robotyki, i podkreśla potrzebę przygotowania do pracy z drukarką. Zaleca udział w szkoleniu najlepiej dopasowanym do konkretnego modelu drukarki, obejmującym uruchomienie, obsługę oprogramowania, ustawienia i parametry oraz rodzaje filamentu, po którym użytkownik powinien umieć m.in. wymienić filament, wydrukować model z pliku i rozwiązać proste usterki. Rozdział zachęca do samodzielnej praktyki (m.in. poziomowanie stołu, obserwacja ekstrudera i dyszy oraz uczenie się na błędach typu „spaghetti”), korzystania z gotowych materiałów edukacyjnych oraz przygotowania mentalnego na błędy, długi czas pracy i współpracę z uczniami oraz innymi nauczycielami.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/druk-3d-robotyka-w-szkole/#jak-przygotowac-sie-do-pracy-z-drukarka-3d"
+          }
+        ]
+      },
+      {
+        "slug": "3d-printing-in-school",
+        "article_id": "3d-printing-in-school",
+        "language": "en",
+        "title": "3D Printer in School – Myths, Real Uses, and Robotics with 3D Printing",
+        "canonical_url": "https://www.robocamp.eu/en/blog/3d-printing-in-school/",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "title": "Introduction: 3D Printer in School – Context and Goals",
+            "summary": "The chapter describes how 3D printers are increasingly common in North American schools, especially in STEM labs, makerspaces, and technology classrooms. It notes that many schools already have equipment set up, filament stored, and a teacher managing printing, but guidance on practical lesson use remains limited. The chapter states the article analyzes primary-school use based on the authors’ experience and educators’ academic work, focusing on real possibilities and educational limitations as well as preparation and materials needed for daily teaching.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/3d-printing-in-school/"
+          },
+          {
+            "chapter_id": "2",
+            "title": "Myths About 3D Printing in School",
+            "summary": "The chapter argues that many online texts about 3D printing are manufacturer-sponsored marketing and rarely address limitations or problem-solving. It states printing is not fast, trouble-free, or inherently educational, and watching the entire print is unnecessary and discouraged, with failures such as nozzle clogs or model detachment requiring diagnosis and reprinting. It also says the printer is mainly a teacher tool due to long print times and maintenance responsibility, and notes access and adoption vary while mainstream-ready curricula, training, and lesson plans are lacking, leaving much on teachers’ shoulders.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/3d-printing-in-school/#myths-about-3d-printing-in-school"
+          },
+          {
+            "chapter_id": "3",
+            "title": "3D Props for Lessons",
+            "summary": "The chapter defines 3D props as objects printed on a 3D printer that relate to a lesson topic and can be used in virtually any school subject. It describes classroom uses such as passing props around, viewing them up close, and embedding them in student tasks, with the option to reprint if they break. It explains teachers typically select models from online 3D libraries, download STL files, and print them via a slicer, while noting advantages like increased interest, multisensory stimulation, and low PLA filament cost, alongside disadvantages such as no student contact with printing and limits from build area and print time.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/3d-printing-in-school/#3d-props-for-lessons"
+          },
+          {
+            "chapter_id": "4",
+            "title": "Selected 3D models for STEAM lessons we tried ourselves",
+            "summary": "The chapter presents a set of tested STEAM lesson models sourced from online databases, rated from easy (⭐) to very demanding (⭐⭐⭐). It states print time and PLA usage estimates were made with optimal settings for the Flashforge Adventurer 4, and gives reference conversions of 2.98 grams per meter of 1.75 mm PLA and about 335 meters per 1 kg spool. The examples span Biology, Mathematics, Geography, Physics, History, and Art, and include specific items such as a plant cell, a regular icosahedron, a topographic map of Europe, a Solar System model, a Colosseum, and a Moai head with listed print times and filament lengths.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/3d-printing-in-school/#selected-3d-models-for-steam-lessons-we-tried-ourselves"
+          },
+          {
+            "chapter_id": "5",
+            "title": "3D Design",
+            "summary": "The chapter describes a 3D design lesson workflow where students create digital models to solve a task, submit them to the teacher for printing, and then test and revise designs through reprints if needed. It states students work individually or in groups but the designing part is a solo assignment, and the printed model is used to complete the initial task. The chapter lists benefits such as learning a virtual design environment, developing spatial imagination and math-related elements, and understanding digital versus physical constraints, while also noting challenges including the need for teacher expertise with software, slicers, and printer troubleshooting, and the time burden of printing many student projects (e.g., 12 students at 2 hours per model).",
+            "canonical_url": "https://www.robocamp.eu/en/blog/3d-printing-in-school/#3d-design"
+          },
+          {
+            "chapter_id": "6",
+            "title": "3D Robotics – Designing Parts for Robots",
+            "summary": "The chapter explains an approach that combines educational robotics lessons with 3D design by having students design a small 3D element that enables a robot to perform a specific task. It describes a workflow where the teacher runs a standard robotics lesson (introduction, building, testing, programming), students follow step-by-step design instructions, and the teacher prints submitted projects for students to test with the robot. The chapter gives example projects such as building and programming a butterfly out of LEGO® bricks and printing custom wings, or designing and printing a unique rotor for a wind turbine mechanism, and it links this approach to short print times due to small robot parts and to skill areas like programming, 3D design, and problem-solving.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/3d-printing-in-school/#3d-robotics-designing-parts-for-robots"
+          },
+          {
+            "chapter_id": "7",
+            "title": "How to prepare for working with a 3D printer",
+            "summary": "The chapter outlines preparation steps for using a school 3D printer, including model-specific training, frequent practice printing, and starting with proven educational materials such as a RoboCamp lesson plan for Butterfly with 3D printed wings. It specifies training should cover startup, software, key settings and parameters, and filament types, aiming for comfort with loading and changing filament, printing from a file, and fixing small issues. It also advises basic safety practices like good ventilation and supervision when the printer is heated or moving, and it lists sources for further reading on 3D printing in education, including publications hosted by Springer, Frontiers, Taylor & Francis, and other repositories.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/3d-printing-in-school/#how-to-prepare-for-working-with-a-3d-printer"
+          }
+        ]
+      },
+      {
+        "slug": "homeschool-robotics-made-easy",
+        "article_id": "homeschool-robotics-made-easy",
+        "language": "en",
+        "title": "Homeschool robotics made easy: Start robotics at home with RoboCamp and LEGO",
+        "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "title": "Homeschool robotics made easy: Start robotics at home with RoboCamp and LEGO",
+            "summary": "The chapter frames starting robotics and programming at home as potentially overwhelming without a tech background, but describes it as an activity families can enjoy together once they find their footing. It lists skills built through STEM projects in a homeschooling curriculum, including breaking down problems, creating solutions, and learning to tinker and adapt. It also names RoboCamp lesson plans and LEGO Education as resources to help families begin and choose tools for exploring programming and robotics together.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/"
+          },
+          {
+            "chapter_id": "2",
+            "title": "Who is Qualified to Teach Robotics at Home",
+            "summary": "The chapter states that a parent is qualified to teach robotics at home if robotics has caught their interest, and it says a tech background is not required. It describes beginner educational robotics in terms of motors, sensors, and code working together. It mentions learning support options such as short guides or video tutorials, emphasizes step-by-step lesson plans with clear explanations, and notes help from homeschool groups online or a structured curriculum.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#who-is-qualified-to-teach-robotics-at-home"
+          },
+          {
+            "chapter_id": "3",
+            "title": "Why LEGO Sets are Perfect for Homeschooling",
+            "summary": "The chapter explains that LEGO sets fit homeschooling because kids learn by building and exploring, and it says kits can scale by adjusting project difficulty. It notes that LEGO Education kits use intuitive software for both kids and parents, and that one set can serve ages 6–9 and 9–12 by changing project complexity and programming language. It also mentions using extra LEGO bricks at home to expand RoboCamp projects and includes a quote from Marta about moving from guessing through coding lessons to looking forward to “robot day.”",
+            "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#why-lego-sets-are-perfect-for-homeschooling"
+          },
+          {
+            "chapter_id": "4",
+            "title": "LEGO Education WeDo 2.0 – best for younger kids (ages 6–9)",
+            "summary": "The chapter presents LEGO Education WeDo 2.0 as a beginner-friendly robotics kit for ages 6–9 and notes it is officially considered a retired product. It says used kits can still be found for around $150–200 online and lists included parts such as 280+ LEGO elements, a Bluetooth smart hub, a motor, and tilt and distance sensors. It also lists programming options including WeDo 2.0 icon blocks based on Scratch, compatibility with Scratch 3.0, and availability on Windows, macOS, iOS, Android, and Chromebook.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#lego-education-wedo-20-best-for-younger-kids-ages-69"
+          },
+          {
+            "chapter_id": "5",
+            "title": "LEGO Education SPIKE Prime – best for older students (ages 9+)",
+            "summary": "The chapter describes LEGO Education SPIKE Prime as a set for students ages 9+ and states it supports 2–4 years of progressive STEM learning from block-based coding to Python. It lists parts such as 520+ LEGO Technic elements and a Smarthub with 6 input/output ports, a 5x5 LED matrix, a gyroscope, and a speaker, along with sensors and motors. It also lists programming options (Icon Blocks, Word Blocks, Python), the supported platforms (Windows, macOS, iPadOS, Chromebook), and example builds including a bumper car, a robotic manipulator, and a claw machine.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#lego-education-spike-prime-best-for-older-students-ages-9"
+          },
+          {
+            "chapter_id": "6",
+            "title": "Quick Comparison : WeDo 2.0 and SPIKE Prime",
+            "summary": "The chapter provides a side-by-side table comparing LEGO Education WeDo 2.0 and LEGO Education SPIKE Prime across essential features. It contrasts recommended age (6–9 vs 9+), number of elements (280 vs 520), and RoboCamp curriculum counts (95 lesson plans vs 61 lesson plans, more soon). It also compares sensors, motors, programming languages, platform compatibility, and estimated prices ($150–200 used vs $400+ new).",
+            "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#quick-comparison-wedo-20-and-spike-prime"
+          },
+          {
+            "chapter_id": "7",
+            "title": "Why We Recommend Only These Two Sets for Homeschooling?",
+            "summary": "The chapter states that RoboCamp trusts two LEGO Education sets for homeschool STEM learning: SPIKE Prime and WeDo 2.0. It says RoboCamp created more than 100 complete lesson plans for them, totaling more than 200 hours of structured activities, and contrasts this with how quickly a regular LEGO set is used up. It also notes that WeDo 2.0 works with Scratch, SPIKE Prime connects with tools like Tinkercad, and that lesson plans are available for SPIKE Essential and LEGO MINDSTORMS as well.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#why-we-recommend-only-these-two-sets-for-homeschooling"
           },
           {
             "chapter_id": "8",
-            "title": "Coding Canvas app",
-            "summary": "Coding Canvas is a browser-based app for programming LEGO Science electronics with block code similar to SPIKE Word Blocks, allowing up to 10 Bluetooth-connected elements at once. The chapter lists key constraints: connect-card grouping is not recognized in programming mode, Science electronics are not compatible with SPIKE electronics, Icon Blocks exists but is currently too limited to be practical, and the app is only available in English. It argues that the app exposes a contradiction in marketing because Science is promoted as completely screen-free while the full electronics potential (e.g., motor power, speed, custom motion sequences) requires the app, and LEGO does not highlight this at purchase. The lack of teacher support and the mismatch with the four-student workflow are presented as practical barriers that contribute to a perception of a chaotic product direction.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/#coding-canvas-app"
-          },
-          {
-            "chapter_id": "9",
-            "title": "Capabilities of the set",
-            "summary": "The chapter evaluates LEGO Education Science in two frames: as a closed, ready-made product built around NGSS-aligned lessons and as an open set for going beyond the manufacturer’s framework. As a closed classroom tool, it is presented as convenient and predictable, enabling screen-free demonstrations started via connect cards without requiring coding, IT infrastructure, or deep tech knowledge, and it is positioned between SPIKE and BricQ Motion in engagement and complexity. The downsides include symbolic models, limited construction and programming freedom, and weaker suitability for robotics clubs, long-term projects, and iterative engineering work where SPIKE is framed as a better fit. As an open product, constraints include a scarcity of Technic elements and practical integration limits, while cable-free electronics are a major benefit but preprogrammed motor behavior limits mechanisms unless Coding Canvas programming is used, which undermines the intended offline model.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/#capabilities-of-the-set"
-          },
-          {
-            "chapter_id": "10",
-            "title": "Conclusions: Is LEGO Science for you",
-            "summary": "The conclusion summarizes Science as strong at delivering 40 ready-made NGSS-aligned lessons for screen-free, offline learning, while highlighting a rigid system, high price, and a suboptimal group-work model as key drawbacks. It positions the product as appealing to early primary math and science teachers and school budget decision-makers because it bundles bricks, electronics, and teaching materials without needing extra devices, yet it warns that limited building and the default exclusion of programming restrict broader engineering creativity. In comparisons, Science is described as weaker than SPIKE Essential and SPIKE Prime for construction and programming potential, with its primary advantage being offline operation and cable-free electronics alongside the burden of charging many components. The value section contrasts total Science costs for ages 5–14 with SPIKE and BricQ Motion price points and argues that Science makes sense when convenience, onboarding, and truly screen-free delivery matter most, while its price-to-capability ratio is less favorable versus existing LEGO Education sets.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/#conclusions-is-lego-science-for-you"
+            "title": "Lesson Plans for Homeschoolers: How RoboCamp Makes Robotics Easy",
+            "summary": "The chapter describes RoboCamp lesson plans for homeschoolers as a way to start robotics and programming at home with guidance, and it includes a quote about using the lessons after lunch two days a week with no planning stress. It lists what access includes, such as step-by-step lesson plans, coding instructions for Icon Blocks, Scratch, Word Blocks, and Python, and courses divided into beginner, intermediate, and expert levels. It also states the lesson plans are secular and flexible, and it invites families to fill out a form for a personalized plan and a discount of up to 80%.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#lesson-plans-for-homeschoolers-how-robocamp-makes-robotics-easy"
           }
         ]
       },
@@ -141,161 +231,71 @@
         ]
       },
       {
-        "slug": "3d-printing-in-school",
-        "article_id": "3d-printing-in-school",
+        "slug": "lego-science-review",
+        "article_id": "lego-science-review",
         "language": "en",
-        "title": "3D Printer in School – Myths, Real Uses, and Robotics with 3D Printing",
-        "canonical_url": "https://www.robocamp.eu/en/blog/3d-printing-in-school/",
+        "title": "LEGO Education Science Review: Convenience at cost of freedom",
+        "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/",
         "chapters": [
           {
             "chapter_id": "1",
-            "title": "Introduction: 3D Printer in School – Context and Goals",
-            "summary": "The chapter describes how 3D printers are increasingly common in North American schools, especially in STEM labs, makerspaces, and technology classrooms. It notes that many schools already have equipment set up, filament stored, and a teacher managing printing, but guidance on practical lesson use remains limited. The chapter states the article analyzes primary-school use based on the authors’ experience and educators’ academic work, focusing on real possibilities and educational limitations as well as preparation and materials needed for daily teaching.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/3d-printing-in-school/"
+            "title": "LEGO Education Science Review: Convenience at cost of freedom",
+            "summary": "LEGO® Education Science is introduced as a screen-free STEM line positioned between classic LEGO robotics and offline science kits, distinct from SPIKE Prime and SPIKE Essential. The sets include electronic components that run via pre-programmed motion sequences triggered by connect cards, while the product is explicitly not designed to teach programming. The core trade-off is a convenient, repeatable 45-minute “plug-and-teach” lesson flow versus reduced construction freedom and engineering skill development. It is framed as a fit for early primary science/physics teaching and quick cover lessons, with SPIKE (and optionally BricQ Motion) presented as alternatives for more open-ended engineering and coding.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/"
           },
           {
             "chapter_id": "2",
-            "title": "Myths About 3D Printing in School",
-            "summary": "The chapter argues that many online texts about 3D printing are manufacturer-sponsored marketing and rarely address limitations or problem-solving. It states printing is not fast, trouble-free, or inherently educational, and watching the entire print is unnecessary and discouraged, with failures such as nozzle clogs or model detachment requiring diagnosis and reprinting. It also says the printer is mainly a teacher tool due to long print times and maintenance responsibility, and notes access and adoption vary while mainstream-ready curricula, training, and lesson plans are lacking, leaving much on teachers’ shoulders.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/3d-printing-in-school/#myths-about-3d-printing-in-school"
+            "title": "What’s in the box",
+            "summary": "The chapter describes the physical packaging and the three age-banded LEGO Education Science kits, noting that the new boxes are smaller but made of cheaper, more crack-prone plastic and lack a full sorting tray system. Each core set is designed for four children and includes three printed building booklets, while electronics and connect cards increase with age level. The K-2 kit (45620) includes 277 elements and a dual motor at 329.95 USD, the 3-5 kit (45621) adds a wireless controller and two connect cards at 399.95 USD, and the 6-8 kit (45622) adds more electronics including a color sensor at 499.95 USD. Classroom Bundles of six sets include extras such as multi-chargers, spare parts, and additional connect cards, and LEGO guarantees access to a Teacher Portal for all three sets.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/#whats-in-the-box"
           },
           {
             "chapter_id": "3",
-            "title": "3D Props for Lessons",
-            "summary": "The chapter defines 3D props as objects printed on a 3D printer that relate to a lesson topic and can be used in virtually any school subject. It describes classroom uses such as passing props around, viewing them up close, and embedding them in student tasks, with the option to reprint if they break. It explains teachers typically select models from online 3D libraries, download STL files, and print them via a slicer, while noting advantages like increased interest, multisensory stimulation, and low PLA filament cost, alongside disadvantages such as no student contact with printing and limits from build area and print time.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/3d-printing-in-school/#3d-props-for-lessons"
+            "title": "Building bricks",
+            "summary": "The Science sets use a muted palette dominated by turquoise, brown, and bright coral to visually distinguish the line, with printed materials kept more subdued. The box contains significantly more System bricks than Technic elements, a reversal from prior LEGO Education launches and a choice that favors younger users while limiting moving mechanisms. Notable parts include rounded baseplates with fewer studs, rubber plates with plastic studs for grip, and a stud-ended string in the K-2 set reminiscent of WeDo 1.0. The scarcity of mechanical elements like wheels and gears constrains construction and makes mechanical topics beyond basics harder to teach, which is illustrated by simpler models such as the Bird Nest comparison across multiple LEGO Education sets.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/#building-bricks"
           },
           {
             "chapter_id": "4",
-            "title": "Selected 3D models for STEAM lessons we tried ourselves",
-            "summary": "The chapter presents a set of tested STEAM lesson models sourced from online databases, rated from easy (⭐) to very demanding (⭐⭐⭐). It states print time and PLA usage estimates were made with optimal settings for the Flashforge Adventurer 4, and gives reference conversions of 2.98 grams per meter of 1.75 mm PLA and about 335 meters per 1 kg spool. The examples span Biology, Mathematics, Geography, Physics, History, and Art, and include specific items such as a plant cell, a regular icosahedron, a topographic map of Europe, a Solar System model, a Colosseum, and a Moai head with listed print times and filament lengths.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/3d-printing-in-school/#selected-3d-models-for-steam-lessons-we-tried-ourselves"
+            "title": "Electronic elements",
+            "summary": "The chapter introduces an entirely new electronics system for LEGO Education Science, designed for offline use where connect cards trigger pre-programmed commands without screens. Despite the screen-free default, the electronics can also be programmed via the Coding Canvas app using block-based code, with wireless Bluetooth connections and no cables. The amount of electronics increases with older kits, and LEGO prevents using only the oldest set across all age groups by including unique building elements per set for Teacher Portal lessons. It then details core components including the single motor (45650) with an absolute encoder, the dual motor (45651) with two heads and motion sensing, the controller (45652) with ±90° levers and ~45-minute charge time, and the color sensor (45653) detecting six colors at 4–16 mm.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/#electronic-elements"
           },
           {
             "chapter_id": "5",
-            "title": "3D Design",
-            "summary": "The chapter describes a 3D design lesson workflow where students create digital models to solve a task, submit them to the teacher for printing, and then test and revise designs through reprints if needed. It states students work individually or in groups but the designing part is a solo assignment, and the printed model is used to complete the initial task. The chapter lists benefits such as learning a virtual design environment, developing spatial imagination and math-related elements, and understanding digital versus physical constraints, while also noting challenges including the need for teacher expertise with software, slicers, and printer troubleshooting, and the time burden of printing many student projects (e.g., 12 students at 2 hours per model).",
-            "canonical_url": "https://www.robocamp.eu/en/blog/3d-printing-in-school/#3d-design"
+            "title": "Connect cards (45657)",
+            "summary": "Connect cards (45657) replace the traditional hub-and-cable control model used in earlier LEGO Education robotics sets by enabling wireless offline activation of factory-programmed behaviors stored in each element. Users power on components, tap them with a chosen card, and the LED shows the card’s color to indicate grouping and readiness, with card colors serving as tags that define which motors and sensors cooperate. LEGO has not disclosed the underlying card technology, but the chapter suggests it is likely NFC or a related short-range system using passive transponders. The hub-free design reduces cables in builds but increases charging workload because each electronic element needs power separately, which leads to the multi-charger (45623) offering eight USB-C plugs to charge eight elements in under an hour.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/#connect-cards-45657"
           },
           {
             "chapter_id": "6",
-            "title": "3D Robotics – Designing Parts for Robots",
-            "summary": "The chapter explains an approach that combines educational robotics lessons with 3D design by having students design a small 3D element that enables a robot to perform a specific task. It describes a workflow where the teacher runs a standard robotics lesson (introduction, building, testing, programming), students follow step-by-step design instructions, and the teacher prints submitted projects for students to test with the robot. The chapter gives example projects such as building and programming a butterfly out of LEGO® bricks and printing custom wings, or designing and printing a unique rotor for a wind turbine mechanism, and it links this approach to short print times due to small robot parts and to skill areas like programming, 3D design, and problem-solving.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/3d-printing-in-school/#3d-robotics-designing-parts-for-robots"
+            "title": "Working with the set and teaching materials",
+            "summary": "LEGO® positions Science sets as hands-on teaching aids for science and math that should make experiments faster and more engaging than improvised materials, while aiming for repeatable use and “aha moments.” The chapter questions the 45-minute lesson promise by citing a LEGO implementation report where many lessons took 45–60 minutes and some were extended further, and it notes practical issues like lost/mixed bricks and frequent charging. Classroom use is organized around groups of four students with matching minifigures and printed instruction roles, which can reduce the number of sets needed but may require rearranging tables and can create confusion about task ownership. The intended collaboration model can speed building but may also cause tensions and classroom chaos compared with simpler pair work.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/#working-with-the-set-and-teaching-materials"
           },
           {
             "chapter_id": "7",
-            "title": "How to prepare for working with a 3D printer",
-            "summary": "The chapter outlines preparation steps for using a school 3D printer, including model-specific training, frequent practice printing, and starting with proven educational materials such as a RoboCamp lesson plan for Butterfly with 3D printed wings. It specifies training should cover startup, software, key settings and parameters, and filament types, aiming for comfort with loading and changing filament, printing from a file, and fixing small issues. It also advises basic safety practices like good ventilation and supervision when the printer is heated or moving, and it lists sources for further reading on 3D printing in education, including publications hosted by Springer, Frontiers, Taylor & Francis, and other repositories.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/3d-printing-in-school/#how-to-prepare-for-working-with-a-3d-printer"
-          }
-        ]
-      },
-      {
-        "slug": "3d-printing-in-school",
-        "article_id": "3d-printing-in-school",
-        "language": "pl",
-        "title": "Drukarka 3D w szkole – możliwości, mity i lekcja krok po kroku",
-        "canonical_url": "https://www.robocamp.pl/pl/blog/druk-3d-robotyka-w-szkole/",
-        "chapters": [
-          {
-            "chapter_id": "1",
-            "title": "Drukarka 3D w szkole – możliwości, mity i lekcja krok po kroku",
-            "summary": "Rozdział opisuje sytuację, w której drukarka 3D stała się obowiązkowym wyposażeniem publicznych szkół podstawowych, a szkoły mają już sprzęt i filamenty, oraz wskazanego nauczyciela do obsługi. Podkreśla, że brakuje informacji o praktycznym wykorzystaniu druku 3D na lekcjach, w tym materiałów dydaktycznych i przygotowania do codziennej pracy. Autor zapowiada analizę rzeczywistych możliwości i ograniczeń edukacyjnych drukarki 3D, opartą na doświadczeniach własnych i pracach naukowych dydaktyków z ostatnich lat.",
-            "canonical_url": "https://www.robocamp.pl/pl/blog/druk-3d-robotyka-w-szkole/"
-          },
-          {
-            "chapter_id": "2",
-            "title": "Mity o druku 3D w szkole",
-            "summary": "Rozdział wskazuje, że wiele tekstów o drukarkach 3D to materiały marketingowe producentów, które rzadko omawiają ograniczenia i rozwiązywanie problemów. Opisuje mit, że druk 3D jest szybki i bezproblemowy, podkreślając długi czas druku pojedynczego modelu oraz typowe awarie, takie jak zatkana głowica czy odklejenie modelu od stołu. Wyjaśnia też, że drukarka 3D w szkole jest przede wszystkim narzędziem nauczyciela, brakuje przystosowanych materiałów i programu nauczania, a rzetelne dane o wpływie na wyniki w nauce są nadal ograniczone; na koniec wskazuje dwa kierunki zastosowań: drukowanie rekwizytów i naukę projektowania.",
-            "canonical_url": "https://www.robocamp.pl/pl/blog/druk-3d-robotyka-w-szkole/#mity-o-druku-3d-w-szkole"
-          },
-          {
-            "chapter_id": "3",
-            "title": "Rekwizyty 3D",
-            "summary": "Rozdział definiuje rekwizyty 3D jako obiekty wydrukowane na drukarce 3D, które można wykorzystać na lekcjach różnych przedmiotów jako eksponat lub element zadania, a w razie uszkodzenia wydrukować ponownie. Opisuje, że modele wyszukuje się w internetowych bibliotekach 3D (często po angielsku), pobiera w formacie STL i drukuje po przygotowaniu w slicerze, przy czym część modeli jest darmowa, a za bardziej skomplikowane bywa pobierana jednorazowa opłata. Wśród zalet wymienia wzrost zainteresowania przedmiotem, większą stymulację dzięki elementom kinestetycznym oraz niski koszt oparty na filamencie PLA, a wśród wad brak kontaktu ucznia z procesem druku i projektowania, ograniczoną wartość edukacyjną oraz ograniczenia wynikające z różnic materiału, rozmiaru obszaru roboczego i czasu druku.",
-            "canonical_url": "https://www.robocamp.pl/pl/blog/druk-3d-robotyka-w-szkole/#rekwizyty-3d"
-          },
-          {
-            "chapter_id": "4",
-            "title": "Przykładowe rekwizyty 3D na lekcje STEAM",
-            "summary": "Rozdział przedstawia przykładowe projekty rekwizytów 3D na lekcje STEAM, z oceną trudności w skali od ⭐ do ⭐⭐⭐ oraz z podanymi szacunkami czasu druku i zużycia filamentu PLA. Szacunki zostały wykonane dla drukarki Flashforge Adventurer 4 przy optymalnych ustawieniach, a rozdział podaje, że 1 m filamentu PLA 1.75 mm waży około 2,98 g i że w szpuli 1 kg jest około 335 m. W sekcjach dla biologii, matematyki, geografii, historii, fizyki i sztuki rozdział podaje konkretne modele z linkami, wraz z czasem druku (np. 4 godz. 40 min., 15 godz., 35+ godz., 40+ godz.) i długością filamentu (np. 17,5 m, 13,02 m, 165 m) oraz dodatkowymi akcesoriami, takimi jak klej, magnesy czy wiertarka.",
-            "canonical_url": "https://www.robocamp.pl/pl/blog/druk-3d-robotyka-w-szkole/#rekwizyty-3d"
-          },
-          {
-            "chapter_id": "5",
-            "title": "Projektowanie 3D",
-            "summary": "Rozdział opisuje scenariusz zajęć, w którym uczniowie projektują modele 3D na podstawie zadania, przesyłają je nauczycielowi do druku, a następnie testują wydruki i w razie potrzeby poprawiają projekty do ponownego druku. Wskazuje zalety obejmujące wysoką wartość edukacyjną (m.in. naukę środowiska projektowego, elementy matematyki, wyobraźnię przestrzenną i często anglojęzyczny interfejs), rozwijanie kompetencji przyszłości oraz wsparcie kreatywności przy niewielkich kosztach organizacyjnych w sali informatycznej. Jednocześnie rozdział opisuje wady: konieczność specjalistycznych kwalifikacji nauczyciela (znajomość oprogramowania, slicera i drukarki), brak uniwersalnej ścieżki edukacyjnej dla szkoły podstawowej oraz dużą pracochłonność, ilustrowaną przykładem 12-osobowej grupy i średnio 2 godzin druku na projekt, co może oznaczać cały weekend z drukarką.",
-            "canonical_url": "https://www.robocamp.pl/pl/blog/druk-3d-robotyka-w-szkole/#projektowanie-3d"
-          },
-          {
-            "chapter_id": "6",
-            "title": "Robotyka 3D – czyli roboty i projektowanie 3D",
-            "summary": "Rozdział opisuje połączenie robotyki edukacyjnej z projektowaniem 3D, w którym nauczyciel prowadzi standardową lekcję robotyki (wprowadzenie, budowanie, badanie i programowanie), a uczniowie projektują element 3D do wykonania dodatkowych zadań z robotem. Ukończone projekty są przesyłane do nauczyciela do druku i testowane przez uczniów z robotem, przy czym rozdział podkreśla dostęp do instrukcji krok po kroku oraz gotowych projektów na platformie RoboCamp, co ma skracać czas nauki i ograniczać liczbę błędów. W części „Lekcja w praktyce” opisano zestaw filmów dla uczniów w wieku 12 lat i starszych, pracę z robotem Manipulator z klocków LEGO Education SPIKE Prime oraz trzy projekty (beczka, kolba Erlenmeyera i ciężarek) przygotowywane m.in. w Autodesk Fusion 360 i drukowane po ustawieniu parametrów slicera dla drukarki Flashforge Adventurer 3.",
-            "canonical_url": "https://www.robocamp.pl/pl/blog/druk-3d-robotyka-w-szkole/#robotyka-3d-czyli-roboty-i-projektowanie-3d"
-          },
-          {
-            "chapter_id": "7",
-            "title": "Jak przygotować się do pracy z drukarką 3D",
-            "summary": "Rozdział wskazuje, że drukowanie 3D w szkole może służyć jako fabryka rekwizytów, narzędzie do nauki projektowania lub element lekcji robotyki, i podkreśla potrzebę przygotowania do pracy z drukarką. Zaleca udział w szkoleniu najlepiej dopasowanym do konkretnego modelu drukarki, obejmującym uruchomienie, obsługę oprogramowania, ustawienia i parametry oraz rodzaje filamentu, po którym użytkownik powinien umieć m.in. wymienić filament, wydrukować model z pliku i rozwiązać proste usterki. Rozdział zachęca do samodzielnej praktyki (m.in. poziomowanie stołu, obserwacja ekstrudera i dyszy oraz uczenie się na błędach typu „spaghetti”), korzystania z gotowych materiałów edukacyjnych oraz przygotowania mentalnego na błędy, długi czas pracy i współpracę z uczniami oraz innymi nauczycielami.",
-            "canonical_url": "https://www.robocamp.pl/pl/blog/druk-3d-robotyka-w-szkole/#jak-przygotowac-sie-do-pracy-z-drukarka-3d"
-          }
-        ]
-      },
-      {
-        "slug": "homeschool-robotics-made-easy",
-        "article_id": "homeschool-robotics-made-easy",
-        "language": "en",
-        "title": "Homeschool robotics made easy: Start robotics at home with RoboCamp and LEGO",
-        "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/",
-        "chapters": [
-          {
-            "chapter_id": "1",
-            "title": "Homeschool robotics made easy: Start robotics at home with RoboCamp and LEGO",
-            "summary": "The chapter frames starting robotics and programming at home as potentially overwhelming without a tech background, but describes it as an activity families can enjoy together once they find their footing. It lists skills built through STEM projects in a homeschooling curriculum, including breaking down problems, creating solutions, and learning to tinker and adapt. It also names RoboCamp lesson plans and LEGO Education as resources to help families begin and choose tools for exploring programming and robotics together.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/"
-          },
-          {
-            "chapter_id": "2",
-            "title": "Who is Qualified to Teach Robotics at Home",
-            "summary": "The chapter states that a parent is qualified to teach robotics at home if robotics has caught their interest, and it says a tech background is not required. It describes beginner educational robotics in terms of motors, sensors, and code working together. It mentions learning support options such as short guides or video tutorials, emphasizes step-by-step lesson plans with clear explanations, and notes help from homeschool groups online or a structured curriculum.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#who-is-qualified-to-teach-robotics-at-home"
-          },
-          {
-            "chapter_id": "3",
-            "title": "Why LEGO Sets are Perfect for Homeschooling",
-            "summary": "The chapter explains that LEGO sets fit homeschooling because kids learn by building and exploring, and it says kits can scale by adjusting project difficulty. It notes that LEGO Education kits use intuitive software for both kids and parents, and that one set can serve ages 6–9 and 9–12 by changing project complexity and programming language. It also mentions using extra LEGO bricks at home to expand RoboCamp projects and includes a quote from Marta about moving from guessing through coding lessons to looking forward to “robot day.”",
-            "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#why-lego-sets-are-perfect-for-homeschooling"
-          },
-          {
-            "chapter_id": "4",
-            "title": "LEGO Education WeDo 2.0 – best for younger kids (ages 6–9)",
-            "summary": "The chapter presents LEGO Education WeDo 2.0 as a beginner-friendly robotics kit for ages 6–9 and notes it is officially considered a retired product. It says used kits can still be found for around $150–200 online and lists included parts such as 280+ LEGO elements, a Bluetooth smart hub, a motor, and tilt and distance sensors. It also lists programming options including WeDo 2.0 icon blocks based on Scratch, compatibility with Scratch 3.0, and availability on Windows, macOS, iOS, Android, and Chromebook.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#lego-education-wedo-20-best-for-younger-kids-ages-69"
-          },
-          {
-            "chapter_id": "5",
-            "title": "LEGO Education SPIKE Prime – best for older students (ages 9+)",
-            "summary": "The chapter describes LEGO Education SPIKE Prime as a set for students ages 9+ and states it supports 2–4 years of progressive STEM learning from block-based coding to Python. It lists parts such as 520+ LEGO Technic elements and a Smarthub with 6 input/output ports, a 5x5 LED matrix, a gyroscope, and a speaker, along with sensors and motors. It also lists programming options (Icon Blocks, Word Blocks, Python), the supported platforms (Windows, macOS, iPadOS, Chromebook), and example builds including a bumper car, a robotic manipulator, and a claw machine.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#lego-education-spike-prime-best-for-older-students-ages-9"
-          },
-          {
-            "chapter_id": "6",
-            "title": "Quick Comparison : WeDo 2.0 and SPIKE Prime",
-            "summary": "The chapter provides a side-by-side table comparing LEGO Education WeDo 2.0 and LEGO Education SPIKE Prime across essential features. It contrasts recommended age (6–9 vs 9+), number of elements (280 vs 520), and RoboCamp curriculum counts (95 lesson plans vs 61 lesson plans, more soon). It also compares sensors, motors, programming languages, platform compatibility, and estimated prices ($150–200 used vs $400+ new).",
-            "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#quick-comparison-wedo-20-and-spike-prime"
-          },
-          {
-            "chapter_id": "7",
-            "title": "Why We Recommend Only These Two Sets for Homeschooling?",
-            "summary": "The chapter states that RoboCamp trusts two LEGO Education sets for homeschool STEM learning: SPIKE Prime and WeDo 2.0. It says RoboCamp created more than 100 complete lesson plans for them, totaling more than 200 hours of structured activities, and contrasts this with how quickly a regular LEGO set is used up. It also notes that WeDo 2.0 works with Scratch, SPIKE Prime connects with tools like Tinkercad, and that lesson plans are available for SPIKE Essential and LEGO MINDSTORMS as well.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#why-we-recommend-only-these-two-sets-for-homeschooling"
+            "title": "Teaching materials and Teacher Portal",
+            "summary": "LEGO Education promotes the Teacher Portal and teaching materials as a key strength of Science, offering 40 NGSS-aligned lessons per set spanning Life Science, Physical Science, Engineering Design, and Earth and Space Science. The chapter notes that coverage is incomplete, with gaps especially in Earth & Space Science and missing topics such as waves and sound, while engineering is covered thoroughly. It argues that such standards-mapped lesson plans could have been created for existing sets rather than requiring a new expensive series, and points to RoboCamp’s SPIKE curricula as an example of multi-year programming-aligned planning. Materials are delivered via an online Teacher Portal plus printed building instructions, but matching printed models to portal lessons is difficult due to missing search, non-representative lesson tiles, and code-only references.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/#teaching-materials-and-teacher-portal"
           },
           {
             "chapter_id": "8",
-            "title": "Lesson Plans for Homeschoolers: How RoboCamp Makes Robotics Easy",
-            "summary": "The chapter describes RoboCamp lesson plans for homeschoolers as a way to start robotics and programming at home with guidance, and it includes a quote about using the lessons after lunch two days a week with no planning stress. It lists what access includes, such as step-by-step lesson plans, coding instructions for Icon Blocks, Scratch, Word Blocks, and Python, and courses divided into beginner, intermediate, and expert levels. It also states the lesson plans are secular and flexible, and it invites families to fill out a form for a personalized plan and a discount of up to 80%.",
-            "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#lesson-plans-for-homeschoolers-how-robocamp-makes-robotics-easy"
+            "title": "Coding Canvas app",
+            "summary": "Coding Canvas is a browser-based app for programming LEGO Science electronics with block code similar to SPIKE Word Blocks, allowing up to 10 Bluetooth-connected elements at once. The chapter lists key constraints: connect-card grouping is not recognized in programming mode, Science electronics are not compatible with SPIKE electronics, Icon Blocks exists but is currently too limited to be practical, and the app is only available in English. It argues that the app exposes a contradiction in marketing because Science is promoted as completely screen-free while the full electronics potential (e.g., motor power, speed, custom motion sequences) requires the app, and LEGO does not highlight this at purchase. The lack of teacher support and the mismatch with the four-student workflow are presented as practical barriers that contribute to a perception of a chaotic product direction.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/#coding-canvas-app"
+          },
+          {
+            "chapter_id": "9",
+            "title": "Capabilities of the set",
+            "summary": "The chapter evaluates LEGO Education Science in two frames: as a closed, ready-made product built around NGSS-aligned lessons and as an open set for going beyond the manufacturer’s framework. As a closed classroom tool, it is presented as convenient and predictable, enabling screen-free demonstrations started via connect cards without requiring coding, IT infrastructure, or deep tech knowledge, and it is positioned between SPIKE and BricQ Motion in engagement and complexity. The downsides include symbolic models, limited construction and programming freedom, and weaker suitability for robotics clubs, long-term projects, and iterative engineering work where SPIKE is framed as a better fit. As an open product, constraints include a scarcity of Technic elements and practical integration limits, while cable-free electronics are a major benefit but preprogrammed motor behavior limits mechanisms unless Coding Canvas programming is used, which undermines the intended offline model.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/#capabilities-of-the-set"
+          },
+          {
+            "chapter_id": "10",
+            "title": "Conclusions: Is LEGO Science for you",
+            "summary": "The conclusion summarizes Science as strong at delivering 40 ready-made NGSS-aligned lessons for screen-free, offline learning, while highlighting a rigid system, high price, and a suboptimal group-work model as key drawbacks. It positions the product as appealing to early primary math and science teachers and school budget decision-makers because it bundles bricks, electronics, and teaching materials without needing extra devices, yet it warns that limited building and the default exclusion of programming restrict broader engineering creativity. In comparisons, Science is described as weaker than SPIKE Essential and SPIKE Prime for construction and programming potential, with its primary advantage being offline operation and cable-free electronics alongside the burden of charging many components. The value section contrasts total Science costs for ages 5–14 with SPIKE and BricQ Motion price points and argues that Science makes sense when convenience, onboarding, and truly screen-free delivery matter most, while its price-to-capability ratio is less favorable versus existing LEGO Education sets.",
+            "canonical_url": "https://www.robocamp.eu/en/blog/lego-science-review/#conclusions-is-lego-science-for-you"
           }
         ]
       }
