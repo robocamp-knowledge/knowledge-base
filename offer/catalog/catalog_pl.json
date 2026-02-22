@@ -703,7 +703,7 @@
         "_1Y": {
           "NoSub": {
             "_Price": {
-              "PL": null
+              "PL": 690.0
             },
             "_Link": {
               "PL": null
@@ -884,7 +884,7 @@
         "_1Y": {
           "NoSub": {
             "_Price": {
-              "PL": null
+              "PL": 690.0
             },
             "_Link": {
               "PL": null
@@ -1065,7 +1065,7 @@
         "_1Y": {
           "NoSub": {
             "_Price": {
-              "PL": null
+              "PL": 690.0
             },
             "_Link": {
               "PL": null
@@ -1246,7 +1246,7 @@
         "_1Y": {
           "NoSub": {
             "_Price": {
-              "PL": null
+              "PL": 690.0
             },
             "_Link": {
               "PL": null
@@ -1272,7 +1272,7 @@
     "Category": "Course",
     "Slug_EN": "3d-printing-spike",
     "Description": null,
-    "Product_description_URL": "https://www.robocamp.pl/pl/course-spike-prime-3d/",
+    "Product_description_URL": "https://www.robocamp.eu/en/course-spike-prime-3d/",
     "Reference_Document_URL": null,
     "Reference_Document_Type:": null,
     "Reference_Video_URL": null,
@@ -1332,7 +1332,7 @@
               "PL": 980.0
             },
             "_Link": {
-              "PL": null
+              "PL": "https://buy.stripe.com/5kQ8wP6zz0Wg3rm7pH1ck11?locale=pl"
             }
           }
         },
@@ -1393,10 +1393,10 @@
           },
           "NoSub": {
             "_Price": {
-              "PL": null
+              "PL": 980.0
             },
             "_Link": {
-              "PL": null
+              "PL": "https://buy.stripe.com/5kQ8wP6zz0Wg3rm7pH1ck11?locale=pl"
             }
           }
         }
@@ -1513,7 +1513,7 @@
               "PL": 980.0
             },
             "_Link": {
-              "PL": null
+              "PL": "https://buy.stripe.com/7sY8wP3nnfRa7HCbFX1ck13?locale=pl"
             }
           }
         },
@@ -1574,10 +1574,10 @@
           },
           "NoSub": {
             "_Price": {
-              "PL": null
+              "PL": 980.0
             },
             "_Link": {
-              "PL": null
+              "PL": "https://buy.stripe.com/7sY8wP3nnfRa7HCbFX1ck13?locale=pl"
             }
           }
         }
@@ -1694,7 +1694,7 @@
               "PL": 980.0
             },
             "_Link": {
-              "PL": null
+              "PL": "https://buy.stripe.com/dRmaEX7DD8oId1WbFX1ck0Z?locale=pl"
             }
           }
         },
@@ -1755,10 +1755,10 @@
           },
           "NoSub": {
             "_Price": {
-              "PL": null
+              "PL": 980.0
             },
             "_Link": {
-              "PL": null
+              "PL": "https://buy.stripe.com/dRmaEX7DD8oId1WbFX1ck0Z?locale=pl"
             }
           }
         }
@@ -1789,7 +1789,7 @@
         "_1Y": {
           "NoSub": {
             "_Price": {
-              "PL": null
+              "PL": 690.0
             },
             "_Link": {
               "PL": null
@@ -1875,7 +1875,7 @@
               "PL": 980.0
             },
             "_Link": {
-              "PL": null
+              "PL": "https://buy.stripe.com/dRmcN59LL48s6Dy4dv1ck10?locale=pl"
             }
           }
         },
@@ -1936,10 +1936,10 @@
           },
           "NoSub": {
             "_Price": {
-              "PL": null
+              "PL": 980.0
             },
             "_Link": {
-              "PL": null
+              "PL": "https://buy.stripe.com/dRmcN59LL48s6Dy4dv1ck10?locale=pl"
             }
           }
         }
@@ -1970,7 +1970,7 @@
         "_1Y": {
           "NoSub": {
             "_Price": {
-              "PL": null
+              "PL": 690.0
             },
             "_Link": {
               "PL": null
