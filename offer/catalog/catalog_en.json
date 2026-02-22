@@ -84,6 +84,14 @@
           "_Link": {
             "EN": "https://buy.stripe.com/cN26ql2ewg607Bu4gI?locale=en"
           }
+        },
+        "1M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
         }
       }
     },
@@ -122,14 +130,14 @@
             "EN": 645.0
           },
           "_Link": {
-            "EN": "https://buy.stripe.com/aEU1612ew4nicVO5ks?locale=en"
+            "EN": "https://buy.stripe.com/aEU1612ew4nicVO5ks"
           },
           "NoSub": {
             "_Price": {
               "EN": 645.0
             },
             "_Link": {
-              "EN": "https://buy.stripe.com/aFabJ13nn0Wge6039r1ck0U?locale=en"
+              "EN": "https://buy.stripe.com/aFabJ13nn0Wge6039r1ck0U"
             }
           }
         }
@@ -194,7 +202,7 @@
     "Reference_Video_Type": null,
     "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors, Parents / homeschool",
     "Buyer_Role_list": "School principal, Program director, After-school owner",
-    "Instructor_Count": "2-10",
+    "Instructor_Count": "3-8",
     "License_Scope": "Multi-instructor",
     "Hardware_Required_list": "At least one of: SPIKE Prime, SPIKE Essential, WeDo 2.0, Mindstorms EV3",
     "Software_Used_list": null,
@@ -266,6 +274,14 @@
           "_Link": {
             "EN": "https://buy.stripe.com/14k2a5dXe072aNG28D"
           }
+        },
+        "1M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
         }
       }
     },
@@ -308,10 +324,10 @@
           },
           "NoSub": {
             "_Price": {
-              "EN": null
+              "EN": 1059.0
             },
             "_Link": {
-              "EN": null
+              "EN": "https://buy.stripe.com/00waEX8HH6gA0fa9xP1ck15"
             }
           }
         }
@@ -333,6 +349,956 @@
           },
           "_Link": {
             "EN": "https://buy.stripe.com/eVa9Cx1asbPKbRKfZp"
+          }
+        }
+      }
+    },
+    "Homeschool": {
+      "_NoSub": {
+        "_1Y": {
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        },
+        "_2Y": {
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "": null
+  },
+  {
+    "Lp": null,
+    "Plan": "RoboCamp Business – 5 Instructors",
+    "Category": "plan",
+    "Slug_EN": "robocamp-business-5",
+    "Description": "Flexible monthly subscription for small teams of up to 5 instructors. Ideal for growing education companies, robotics studios, and STEM training centers that need shared access without annual commitment.",
+    "Product_description_URL": null,
+    "Reference_Document_URL": null,
+    "Reference_Document_Type:": null,
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
+    "Audience_list": "Private STEM schools; Robotics studios; After-school providers; Training companies; Growing education startups",
+    "Buyer_Role_list": "Founder; Academic Director; Operations Manager; Program Coordinator; Head of Education",
+    "Instructor_Count": "5 managed instructor seats",
+    "License_Scope": "Organization-wide, seat-based license allowing up to 5 active instructor accounts at any given time.\nSeats can be reassigned between instructors on a monthly basis, enabling flexible team management and staff rotation.",
+    "Hardware_Required_list": "At least one of: SPIKE Prime, SPIKE Essential, WeDo 2.0, Mindstorms EV4",
+    "Software_Used_list": null,
+    "Age_Range": "5-6, 7–9, 10–12, 12-17",
+    "Skill_Level": "Mixed",
+    "Skill_Progression": "Covers progression Across courses — from SPIKE Essential and SPIKE Prime Beginner to Expert and Python-level robotics.",
+    "Skill_Progression_Type": "Across courses",
+    "Outcomes_list": null,
+    "Includes": null,
+    "Why_This_Course_or_Plan": "Designed for small but structured teams that need shared curriculum access, centralized billing, and flexibility. Monthly model allows scaling without long-term financial commitment.",
+    "Lessons": {
+      "Total": "298",
+      "SPIKE": {
+        "Essential": "24",
+        "Prime": {
+          "Base": "85",
+          "3D_Printing": "10",
+          "Laser_Cutting": "10"
+        }
+      },
+      "WeDo20": "95",
+      "WeDo1": "37",
+      "EV3": {
+        "Education": "50",
+        "Home": "12"
+      },
+      "mBot": {
+        "Laser_Cutting": "10"
+      }
+    },
+    "Lessons_Science_1_3": "0",
+    "Lessons_Science_4_6": "0",
+    "Lessons_Science_7_9": "10",
+    "Lessons_CSAI_1_3": "0",
+    "Lessons_CSAI_4_6": "0",
+    "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_EN": null,
+    "Post_Purchase_License_Activation_URL_EN": null,
+    "Base": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        },
+        "6M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "3M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "1M": {
+          "_Price": {
+            "EN": 149.0
+          },
+          "_Link": {
+            "EN": "https://buy.stripe.com/28E7sL4rr8oI4vqaBT1ck17"
+          }
+        }
+      }
+    },
+    "Special": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "Renewal": {
+      "Subscription": {
+        "1Y": {
+          "_Promo": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          },
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "NGO": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "6M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        }
+      }
+    },
+    "Homeschool": {
+      "_NoSub": {
+        "_1Y": {
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        },
+        "_2Y": {
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "": null
+  },
+  {
+    "Lp": null,
+    "Plan": "RoboCamp Business – 10 Instructors",
+    "Category": "plan",
+    "Slug_EN": "robocamp-business-10",
+    "Description": "Monthly subscription for medium-sized education teams of up to 10 instructors. Suitable for multi-location training centers and expanding STEM providers.",
+    "Product_description_URL": null,
+    "Reference_Document_URL": null,
+    "Reference_Document_Type:": null,
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
+    "Audience_list": "Multi-branch STEM schools; Robotics franchises; Coding academies; Regional education providers",
+    "Buyer_Role_list": "CEO; Operations Director; Academic Director; Franchise Owner; Program Manager",
+    "Instructor_Count": "10 managed instructor seats",
+    "License_Scope": null,
+    "Hardware_Required_list": "At least one of: SPIKE Prime, SPIKE Essential, WeDo 2.0, Mindstorms EV5",
+    "Software_Used_list": null,
+    "Age_Range": "5-6, 7–9, 10–12, 12-18",
+    "Skill_Level": "Mixed",
+    "Skill_Progression": "Covers progression Across courses — from SPIKE Essential and SPIKE Prime Beginner to Expert and Python-level robotics.",
+    "Skill_Progression_Type": "Across courses",
+    "Outcomes_list": null,
+    "Includes": null,
+    "Why_This_Course_or_Plan": "Optimized for expanding organizations that require consistent curriculum access across multiple instructors while maintaining predictable monthly budgeting.",
+    "Lessons": {
+      "Total": "298",
+      "SPIKE": {
+        "Essential": "24",
+        "Prime": {
+          "Base": "85",
+          "3D_Printing": "10",
+          "Laser_Cutting": "10"
+        }
+      },
+      "WeDo20": "95",
+      "WeDo1": "37",
+      "EV3": {
+        "Education": "50",
+        "Home": "12"
+      },
+      "mBot": {
+        "Laser_Cutting": "10"
+      }
+    },
+    "Lessons_Science_1_3": "0",
+    "Lessons_Science_4_6": "0",
+    "Lessons_Science_7_9": "10",
+    "Lessons_CSAI_1_3": "0",
+    "Lessons_CSAI_4_6": "0",
+    "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_EN": null,
+    "Post_Purchase_License_Activation_URL_EN": null,
+    "Base": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        },
+        "6M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "3M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "1M": {
+          "_Price": {
+            "EN": 279.0
+          },
+          "_Link": {
+            "EN": "https://buy.stripe.com/28E7sL7DDcEY1je6lD1ck18"
+          }
+        }
+      }
+    },
+    "Special": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "Renewal": {
+      "Subscription": {
+        "1Y": {
+          "_Promo": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          },
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "NGO": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "6M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        }
+      }
+    },
+    "Homeschool": {
+      "_NoSub": {
+        "_1Y": {
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        },
+        "_2Y": {
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "": null
+  },
+  {
+    "Lp": null,
+    "Plan": "RoboCamp Business – 20 Instructors",
+    "Category": "plan",
+    "Slug_EN": "robocamp-business-20",
+    "Description": "Scalable monthly subscription for organizations with up to 20 instructors. Built for structured education companies delivering robotics and engineering programs at scale.",
+    "Product_description_URL": null,
+    "Reference_Document_URL": null,
+    "Reference_Document_Type:": null,
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
+    "Audience_list": "Established STEM companies; Regional training networks; International robotics academies; Large private schools",
+    "Buyer_Role_list": "Managing Director; Head of Curriculum; Operations Director; Education Network Coordinator",
+    "Instructor_Count": "20 managed instructor seats",
+    "License_Scope": null,
+    "Hardware_Required_list": "At least one of: SPIKE Prime, SPIKE Essential, WeDo 2.0, Mindstorms EV6",
+    "Software_Used_list": null,
+    "Age_Range": "5-6, 7–9, 10–12, 12-19",
+    "Skill_Level": "Mixed",
+    "Skill_Progression": "Covers progression Across courses — from SPIKE Essential and SPIKE Prime Beginner to Expert and Python-level robotics.",
+    "Skill_Progression_Type": "Across courses",
+    "Outcomes_list": null,
+    "Includes": null,
+    "Why_This_Course_or_Plan": "Ensures unified curriculum standards across larger instructor teams while supporting operational scalability and simplified subscription management.",
+    "Lessons": {
+      "Total": "298",
+      "SPIKE": {
+        "Essential": "24",
+        "Prime": {
+          "Base": "85",
+          "3D_Printing": "10",
+          "Laser_Cutting": "10"
+        }
+      },
+      "WeDo20": "95",
+      "WeDo1": "37",
+      "EV3": {
+        "Education": "50",
+        "Home": "12"
+      },
+      "mBot": {
+        "Laser_Cutting": "10"
+      }
+    },
+    "Lessons_Science_1_3": "0",
+    "Lessons_Science_4_6": "0",
+    "Lessons_Science_7_9": "10",
+    "Lessons_CSAI_1_3": "0",
+    "Lessons_CSAI_4_6": "0",
+    "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_EN": null,
+    "Post_Purchase_License_Activation_URL_EN": null,
+    "Base": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        },
+        "6M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "3M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "1M": {
+          "_Price": {
+            "EN": 549.0
+          },
+          "_Link": {
+            "EN": "https://buy.stripe.com/bJe9AT2jjfRaaTO8tL1ck19"
+          }
+        }
+      }
+    },
+    "Special": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "Renewal": {
+      "Subscription": {
+        "1Y": {
+          "_Promo": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          },
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "NGO": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "6M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        }
+      }
+    },
+    "Homeschool": {
+      "_NoSub": {
+        "_1Y": {
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        },
+        "_2Y": {
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "": null
+  },
+  {
+    "Lp": null,
+    "Plan": "RoboCamp Business – 30 Instructors",
+    "Category": "plan",
+    "Slug_EN": "robocamp-business-30",
+    "Description": "Advanced monthly subscription for large education organizations with up to 30 instructors. Suitable for structured multi-site operations and international providers.",
+    "Product_description_URL": null,
+    "Reference_Document_URL": null,
+    "Reference_Document_Type:": null,
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
+    "Audience_list": "International STEM providers; Education networks; Large robotics training companies; Franchise systems",
+    "Buyer_Role_list": "CEO; Regional Director; Education Network Manager; Operations Executive",
+    "Instructor_Count": "30 managed instructor seats",
+    "License_Scope": null,
+    "Hardware_Required_list": "At least one of: SPIKE Prime, SPIKE Essential, WeDo 2.0, Mindstorms EV7",
+    "Software_Used_list": null,
+    "Age_Range": "5-6, 7–9, 10–12, 12-20",
+    "Skill_Level": "Mixed",
+    "Skill_Progression": "Covers progression Across courses — from SPIKE Essential and SPIKE Prime Beginner to Expert and Python-level robotics.",
+    "Skill_Progression_Type": "Across courses",
+    "Outcomes_list": null,
+    "Includes": null,
+    "Why_This_Course_or_Plan": "Supports standardized curriculum delivery across multiple teams and locations while maintaining financial flexibility through monthly billing.",
+    "Lessons": {
+      "Total": "298",
+      "SPIKE": {
+        "Essential": "24",
+        "Prime": {
+          "Base": "85",
+          "3D_Printing": "10",
+          "Laser_Cutting": "10"
+        }
+      },
+      "WeDo20": "95",
+      "WeDo1": "37",
+      "EV3": {
+        "Education": "50",
+        "Home": "12"
+      },
+      "mBot": {
+        "Laser_Cutting": "10"
+      }
+    },
+    "Lessons_Science_1_3": "0",
+    "Lessons_Science_4_6": "0",
+    "Lessons_Science_7_9": "10",
+    "Lessons_CSAI_1_3": "0",
+    "Lessons_CSAI_4_6": "0",
+    "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_EN": null,
+    "Post_Purchase_License_Activation_URL_EN": null,
+    "Base": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        },
+        "6M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "3M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "1M": {
+          "_Price": {
+            "EN": 799.0
+          },
+          "_Link": {
+            "EN": null
+          }
+        }
+      }
+    },
+    "Special": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "Renewal": {
+      "Subscription": {
+        "1Y": {
+          "_Promo": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          },
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "NGO": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "6M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        }
+      }
+    },
+    "Homeschool": {
+      "_NoSub": {
+        "_1Y": {
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        },
+        "_2Y": {
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "": null
+  },
+  {
+    "Lp": null,
+    "Plan": "RoboCamp Business – 50 Instructors",
+    "Category": "plan",
+    "Slug_EN": "robocamp-business-50",
+    "Description": "Enterprise-level monthly subscription for organizations with up to 50 instructors. Designed for large-scale robotics and engineering education providers.",
+    "Product_description_URL": null,
+    "Reference_Document_URL": null,
+    "Reference_Document_Type:": null,
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
+    "Audience_list": "Enterprise STEM providers; International education groups; Large franchise networks; Education corporations",
+    "Buyer_Role_list": "CEO; COO; Education Director; Corporate Training Manager; Network Administrator",
+    "Instructor_Count": "50 managed instructor seats",
+    "License_Scope": null,
+    "Hardware_Required_list": "At least one of: SPIKE Prime, SPIKE Essential, WeDo 2.0, Mindstorms EV8",
+    "Software_Used_list": null,
+    "Age_Range": "5-6, 7–9, 10–12, 12-21",
+    "Skill_Level": "Mixed",
+    "Skill_Progression": "Covers progression Across courses — from SPIKE Essential and SPIKE Prime Beginner to Expert and Python-level robotics.",
+    "Skill_Progression_Type": "Across courses",
+    "Outcomes_list": null,
+    "Includes": null,
+    "Why_This_Course_or_Plan": "Provides centralized curriculum access and operational scalability for large instructor teams while preserving flexibility through recurring monthly billing.",
+    "Lessons": {
+      "Total": "298",
+      "SPIKE": {
+        "Essential": "24",
+        "Prime": {
+          "Base": "85",
+          "3D_Printing": "10",
+          "Laser_Cutting": "10"
+        }
+      },
+      "WeDo20": "95",
+      "WeDo1": "37",
+      "EV3": {
+        "Education": "50",
+        "Home": "12"
+      },
+      "mBot": {
+        "Laser_Cutting": "10"
+      }
+    },
+    "Lessons_Science_1_3": "0",
+    "Lessons_Science_4_6": "0",
+    "Lessons_Science_7_9": "10",
+    "Lessons_CSAI_1_3": "0",
+    "Lessons_CSAI_4_6": "0",
+    "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_EN": null,
+    "Post_Purchase_License_Activation_URL_EN": null,
+    "Base": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        },
+        "6M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "3M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "1M": {
+          "_Price": {
+            "EN": 1299.0
+          },
+          "_Link": {
+            "EN": null
+          }
+        }
+      }
+    },
+    "Special": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "Renewal": {
+      "Subscription": {
+        "1Y": {
+          "_Promo": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          },
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "NGO": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "6M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
           }
         }
       }
@@ -388,9 +1354,9 @@
     "Includes": null,
     "Why_This_Course_or_Plan": "Perfect for Beginners – Easy-to-follow curriculum tailored to early learners.\nComprehensive Content – 25 lesson plans designed for a full school year.\nPractical Teacher Training – 2 hours of expert online training included.\nEngaging Builds – Students create unique RoboCamp-designed robots like Crane, Owl, Car Race, and Goat.\nInteractive Learning – Encourages creativity, problem-solving, and teamwork.",
     "Lessons": {
-      "Total": "24",
+      "Total": "25",
       "SPIKE": {
-        "Essential": "24",
+        "Essential": "25",
         "Prime": {
           "Base": "0",
           "3D_Printing": "0",
@@ -442,6 +1408,14 @@
           }
         },
         "3M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "1M": {
           "_Price": {
             "EN": null
           },
@@ -630,6 +1604,14 @@
           "_Link": {
             "EN": null
           }
+        },
+        "1M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
         }
       }
     },
@@ -806,6 +1788,14 @@
           }
         },
         "3M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "1M": {
           "_Price": {
             "EN": null
           },
@@ -994,6 +1984,14 @@
           "_Link": {
             "EN": null
           }
+        },
+        "1M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
         }
       }
     },
@@ -1093,7 +2091,7 @@
   },
   {
     "Lp": "7",
-    "Plan": "3D Modelling\nand Printing Course Parts for LEGO SPIKE Prime robots",
+    "Plan": "3D Modelling and Printing Course: Parts for LEGO SPIKE Prime robots",
     "Category": "course",
     "Slug_EN": "3d-printing-spike",
     "Description": "The course currently offers 10 lesson plans that teach students how to design and 3D print custom LEGO-compatible parts for SPIKE Prime robots. Using mainly Tinkercad, with selected lessons in Fusion 360 and Blender, students learn step by step how to model small, practical elements that can be quickly produced on a school 3D printer. By enhancing robots with original parts such as manipulators, turbines, or sensors, students experience both engineering creativity and the real-world use of digital fabrication tools. The course helps schools make effective use of their 3D printers, often underused due to the time-consuming nature of larger prints.",
@@ -1157,7 +2155,7 @@
               "EN": 299.0
             },
             "_Link": {
-              "EN": null
+              "EN": "https://buy.stripe.com/28EcN55vv6gAaTOh0h1ck12"
             }
           }
         },
@@ -1170,6 +2168,14 @@
           }
         },
         "3M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "1M": {
           "_Price": {
             "EN": null
           },
@@ -1221,7 +2227,7 @@
               "EN": 299.0
             },
             "_Link": {
-              "EN": null
+              "EN": "https://buy.stripe.com/28EcN55vv6gAaTOh0h1ck12"
             }
           }
         }
@@ -1275,7 +2281,7 @@
   },
   {
     "Lp": "8",
-    "Plan": "2D Modelling and Laser Cutting Course Parts for LEGO SPIKE Prime robots",
+    "Plan": "2D Modelling and Laser Cutting Course: Parts for LEGO SPIKE Prime robots",
     "Category": "Course",
     "Slug_EN": "2d-laser-spike",
     "Description": "The course currently offers 4 lesson plans (expanding to 10) that teach students how to design and laser cut custom wooden parts for LEGO® Education SPIKE™ Prime robots. Using Tinkercad for modeling, students create components that can be cut in just minutes, making laser cutting a faster and more practical alternative to 3D printing in the classroom. The wooden parts add both functionality and aesthetics, turning robotics into a cross-disciplinary experience that combines engineering and art (STAM).\nThis course is currently available in beta version, offered at a reduced price until the full curriculum of 10 lessons is completed.",
@@ -1339,7 +2345,7 @@
               "EN": 299.0
             },
             "_Link": {
-              "EN": null
+              "EN": "https://buy.stripe.com/cNi00jaPP34o5zufWd1ck14"
             }
           }
         },
@@ -1352,6 +2358,14 @@
           }
         },
         "3M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "1M": {
           "_Price": {
             "EN": null
           },
@@ -1403,7 +2417,7 @@
               "EN": 299.0
             },
             "_Link": {
-              "EN": null
+              "EN": "https://buy.stripe.com/cNi00jaPP34o5zufWd1ck14"
             }
           }
         }
@@ -1534,6 +2548,14 @@
           }
         },
         "3M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "1M": {
           "_Price": {
             "EN": null
           },
@@ -1716,6 +2738,14 @@
           }
         },
         "3M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "1M": {
           "_Price": {
             "EN": null
           },
