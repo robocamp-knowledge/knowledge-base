@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T05:59:12.318766Z",
+  "generated_at": "2026-03-31T20:22:01.897923Z",
   "sources": {
     "articles": [
       {
@@ -296,6 +296,189 @@
             "title": "Lesson Plans for Homeschoolers: How RoboCamp Makes Robotics Easy",
             "summary": "The chapter describes RoboCamp lesson plans for homeschoolers as a way to start robotics and programming at home with guidance, and it includes a quote about using the lessons after lunch two days a week with no planning stress. It lists what access includes, such as step-by-step lesson plans, coding instructions for Icon Blocks, Scratch, Word Blocks, and Python, and courses divided into beginner, intermediate, and expert levels. It also states the lesson plans are secular and flexible, and it invites families to fill out a form for a personalized plan and a discount of up to 80%.",
             "canonical_url": "https://www.robocamp.eu/en/blog/homeschool-robotics-made-easy/#lesson-plans-for-homeschoolers-how-robocamp-makes-robotics-easy"
+          }
+        ]
+      },
+      {
+        "slug": "cyfrowy-uczen",
+        "article_id": "cyfrowy-uczen",
+        "language": "pl",
+        "title": "Cyfrowy Uczeń 2025–2029 – jak wykorzystać program do rozwoju robotyki, programowania i druku 3D w szkole?",
+        "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "title": "Wprowadzenie",
+            "summary": "Szkoły ponownie dysponują budżetem na technologie takie jak roboty, drukarki 3D i oprogramowanie, ale kluczowym wyzwaniem pozostaje ich realne wykorzystanie na lekcjach. Doświadczenia z programu Laboratoria Przyszłości pokazują, że sam zakup sprzętu nie zmienia sposobu pracy z uczniami. Program Cyfrowy Uczeń umożliwia finansowanie sprzętu, materiałów i rozwoju nauczycieli, ale wymaga podejścia strategicznego. Artykuł zapowiada kompleksowe podejście – od planowania po wdrożenie technologii w praktyce szkolnej.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/"
+          },
+          {
+            "chapter_id": "2",
+            "title": "Cyfrowy Uczeń 2025–2029 – co to za program i kto może skorzystać",
+            "summary": "Program Cyfrowy Uczeń to rządowa inicjatywa wspierająca rozwój kompetencji cyfrowych poprzez finansowanie sprzętu, oprogramowania i szkoleń. Jego celem nie jest tylko doposażenie szkół, ale zmiana sposobu pracy z technologią w klasie. Program promuje twórcze wykorzystanie technologii, takie jak programowanie czy rozwiązywanie problemów. Mogą z niego korzystać różne typy szkół i placówek edukacyjnych.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#cyfrowy-uczen-20252029-co-to-za-program-i-kto-moze-skorzystac"
+          },
+          {
+            "chapter_id": "3",
+            "title": "Główne założenia programu i budżet",
+            "summary": "Program Cyfrowy Uczeń realizowany jest w latach 2025–2029, a jego budżet zależy od liczby uczniów w szkole. Dofinansowanie wynosi od 30 000 zł do 100 000 zł, przy maksymalnym wsparciu państwa do 80% kosztów projektu. Środki można przeznaczyć na sprzęt, oprogramowanie, infrastrukturę oraz rozwój nauczycieli. Szczegółowe zasady dostępne są na stronie Ministerstwa Edukacji.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#gowne-zaozenia-programu-i-budzet"
+          },
+          {
+            "chapter_id": "4",
+            "title": "Co program oznacza w praktyce dla dyrektora i nauczyciela",
+            "summary": "Udział w programie Cyfrowy Uczeń rozpoczyna się od konkretnych działań organizacyjnych na poziomie szkoły. Kluczowe decyzje podejmowane są wspólnie przez dyrektora i nauczycieli. Proces wdrożenia wymaga współpracy zespołu oraz ustalenia wspólnego kierunku działań. To szkoła odpowiada za przygotowanie i realizację projektu.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#co-program-oznacza-w-praktyce-dla-dyrektora-i-nauczyciela"
+          },
+          {
+            "chapter_id": "5",
+            "title": "Kto składa wniosek?",
+            "summary": "Wniosek o udział w programie przygotowuje dyrektor szkoły, ale formalnie składa go organ prowadzący, np. gmina lub powiat. Proces składania wniosków może odbywać się elektronicznie. Szkoła odpowiada głównie za przygotowanie części merytorycznej projektu. Obejmuje ona określenie celów i sposobu wykorzystania technologii.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#kto-skada-wniosek"
+          },
+          {
+            "chapter_id": "6",
+            "title": "Czego dotyczy wkład własny?",
+            "summary": "Program wymaga wkładu własnego w wysokości co najmniej 20%, który zapewnia organ prowadzący. Może on mieć formę finansową, rzeczową lub mieszaną. Przed planowaniem zakupów szkoła powinna ustalić kluczowe kwestie z organem prowadzącym, takie jak udział w programie i zakres projektu. Pozwala to dopasować działania do realnych możliwości finansowych.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#czego-dotyczy-wkad-wasny"
+          },
+          {
+            "chapter_id": "7",
+            "title": "Jakie decyzje trzeba podjąć zanim powstanie wniosek?",
+            "summary": "Przygotowanie wniosku powinno rozpocząć się od określenia celów wykorzystania technologii, a nie od wyboru sprzętu. Kluczowe pytania dotyczą celu edukacyjnego, grupy uczniów, nauczycieli oraz sposobu prowadzenia zajęć. Takie podejście pomaga uniknąć sytuacji, w której sprzęt nie jest wykorzystywany. Skuteczne projekty łączą technologię z materiałami dydaktycznymi i planem zajęć.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#jakie-decyzje-trzeba-podjac-zanim-powstanie-wniosek"
+          },
+          {
+            "chapter_id": "8",
+            "title": "Błędy przeszłości – raport programu Laboratoria Przyszłości",
+            "summary": "Program Laboratoria Przyszłości umożliwił doposażenie tysięcy szkół w technologie takie jak roboty i drukarki 3D. Raport z 2023 roku pokazuje jednak, że wiele szkół nadal potrzebuje wsparcia i szkoleń. Dane wskazują na brak systemowego podejścia do wykorzystania sprzętu. Kluczowym wnioskiem jest to, że sama technologia nie wystarcza bez odpowiedniego programu i wsparcia dydaktycznego.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#bedy-przeszosci-raport-programu-laboratoria-przyszosci"
+          },
+          {
+            "chapter_id": "9",
+            "title": "Czego nauczyły nas Laboratoria Przyszłości?",
+            "summary": "Doświadczenia z programu Laboratoria Przyszłości ujawniły brak audytu przed zakupem sprzętu oraz zbyt krótki czas na podejmowanie decyzji. Szkoły często kupowały technologie bez pełnej wiedzy o swoich potrzebach. Program Cyfrowy Uczeń wprowadza bardziej przemyślane podejście, oparte na planowaniu i audycie. Pojawia się także nacisk na rozwój istniejącej infrastruktury zamiast jej całkowitej wymiany.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#bedy-przeszosci-raport-programu-laboratoria-przyszosci"
+          },
+          {
+            "chapter_id": "10",
+            "title": "Na co można przeznaczyć środki",
+            "summary": "Program Cyfrowy Uczeń umożliwia finansowanie szerokiego zakresu wydatków, od sprzętu po szkolenia i materiały dydaktyczne. Ta elastyczność wymaga jednak ustalenia priorytetów i przemyślanego planowania. Szkoły mogą łączyć różne elementy, aby stworzyć spójny system pracy z technologią. Kluczowe jest określenie funkcji każdego wydatku w kontekście celów edukacyjnych.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#na-co-mozna-przeznaczyc-srodki"
+          },
+          {
+            "chapter_id": "11",
+            "title": "Sprzęt, oprogramowanie i kompetencje – trzy filary wsparcia",
+            "summary": "Skuteczne projekty technologiczne w szkołach opierają się na trzech filarach: sprzęcie, oprogramowaniu z materiałami dydaktycznymi oraz kompetencjach nauczycieli. Standardy edukacyjne NGSS i ISTE podkreślają znaczenie pracy projektowej i kreatywnego rozwiązywania problemów z wykorzystaniem technologii. Sam sprzęt nie zapewnia efektów bez wsparcia dydaktycznego i przygotowania kadry. Najlepsze rezultaty daje podejście systemowe, które łączy wszystkie elementy w spójne środowisko nauki.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#na-co-mozna-przeznaczyc-srodki"
+          },
+          {
+            "chapter_id": "12",
+            "title": "Robotyka i projektowanie 3D jako realne narzędzia rozwijania kompetencji cyfrowych",
+            "summary": "Robotyka i projektowanie 3D są narzędziami rozwijającymi kompetencje cyfrowe, a nie tylko dodatkiem do lekcji. W klasach 4–6 robotyka wprowadza podstawy programowania i myślenia algorytmicznego poprzez proces projektowy. Projektowanie 3D rozwija umiejętności planowania, analizy i iteracyjnego ulepszania modeli. Kluczową rolę odgrywa proces rozwiązywania problemów w środowisku cyfrowym oraz powiązanie projektu z fizycznym efektem.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#na-co-mozna-przeznaczyc-srodki"
+          },
+          {
+            "chapter_id": "13",
+            "title": "Roboty edukacyjne i programowanie – co ma sens",
+            "summary": "Robotyka łączy programowanie, konstrukcję i matematykę, a jej skuteczność zależy od odpowiednio dobranego środowiska pracy. Kluczowe jest umożliwienie uczniom długofalowego rozwoju w tym samym środowisku technologicznym. Istotnym elementem jest progresja od programowania ikonowego przez blokowe do tekstowego, najczęściej w Pythonie. Takie podejście pozwala uczniom rozwijać kompetencje stopniowo i systematycznie.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#roboty-edukacyjne-i-programowanie-co-ma-sens"
+          },
+          {
+            "chapter_id": "14",
+            "title": "Jak wygląda systematyczna praca z robotyką w szkole?",
+            "summary": "Systematyczna praca z robotyką wymaga włączenia jej do regularnych lekcji i zajęć dodatkowych. Kluczowe są scenariusze zajęć dostosowane do krótkiego czasu lekcji oraz integracja robotyki z innymi przedmiotami. Wspólne środowisko technologiczne ułatwia rozwój kompetencji uczniów i nauczycieli. Istotnym wyzwaniem pozostaje logistyka pracowni i liczba dostępnych zestawów.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#jak-wyglada-systematyczna-praca-z-robotyka-w-szkole"
+          },
+          {
+            "chapter_id": "15",
+            "title": "Druk 3D i projektowanie 3D – kiedy warto, a kiedy nie",
+            "summary": "Druk 3D jest powszechnie dostępny w szkołach, ale jego wartość edukacyjna wynika głównie z projektowania, a nie samego drukowania. Projektowanie 3D rozwija myślenie przestrzenne oraz umiejętność iteracyjnego ulepszania projektów. Technologia ta najlepiej działa jako uzupełnienie robotyki i programowania. Łączenie projektowania 3D i 2D pozwala realizować pełne projekty inżynierskie.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#druk-3d-i-projektowanie-3d-kiedy-warto-a-kiedy-nie"
+          },
+          {
+            "chapter_id": "16",
+            "title": "Realne wyzwania w szkolnej pracowni",
+            "summary": "Druk 3D w szkole wiąże się z ograniczeniami, takimi jak długi czas drukowania modeli. W praktyce uczniowie projektują elementy na lekcji, a druk odbywa się poza jej czasem. Wyzwanie stanowi także organizacja pracy i zarządzanie kolejką wydruków. Dlatego projektowanie 3D najlepiej funkcjonuje jako uzupełnienie projektów robotycznych.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#realne-wyzwania-w-szkolnej-pracowni"
+          },
+          {
+            "chapter_id": "17",
+            "title": "Nie masz nic – zbuduj pracownię od zera",
+            "summary": "Brak sprzętu może być szansą na zaplanowanie spójnej pracowni od podstaw. Kluczowym krokiem jest audyt potrzeb oraz dobór technologii i materiałów dydaktycznych. Ważne jest stworzenie środowiska pracy wspierającego regularne zajęcia. Gotowe pakiety sprzętu wymagają krytycznej analizy pod kątem ich rzeczywistej użyteczności.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#1-nie-masz-nic-zbuduj-pracownie-od-zera"
+          },
+          {
+            "chapter_id": "18",
+            "title": "Masz sprzęt – uzupełnij brakujące ogniwa",
+            "summary": "Wiele szkół posiada sprzęt w niewystarczającej liczbie lub niespójnych zestawach. Problemem często nie jest brak technologii, lecz jej organizacja i dostępność dla uczniów. Rozwiązaniem jest zwiększenie liczby jednolitych zestawów, co umożliwia pracę w zespołach. Przykłady pokazują, że integracja różnych technologii pozwala stworzyć spójny system nauczania.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#2-masz-sprzet-uzupenij-brakujace-ogniwa"
+          },
+          {
+            "chapter_id": "19",
+            "title": "Masz wszystko – inwestuj w treści i rozwój",
+            "summary": "Niektóre szkoły posiadają już dobrze wyposażone pracownie technologiczne. W takich przypadkach kluczowe jest inwestowanie w rozwój programu zajęć, a nie w kolejne urządzenia. Wsparcie obejmuje dostęp do kursów, utrzymanie sprzętu oraz rozszerzenie możliwości pracowni. Takie podejście pozwala rozwijać istniejące zasoby zamiast wprowadzać radykalne zmiany.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#3-masz-wszystko-inwestuj-w-tresci-i-rozwoj"
+          },
+          {
+            "chapter_id": "20",
+            "title": "Szkoła „po przejściach” – nowy start bez błędów",
+            "summary": "Szkoły z niewykorzystanym sprzętem powinny rozpocząć od diagnozy obecnej sytuacji zamiast dokonywać nowych zakupów. Część urządzeń można ponownie wykorzystać dzięki szkoleniom i nowym programom zajęć. W innych przypadkach konieczna jest stopniowa wymiana nieskutecznych rozwiązań. Kluczowe jest opracowanie planu wykorzystania istniejących zasobów.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#4-szkoa-po-przejsciach-nowy-start-bez-bedow"
+          },
+          {
+            "chapter_id": "21",
+            "title": "Metodyka – żeby sprzęt nie stał w szafie",
+            "summary": "Rozdział pokazuje, że o sukcesie technologii w szkole nie decyduje sam zakup sprzętu, lecz sposób wdrożenia go do regularnej pracy dydaktycznej. Tekst odróżnia systemowe podejście do robotyki od gadżetów takich jak gogle VR, które często kończą jako sporadycznie używane „edukacyjne fajerwerki”. Ważną rolę odgrywają gotowe scenariusze lekcji dostosowane do 45-minutowych zajęć, ograniczonej liczby zestawów i zróżnicowanego poziomu uczniów. Kluczowe są też szkolenia nauczycieli skupione na sprzęcie i prowadzeniu zajęć oraz samodzielna praktyka przed pierwszymi lekcjami.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#metodyka-zeby-sprzet-nie-sta-w-szafie"
+          },
+          {
+            "chapter_id": "22",
+            "title": "Jak wygląda pierwszy rok pracy z nową technologią",
+            "summary": "Rozdział opisuje wdrożenie technologii jako proces rozwoju rozłożony zwykle na około dwa lata, a nie jako efekt jednorazowego zakupu. W pierwszym roku szkoła przechodzi przez etap poznania technologii, pilotażu z małą grupą uczniów oraz pierwszych regularnych lekcji. Tekst podaje też praktyczny model startu: 10–12 uczniów pracujących w parach na 5–6 zestawach robotycznych. W drugim roku pojawia się większa naturalność pracy, projekty łączące technologie, konkursy oraz przejście z programowania blokowego do języków tekstowych, takich jak Python.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#jak-wyglada-pierwszy-rok-pracy-z-nowa-technologia"
+          },
+          {
+            "chapter_id": "23",
+            "title": "Czy szkoła jest gotowa na wdrożenie technologii?",
+            "summary": "Rozdział proponuje krótką listę kontrolną gotowości szkoły do wdrożenia robotyki lub projektowania 3D. Obejmuje ona pięć obszarów: nauczyciela i jego wsparcie szkoleniowe, czas na regularne zajęcia, plan pracy na pierwszy semestr, odpowiednie miejsce oraz wsparcie całej szkoły. Każdy z tych elementów dotyczy innego aspektu organizacyjnego wdrożenia technologii. Jeśli większość odpowiedzi jest pozytywna, szkoła ma dobre warunki do skorzystania z programu Cyfrowy Uczeń i codziennej pracy z technologią.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#czy-szkoa-jest-gotowa-na-wdrozenie-technologii"
+          },
+          {
+            "chapter_id": "24",
+            "title": "Jak RoboCamp może wesprzeć szkołę",
+            "summary": "Rozdział przedstawia RoboCamp jako wsparcie dla szkół, które mają już określony kierunek rozwoju pracowni i szukają narzędzi do jego wdrożenia. Tekst podkreśla, że szkoły potrzebują nie tylko sprzętu, ale także scenariuszy, programu zajęć i wsparcia nauczyciela. RoboCamp działa od ponad 20 lat, a jego baza obejmuje ponad 400 scenariuszy lekcji i 12 pełnych kursów technologicznych. Wsparcie obejmuje drogę od audytu i doboru ścieżki po scenariusze i szkolenia, a materiały są używane w wielu krajach.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#jak-robocamp-moze-wesprzec-szkoe-w-ramach-programu-cyfrowy-uczen"
+          },
+          {
+            "chapter_id": "25",
+            "title": "Audyt pracowni – pierwszy krok",
+            "summary": "Rozdział wskazuje audyt pracowni jako pierwszy krok zamiast rozpoczynania od katalogu produktów. Szkoła opisuje w ankiecie diagnostycznej m.in. posiadany sprzęt, wiek uczniów, sposób prowadzenia zajęć i plany rozwoju pracowni. Na tej podstawie powstaje wstępna rekomendacja, a w trudniejszych przypadkach odbywa się dodatkowa konsultacja. Celem całego procesu jest zaprojektowanie spójnego programu pracy z technologią na lata, a nie kolejnego przypadkowego pakietu sprzętowego.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#audyt-pracowni-pierwszy-krok"
+          },
+          {
+            "chapter_id": "26",
+            "title": "Gotowe kursy – od podstaw do poziomu zaawansowanego",
+            "summary": "Rozdział pokazuje, że gotowe kursy RoboCamp rozwiązują problem zamiany ogólnego pomysłu w realny program nauczania rozpisany na tygodnie i miesiące. Większość kursów zawiera 25 scenariuszy lekcji, co odpowiada jednemu semestrowi lub całemu rokowi przy zajęciach raz w tygodniu. Treści prowadzą uczniów od prostych konstrukcji i reakcji na czujniki do bardziej złożonych algorytmów oraz przejścia na Python. Kursy rozwijają także myślenie algorytmiczne, pracę projektową i łączą robotykę z kontekstami STEAM, takimi jak automatyka, energia odnawialna czy biomimikra.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#gotowe-kursy-od-podstaw-do-poziomu-zaawansowanego"
+          },
+          {
+            "chapter_id": "27",
+            "title": "Ponad 400 scenariuszy lekcji",
+            "summary": "Rozdział opisuje bazę ponad 400 pojedynczych scenariuszy lekcji, która uzupełnia pełne kursy i daje nauczycielowi dużą elastyczność. Scenariusze przygotowano dla wielu zestawów, m.in. LEGO WeDo, EV3, SPIKE Essential, SPIKE Prime, mBot, LEGO Science i LEGO Computer Science & AI. Mogą być używane niezależnie jako projekty dodatkowe, wprowadzenia lub materiały do kół zainteresowań. Każdy scenariusz zawiera instrukcje krok po kroku i pliki do pobrania, a ich długość jest dopasowana do realiów szkolnych – od jednej lub dwóch lekcji po projekty dzielone na kilka modułów.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#ponad-400-scenariuszy-lekcji"
+          },
+          {
+            "chapter_id": "28",
+            "title": "Szkolenia nauczycieli i wsparcie techniczne",
+            "summary": "Rozdział przedstawia szkolenia i wsparcie techniczne RoboCamp jako element pomagający nauczycielowi przejść od pierwszego kontaktu ze sprzętem do samodzielnego prowadzenia zajęć. System obejmuje dwa typy działań: szkolenia wprowadzające oraz szkolenia specjalistyczne, do których można wracać na kolejnych etapach pracy. Takie podejście wspiera stopniowy rozwój kompetencji nauczyciela wraz z pojawianiem się nowych projektów i potrzeb. Dzięki scenariuszom, materiałom i wsparciu technologia ma szansę stać się stałym elementem programu nauczania, a nie okazjonalną ciekawostką.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#szkolenia-nauczycieli-i-wsparcie-techniczne"
+          },
+          {
+            "chapter_id": "29",
+            "title": "Podsumowanie – jak podejść do programu strategicznie",
+            "summary": "Rozdział zamyka artykuł zestawem sześciu zasad strategicznego podejścia do programu Cyfrowy Uczeń. Obejmują one rozpoczęcie od celu edukacyjnego, budowanie spójnej ścieżki pracy, uwzględnienie nauczyciela od początku, myślenie o pracowni w perspektywie kilku lat, planowanie wdrożenia zamiast samego zakupu oraz rozpoczęcie od audytu. Tekst podkreśla, że sprzęt zyskuje wartość dopiero wtedy, gdy jest używany na lekcjach, kołach zainteresowań i w projektach uczniowskich. Program ma więc tworzyć długofalowy model edukacji cyfrowej, a nie jedynie sfinansować zakupy.",
+            "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#podsumowanie-jak-podejsc-do-programu-strategicznie"
           }
         ]
       }
