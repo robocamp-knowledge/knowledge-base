@@ -1,0 +1,200 @@
+{
+  "kb_meta": {
+    "segmented_at": "2026-03-31",
+    "segmentation_version": "justyna-3.3",
+    "kb_change_type": "other",
+    "kb_note": "pierwsza generacja artykułu",
+    "source_last_updated": "2026-03-20"
+  },
+  "chapters": [
+    {
+      "article_id": "cyfrowy-uczen",
+      "post_slug": "cyfrowy-uczen",
+      "chapter_id": "1",
+      "language": "pl",
+      "heading": "Wprowadzenie",
+      "text": "Szkoły znowu mają realny budżet na technologię. Roboty, drukarki 3D, nowe oprogramowanie – wszystko jest w zasięgu ręki. Jedno pytanie wraca jak bumerang: **co zrobić, żeby to faktycznie zaczęło działać na lekcjach, a nie skończyło jako sprzęt używany od święta?**\n\nPo doświadczeniach programu Laboratoria Przyszłości wiele szkół wie już, że zakup to dopiero początek. Sprzęt można mieć bardzo dobry – a mimo to trzymać się starego sposobu pracy z uczniami. Dlatego zamiast pytać „co kupić?”, coraz częściej pojawia się ważniejsze pytanie:\n\nJak wszystko poukładać, żeby uczniowie naprawdę rozwijali kompetencje cyfrowe?\n\nProgram Cyfrowy Uczeń to rządowe dofinansowanie dla szkół, które można przeznaczyć na sprzęt, oprogramowanie, materiały edukacyjne oraz rozwój kompetencji nauczycieli w obszarze technologii.\n\nW tym artykule pokazujemy **jak podejść do programu Cyfrowy Uczeń w sposób strategiczny**. Bez katalogów i przypadkowych decyzji. Krok po kroku: od planowania pracowni, przez wybór technologii, aż po wdrożenie zajęć, które mają sens w codziennej pracy szkoły.",
+      "summary": "Szkoły ponownie dysponują budżetem na technologie takie jak roboty, drukarki 3D i oprogramowanie, ale kluczowym wyzwaniem pozostaje ich realne wykorzystanie na lekcjach. Doświadczenia z programu Laboratoria Przyszłości pokazują, że sam zakup sprzętu nie zmienia sposobu pracy z uczniami. Program Cyfrowy Uczeń umożliwia finansowanie sprzętu, materiałów i rozwoju nauczycieli, ale wymaga podejścia strategicznego. Artykuł zapowiada kompleksowe podejście – od planowania po wdrożenie technologii w praktyce szkolnej.",
+      "primary_questions": [
+        "Dlaczego sam zakup sprzętu nie wystarcza do zmiany pracy szkoły?",
+        "Jakie technologie są obecnie dostępne dla szkół w ramach budżetu?",
+        "Jakie doświadczenia wyniosły szkoły z programu Laboratoria Przyszłości?",
+        "Jakie cele ma program Cyfrowy Uczeń?",
+        "Jakie elementy obejmuje strategiczne podejście do wdrażania technologii?",
+        "Dlaczego pytanie „jak wykorzystać technologię” jest ważniejsze niż „co kupić”?"
+      ],
+      "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/",
+      "last_updated": "2026-03-20"
+    },
+    {
+      "article_id": "cyfrowy-uczen",
+      "post_slug": "cyfrowy-uczen",
+      "chapter_id": "2",
+      "language": "pl",
+      "heading": "Cyfrowy Uczeń 2025–2029 – co to za program i kto może skorzystać",
+      "text": "Program **Cyfrowy Uczeń** to rządowa inicjatywa wspierająca szkoły i placówki oświatowe w rozwijaniu kompetencji cyfrowych uczniów. Daje możliwość uzyskania **dofinansowania** na zakup sprzętu, oprogramowania oraz rozwój kompetencji związanych z wykorzystaniem nowych technologii w edukacji.\n\nCelem programu jest coś więcej niż doposażenie szkół. Cyfrowy Uczeń ma pośrednio zachęcić szkoły do **zmiany sposobu pracy z technologią w klasie**. Oczywiście, że uczniowie muszą umieć korzystać z narzędzi cyfrowych. Jednak powinni też wiedzieć jak wykorzystywać je twórczo: programować, projektować, analizować dane czy rozwiązywać problemy – nowoczesne technologie mają być narzędziem, nie celem samym w sobie.\n\nZ programu Cyfrowy Uczeń mogą skorzystać organy prowadzące szkoły i placówki oświatowe, w tym szkoły podstawowe, ponadpodstawowe oraz placówki wychowania przedszkolnego.\n\nSzkoła może swobodnie rozbudować swoje zaplecze technologiczne, a nawet zaplanować **spójny rozwój kompetencji cyfrowych uczniów na różnych etapach edukacji**.",
+      "summary": "Program Cyfrowy Uczeń to rządowa inicjatywa wspierająca rozwój kompetencji cyfrowych poprzez finansowanie sprzętu, oprogramowania i szkoleń. Jego celem nie jest tylko doposażenie szkół, ale zmiana sposobu pracy z technologią w klasie. Program promuje twórcze wykorzystanie technologii, takie jak programowanie czy rozwiązywanie problemów. Mogą z niego korzystać różne typy szkół i placówek edukacyjnych.",
+      "primary_questions": [
+        "Na czym polega program Cyfrowy Uczeń?",
+        "Jakie cele wykraczają poza doposażenie szkół w tym programie?",
+        "Jakie kompetencje cyfrowe mają rozwijać uczniowie?",
+        "Kto może skorzystać z programu Cyfrowy Uczeń?",
+        "Jakie możliwości rozwoju technologicznego daje program szkołom?",
+        "Dlaczego technologia ma być narzędziem, a nie celem samym w sobie?"
+      ],
+      "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#cyfrowy-uczen-20252029-co-to-za-program-i-kto-moze-skorzystac",
+      "last_updated": "2026-03-20"
+    },
+    {
+      "article_id": "cyfrowy-uczen",
+      "post_slug": "cyfrowy-uczen",
+      "chapter_id": "3",
+      "language": "pl",
+      "heading": "Główne założenia programu i budżet",
+      "text": "Cyfrowy Uczeń to program zaplanowany na lata **2025–2029**.\n\nWysokość wsparcia zależy od liczby uczniów w szkole. Maksymalna kwota dofinansowania wynosi od **30 000 zł do 100 000 zł na szkołę**, przy czym państwo finansuje do 80% wartości projektu, a organ prowadzący zapewnia co najmniej 20% wkładu własnego.\n\nŚrodki w programie mogą zostać przeznaczone m.in. na:\n\n* zakup sprzętu i narzędzi cyfrowych wykorzystywanych w edukacji,\n* licencje na oprogramowanie i zasoby edukacyjne,\n* rozwój infrastruktury technologicznej w szkole,\n* szkolenia i rozwój kompetencji nauczycieli.\n\nSzczegółowe informacje o zasadach programu, terminach oraz wzorach wniosków można znaleźć na oficjalnej stronie Ministerstwa Edukacji:\n[https://www.gov.pl/web/edukacja/cyfrowy-uczen](https://www.gov.pl/web/edukacja/cyfrowy-uczen?utm_source=chatgpt.com)",
+      "summary": "Program Cyfrowy Uczeń realizowany jest w latach 2025–2029, a jego budżet zależy od liczby uczniów w szkole. Dofinansowanie wynosi od 30 000 zł do 100 000 zł, przy maksymalnym wsparciu państwa do 80% kosztów projektu. Środki można przeznaczyć na sprzęt, oprogramowanie, infrastrukturę oraz rozwój nauczycieli. Szczegółowe zasady dostępne są na stronie Ministerstwa Edukacji.",
+      "primary_questions": [
+        "Na jakie lata zaplanowano program Cyfrowy Uczeń?",
+        "Jakie są maksymalne kwoty dofinansowania dla szkół?",
+        "Jaki jest wymagany wkład własny organu prowadzącego?",
+        "Na jakie cele można przeznaczyć środki z programu?",
+        "Od czego zależy wysokość wsparcia dla szkoły?",
+        "Gdzie można znaleźć szczegółowe informacje o programie?"
+      ],
+      "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#gowne-zaozenia-programu-i-budzet",
+      "last_updated": "2026-03-20"
+    },
+    {
+      "article_id": "cyfrowy-uczen",
+      "post_slug": "cyfrowy-uczen",
+      "chapter_id": "4",
+      "language": "pl",
+      "heading": "Co program oznacza w praktyce dla dyrektora i nauczyciela",
+      "text": "Z perspektywy szkoły udział w programie Cyfrowy Uczeń zaczyna się od kilku bardzo konkretnych kroków organizacyjnych, bo w praktyce większość decyzji zapada na poziomie szkoły – w ustaleniach między dyrektorem a zespołem nauczycieli.",
+      "summary": "Udział w programie Cyfrowy Uczeń rozpoczyna się od konkretnych działań organizacyjnych na poziomie szkoły. Kluczowe decyzje podejmowane są wspólnie przez dyrektora i nauczycieli. Proces wdrożenia wymaga współpracy zespołu oraz ustalenia wspólnego kierunku działań. To szkoła odpowiada za przygotowanie i realizację projektu.",
+      "primary_questions": [
+        "Od jakich działań zaczyna się udział szkoły w programie?",
+        "Kto podejmuje kluczowe decyzje w ramach programu?",
+        "Jaką rolę odgrywa dyrektor szkoły?",
+        "Jaką rolę odgrywają nauczyciele w procesie wdrożenia?",
+        "Dlaczego decyzje zapadają głównie na poziomie szkoły?"
+      ],
+      "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#co-program-oznacza-w-praktyce-dla-dyrektora-i-nauczyciela",
+      "last_updated": "2026-03-20"
+    },
+    {
+      "article_id": "cyfrowy-uczen",
+      "post_slug": "cyfrowy-uczen",
+      "chapter_id": "5",
+      "language": "pl",
+      "heading": "Kto składa wniosek?",
+      "text": "W większości przypadków **dyrektor szkoły przygotowuje wniosek o udział w programie**, ale nie składa go bezpośrednio do ministerstwa. Wniosek trafia najpierw do **organu prowadzącego** (najczęściej gminy lub powiatu), który następnie składa zbiorczy wniosek o finansowanie.\n\nDobra wiadomość: MEN informuje, że wnioski można przekazywać w formie elektronicznej (dotyczy to zarówno wniosku dyrektora o udział, jak i wniosku organu prowadzącego o wsparcie finansowe).\n\nOznacza to, że szkoła odpowiada przede wszystkim za merytoryczną część projektu – określenie co i po co, czyli w jaki sposób technologie będą wykorzystywane w pracy z uczniami.",
+      "summary": "Wniosek o udział w programie przygotowuje dyrektor szkoły, ale formalnie składa go organ prowadzący, np. gmina lub powiat. Proces składania wniosków może odbywać się elektronicznie. Szkoła odpowiada głównie za przygotowanie części merytorycznej projektu. Obejmuje ona określenie celów i sposobu wykorzystania technologii.",
+      "primary_questions": [
+        "Kto przygotowuje wniosek o udział w programie?",
+        "Kto składa wniosek do ministerstwa?",
+        "W jakiej formie można składać wnioski?",
+        "Za co odpowiada szkoła w procesie aplikacji?",
+        "Jaką rolę pełni organ prowadzący?",
+        "Jakie elementy obejmuje część merytoryczna projektu?"
+      ],
+      "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#kto-skada-wniosek",
+      "last_updated": "2026-03-20"
+    },
+    {
+      "article_id": "cyfrowy-uczen",
+      "post_slug": "cyfrowy-uczen",
+      "chapter_id": "6",
+      "language": "pl",
+      "heading": "Czego dotyczy wkład własny?",
+      "text": "Program zakłada, że **państwo finansuje do 80% wartości projektu, a pozostałe co najmniej 20% stanowi wkład własny organu prowadzącego** (finansowego, rzeczowego lub mieszanego).\n\nDlatego przed przygotowaniem szczegółowego planu zakupów warto ustalić z organem prowadzącym:\n\n* czy szkoła będzie zgłoszona do programu w danym roku,\n* czy zabezpieczony jest wymagany wkład własny,\n* czy projekt będzie składany dla jednej szkoły czy dla kilku placówek jednocześnie.\n\nDzięki temu łatwiej dopasować skalę planowanych działań do realnych możliwości.",
+      "summary": "Program wymaga wkładu własnego w wysokości co najmniej 20%, który zapewnia organ prowadzący. Może on mieć formę finansową, rzeczową lub mieszaną. Przed planowaniem zakupów szkoła powinna ustalić kluczowe kwestie z organem prowadzącym, takie jak udział w programie i zakres projektu. Pozwala to dopasować działania do realnych możliwości finansowych.",
+      "primary_questions": [
+        "Jaki procent wkładu własnego jest wymagany w programie?",
+        "Kto odpowiada za wkład własny?",
+        "Jakie formy może mieć wkład własny?",
+        "Jakie kwestie należy ustalić przed planowaniem zakupów?",
+        "Dlaczego ważna jest współpraca z organem prowadzącym?",
+        "Jak wkład własny wpływa na skalę projektu?"
+      ],
+      "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#czego-dotyczy-wkad-wasny",
+      "last_updated": "2026-03-20"
+    },
+    {
+      "article_id": "cyfrowy-uczen",
+      "post_slug": "cyfrowy-uczen",
+      "chapter_id": "7",
+      "language": "pl",
+      "heading": "Jakie decyzje trzeba podjąć zanim powstanie wniosek?",
+      "text": "Najważniejsza część przygotowania wniosku odbywa się jeszcze zanim zaczniemy wpisywać konkretne sprzęty czy kwoty do tabeli. Szkoła powinna najpierw określić jak chce wykorzystać nowe technologie w pracy z uczniami.\n\nWystarczy odpowiedzieć na kilka pytań:\n\n  <ul>\n    <li><b>Po co?</b> Jakie kompetencje chcemy rozwijać u uczniów (np. programowanie, robotykę, projektowanie 3D).\n    <li><b>Dla kogo?</b> Które klasy lub grupy uczniów będą korzystać z nowych narzędzi.\n    <li><b>Kto poprowadzi?</b> Którzy nauczyciele będą prowadzić zajęcia i czy potrzebne będą dodatkowe szkolenia dla kadry.\n    <li><b>Jak będziemy z tego korzystać?</b> Ile godzin w tygodniu/miesiącu, w jakim trybie (lekcje, koło, projekty międzyprzedmiotowe).\n  </ul>\n\nPowyższe podejście (pytania – plan – wniosek) pozwala uniknąć sytuacji, w której sprzęt trafia do szkoły, ale jest wykorzystywany tylko sporadycznie. Znacznie **lepiej sprawdzają się projekty, w których zakup technologii jest powiązany z materiałami dydaktycznymi** i konkretnym planem zajęć.\n\nPisząc plan wykorzystania warto oprzeć się o gotowe scenariusze lekcji lub kurs roczny – takie materiały pomagają przetłumaczyć zakupy na praktyczną pracę z uczniem.",
+      "summary": "Przygotowanie wniosku powinno rozpocząć się od określenia celów wykorzystania technologii, a nie od wyboru sprzętu. Kluczowe pytania dotyczą celu edukacyjnego, grupy uczniów, nauczycieli oraz sposobu prowadzenia zajęć. Takie podejście pomaga uniknąć sytuacji, w której sprzęt nie jest wykorzystywany. Skuteczne projekty łączą technologię z materiałami dydaktycznymi i planem zajęć.",
+      "primary_questions": [
+        "Dlaczego planowanie powinno poprzedzać wybór sprzętu?",
+        "Jakie pytania szkoła powinna sobie zadać przed złożeniem wniosku?",
+        "Jak określić cele edukacyjne projektu?",
+        "Jakie znaczenie ma wybór nauczycieli prowadzących zajęcia?",
+        "Dlaczego plan zajęć wpływa na skuteczność projektu?",
+        "Jaką rolę odgrywają gotowe scenariusze lekcji?"
+      ],
+      "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#jakie-decyzje-trzeba-podjac-zanim-powstanie-wniosek",
+      "last_updated": "2026-03-20"
+    },
+    {
+      "article_id": "cyfrowy-uczen",
+      "post_slug": "cyfrowy-uczen",
+      "chapter_id": "8",
+      "language": "pl",
+      "heading": "Błędy przeszłości – raport programu Laboratoria Przyszłości",
+      "text": "Laboratoria Przyszłości to rządowy program uruchomiony w 2021 roku, którego celem było doposażenie szkół w sprzęt wspierający rozwój kompetencji technicznych i kreatywnych uczniów. Ze wsparcia skorzystało niemal 15 000 szkół, a sprzęt miał być wykorzystywany na lekcjach od roku szkolnego 2022/2023.\n\nProgram pozwolił wielu szkołom stworzyć pierwsze pracownie technologiczne i wprowadzić zajęcia z robotyki, projektowania czy pracy projektowej. Dziś możemy spojrzeć na Laboratoria Przyszłości z perspektywy kilku lat.\n\nW 2023 roku Fundacja EdTech Poland opublikowała raport podsumowujący wdrożenie programu Laboratoria Przyszłości. Obejmuje analizę 970 szkół podstawowych. Wyniki?\n\n* 81% szkół kupiło roboty,\n* 69% drukarki 3D,\n* **68% szkół widzi konieczność dodatkowych szkoleń i wsparcia**.\n\nTe dane pokazują jasno, że szkoły często mają narzędzia – ale brakuje im systemu i wsparcia dydaktycznego. **Sprzęt to nie system.** Kupione narzędzia potrzebują treści, ścieżki, i nauczyciela, który wie co z nimi zrobić.\n\nNowoczesna edukacja nie zaczyna się od katalogu. Nie wystarczy kupić sprzętu, żeby uczniowie zdobywali kompetencje przyszłości. Potrzebna jest spójna koncepcja – program, który prowadzi nauczyciela i ucznia krok po kroku.\n\n>70% szkół zorganizowało lub planuje szkolenia stacjonarne dla nauczycieli z obsługi nowych narzędzi, a 68% widzi konieczność dodatkowych szkoleń pokazujących pełen potencjał katalogu wyposażenia.”<br>– Raport Laboratoria Przyszłości 2023, Fundacja EdTech Poland, s. 27\n\n[🔗 Pełny raport: Fundacja EdTech Poland – Laboratoria Przyszłości 2023](https://edtechpoland.pl/wp-content/uploads/2023/01/Laboratoria-Przyszlosci-z-perspektywy-szkoly.pdf)\n\nFundacja EdTech Poland to niezależna organizacja non-profit zrzeszająca ekspertów i firmy z sektora edukacji i technologii. Raporty fundacji, takie jak „Laboratoria Przyszłości 2023”, stanowią jedno z nielicznych wiarygodnych źródeł danych na temat realnego wykorzystania technologii w polskich szkołach.",
+      "summary": "Program Laboratoria Przyszłości umożliwił doposażenie tysięcy szkół w technologie takie jak roboty i drukarki 3D. Raport z 2023 roku pokazuje jednak, że wiele szkół nadal potrzebuje wsparcia i szkoleń. Dane wskazują na brak systemowego podejścia do wykorzystania sprzętu. Kluczowym wnioskiem jest to, że sama technologia nie wystarcza bez odpowiedniego programu i wsparcia dydaktycznego.",
+      "primary_questions": [
+        "Jakie były cele programu Laboratoria Przyszłości?",
+        "Jakie technologie najczęściej kupowały szkoły?",
+        "Jakie problemy ujawnił raport z 2023 roku?",
+        "Dlaczego sprzęt nie wystarcza do rozwoju kompetencji uczniów?",
+        "Jaką rolę odgrywa wsparcie dydaktyczne w pracy z technologią?",
+        "Czym zajmuje się Fundacja EdTech Poland?"
+      ],
+      "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#bedy-przeszosci-raport-programu-laboratoria-przyszosci",
+      "last_updated": "2026-03-20"
+    },
+    {
+      "article_id": "cyfrowy-uczen",
+      "post_slug": "cyfrowy-uczen",
+      "chapter_id": "9",
+      "language": "pl",
+      "heading": "Czego nauczyły nas Laboratoria Przyszłości?",
+      "text": "Choć program miał dużą wartość dla edukacji w Polsce, doświadczenia szkół i nauczycieli pokazują, że jego realizacja wiązała się z istotnymi wyzwaniami:\n\n1. Brak audytu przed zakupem sprzętu. Szkoły często kupowały w ciemno, bez pełnej wiedzy co już mają i czego naprawdę potrzebują. Cyfrowy Uczeń zmienia to podejście – audyt to obowiązkowy pierwszy krok.\n2. Zbyt krótki czas na decyzje. Laboratoria Przyszłości wymuszały szybkie zakupy i nie dawały nauczycielom przestrzeni na rozeznanie rynku. Cyfrowy Uczeń jest rozłożony w czasie – pozwala lepiej planować i dobierać rozwiązania.\n3. Nowe podejście do rozwoju pracowni. W Cyfrowym Uczniu coraz częściej pojawia się myślenie o uzupełnieniu, a nie całkowitej wymianie sprzętu. To krok w stronę systemowego myślenia o edukacji – czyli tego, co od początku promuje RoboCamp.",
+      "summary": "Doświadczenia z programu Laboratoria Przyszłości ujawniły brak audytu przed zakupem sprzętu oraz zbyt krótki czas na podejmowanie decyzji. Szkoły często kupowały technologie bez pełnej wiedzy o swoich potrzebach. Program Cyfrowy Uczeń wprowadza bardziej przemyślane podejście, oparte na planowaniu i audycie. Pojawia się także nacisk na rozwój istniejącej infrastruktury zamiast jej całkowitej wymiany.",
+      "primary_questions": [
+        "Jakie błędy popełniały szkoły w programie Laboratoria Przyszłości?",
+        "Dlaczego audyt jest ważny przed zakupem sprzętu?",
+        "Jak czas na decyzje wpływał na jakość zakupów?",
+        "Jakie zmiany wprowadza program Cyfrowy Uczeń?",
+        "Na czym polega nowe podejście do rozwoju pracowni?",
+        "Dlaczego systemowe myślenie jest ważne w edukacji technologicznej?"
+      ],
+      "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#bedy-przeszosci-raport-programu-laboratoria-przyszosci",
+      "last_updated": "2026-03-20"
+    },
+    {
+      "article_id": "cyfrowy-uczen",
+      "post_slug": "cyfrowy-uczen",
+      "chapter_id": "10",
+      "language": "pl",
+      "heading": "Na co można przeznaczyć środki",
+      "text": "Program Cyfrowy Uczeń daje szkołom dużą swobodę w planowaniu wydatków. Szkoła może sfinansować zarówno zakup sprzętu (np. robotów czy komputerów), jak i oprogramowania, gotowych materiałów dydaktycznych oraz szkoleń dla nauczycieli.\n\nTo dobra wiadomość, ale też konkretne wyzwanie: im szerszy katalog możliwych zakupów, tym ważniejsze staje się ustalenie priorytetów.\n\nSzkoła nie musi wybierać wyłącznie między „sprzętem” a „brakiem sprzętu”. Może zaplanować rozwój pracowni w bardziej przemyślany sposób: połączyć zakup narzędzi z materiałami dydaktycznymi, licencjami, szkoleniami nauczycieli i konkretnym planem pracy z uczniami.\n\nW praktyce środki można przeznaczyć na kilka głównych obszarów:\n\n- Sprzęt komputerowy i urządzenia cyfrowe <br>— czyli podstawowe wyposażenie pracowni: laptopy, tablety, monitory interaktywne czy stanowiska komputerowe do codziennej pracy uczniów.\n- Sprzęt edukacyjny i narzędzia STEAM <br>— m.in. roboty edukacyjne, zestawy do nauki programowania, a także urządzenia do pracy projektowej rozwijające kompetencje praktyczne uczniów.\n- Infrastruktura technologiczna szkoły <br>— wszystko co pozwala sprzętowi działać w praktyce: sieć Wi-Fi / LAN, serwery, zaplecze techniczne pracowni.\n- Oprogramowanie i licencje edukacyjne <br>— np. programy do nauki programowania, projektowania 3D, platformy edukacyjne wspierające nauczycieli w prowadzeniu zajęć i uczniów w nauce.\n- Materiały dydaktyczne i programy nauczania <br>— gotowe scenariusze lekcji, kursy i zasoby edukacyjne umożliwiające prowadzenie regularnych zajęć bez tworzenia materiałów edukacyjnych od zera.\n- Szkolenia i rozwój kompetencji nauczycieli <br>— np. szkolenia z obsługi sprzętu, prowadzenia zajęć projektowych oraz rozwijania kompetencji cyfrowych kadry pedagogicznej.\n- Usługi cyfrowe dla szkoły <br>— systemy zarządzania szkołą, narzędzia komunikacji, rozwiązania chmurowe.\n- Rozwiązania dla uczniów ze specjalnymi potrzebami <br>— czyli specjalistyczne oprogramowanie i sprzęt wspierający dostępność, indywidualizację nauczania oraz wyrównywanie szans edukacyjnych.\n\nDlatego przed decyzją zakupową warto odpowiedzieć nie tylko na pytanie **co kupić**, ale też **jaką funkcję ma pełnić dany wydatek**: czy ma uzupełnić braki sprzętowe, uruchomić nowe zajęcia, rozwinąć kompetencje nauczyciela, czy uporządkować pracę z technologią w całej szkole.",
+      "summary": "Program Cyfrowy Uczeń umożliwia finansowanie szerokiego zakresu wydatków, od sprzętu po szkolenia i materiały dydaktyczne. Ta elastyczność wymaga jednak ustalenia priorytetów i przemyślanego planowania. Szkoły mogą łączyć różne elementy, aby stworzyć spójny system pracy z technologią. Kluczowe jest określenie funkcji każdego wydatku w kontekście celów edukacyjnych.",
+      "primary_questions": [
+        "Na jakie obszary można przeznaczyć środki z programu?",
+        "Dlaczego szeroki zakres wydatków stanowi wyzwanie?",
+        "Jakie elementy można połączyć w jednym projekcie?",
+        "Jakie znaczenie ma infrastruktura technologiczna?",
+        "Dlaczego warto określić funkcję każdego wydatku?",
+        "Jak program wspiera rozwój nauczycieli i uczniów?"
+      ],
+      "canonical_url": "https://www.robocamp.pl/pl/blog/cyfrowy-uczen/#na-co-mozna-przeznaczyc-srodki",
+      "last_updated": "2026-03-20"
+    }
+  ]
+}
