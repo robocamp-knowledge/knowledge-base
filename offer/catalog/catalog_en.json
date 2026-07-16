@@ -127,10 +127,10 @@
             }
           },
           "_Price": {
-            "EN": 645.0
+            "EN": null
           },
           "_Link": {
-            "EN": "https://buy.stripe.com/aEU1612ew4nicVO5ks"
+            "EN": null
           },
           "NoSub": {
             "_Price": {
@@ -310,17 +310,17 @@
         "1Y": {
           "_Promo": {
             "_Price": {
-              "EN": null
+              "EN": 1070.15
             },
             "_Link": {
-              "EN": null
+              "EN": "https://buy.stripe.com/bIY2a5dXe0722hadRu?prefilled_promo_code=MOM07W7G"
             }
           },
           "_Price": {
-            "EN": 1059.0
+            "EN": null
           },
           "_Link": {
-            "EN": "https://buy.stripe.com/dRm7sLga948s7HCcK11ck0P"
+            "EN": null
           },
           "NoSub": {
             "_Price": {
@@ -2285,7 +2285,7 @@
     "Category": "course",
     "Slug_EN": "2d-laser-spike",
     "Description": "The course currently offers 4 lesson plans (expanding to 10) that teach students how to design and laser cut custom wooden parts for LEGO® Education SPIKE™ Prime robots. Using Tinkercad for modeling, students create components that can be cut in just minutes, making laser cutting a faster and more practical alternative to 3D printing in the classroom. The wooden parts add both functionality and aesthetics, turning robotics into a cross-disciplinary experience that combines engineering and art (STAM).\nThis course is currently available in beta version, offered at a reduced price until the full curriculum of 10 lessons is completed.",
-    "Product_description_URL": null,
+    "Product_description_URL": "https://www.robocamp.eu/en/course-spike-prime-2d/",
     "Reference_Document_URL": null,
     "Reference_Document_Type:": null,
     "Reference_Video_URL": null,
