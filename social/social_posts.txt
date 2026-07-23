@@ -1,252 +1,243 @@
 POST #1
-Date: 2026-05-15
+Date: 2026-07-14
 Type: Facebook post
 Language: en
-Tags: spike-prime, 3d-printing, tinkercad, educational-robotics, stem-education, technology-innovation
-URL: https://www.facebook.com/robocamp/posts/pfbid02franoQL6YmrbidUU5CAwsw59X3ZEcwpTLF5PHtL6vMGqyH2Ab57VfhyP73z412ejl
+Tags: spike-prime, lego-education, educational-robotics, stem-education, ai, perception, student-engagement, design-challenges
+URL: https://www.facebook.com/robocamp/posts/pfbid0nEACwvQWXpt4Uk2618PthvoR49zAFPso6TpcJzWVfTFF4zR5GFaNHDPAgvBiaKHCl
 
 Content:
-👉 Have we already explored 100% of SPIKE Prime’s potential? Because once students start designing their own robot parts in Tinkercad… SPIKE Prime suddenly stops being just a robotics set. And starts becoming a platform for real engineering. ⚙️ Custom mechanisms 🖨️ 3D-printed rack gears 📏 Larger movement ranges 🎨 Personalized robot elements For example: A standard SPIKE Prime plotter has a limited drawing range. But when students design and print longer rack gears themselves, the robot suddenly becomes capable of drawing across an entire A4 page. Not because the hardware changed. But because students expanded the system themselves. 🧠 This is the moment when students begin to understand something important: Technology is not a closed box. It is something they can redesign, extend and improve. And this is where 3D printing becomes much more than just “printing gadgets”. 💬 Have you already tried combining educational robotics with Tinkercad and 3D printing in your classroom? #RoboCamp #LEGOEducation #EducationalRobotics #STEMEducation #EdTech #CodingForKids #SPIKEPrime #3DPrinting #Tinkercad #3DDesign
+Testing the new LEGO® Education Computer Science & AI set Part #2: Which of these robots looks like it was designed for 11-year-olds?  After preparing and testing almost 30 different constructions with LEGO® Education Computer Science & AI, one concern keeps returning: its problem may not be what the set can do, but how students perceive it.  The set certainly has educational potential. Some models use interesting mechanisms, and some support meaningful coding activities. Several aspects of its actual capabilities remain open to debate.  But the problem of perception is becoming increasingly difficult to ignore.  Look at the constructions in the images and compare similar projects created with the two LEGO Education systems.  SPIKE Prime usually communicates:  ⚙️ mechanisms 🤖 robotics 🔧 engineering 📏 technical problem-solving  The new Computer Science & AI system often communicates something different:  🎨 soft, pastel forms 🧩 a more playful visual language 🟦 large, rounded electronic components 🧸 an aesthetic closer to products for younger learners  This does not mean that these constructions are bad, or that pastel colors cannot be used with older students. The problem is the overall perception.  At the age of 11 or 12, students are already highly sensitive to whether an activity feels appropriate for their age. A project can be educationally valuable and still be rejected because it looks as though it was designed for much younger children.  Until now, LEGO Education product lines for different age groups differed not only in their building complexity and selection of elements. Their electronics also had a different visual identity. A system for younger learners looked different from a robotics platform for older students. The product itself communicated progression: this is the next level.  That progression is much less visible in the new LEGO Education ecosystem.  The electronic components used across solutions for 5+, 8+ and 11+ learners are visually identical. The same white housings, rounded forms and friendly visual language appear at every age level.  So where is the visual progression that tells an eleven-year-old:  “This was designed for someone my age”?  LEGO has traditionally been very good at aspirational design. Its products often make children feel slightly older, more capable and closer to working with real technology. Here, the opposite may be happening.  The name Computer Science & AI promises a mature, future-focused learning experience, but many of the models visually communicate a younger and more playful category than the declared 11+ positioning.  After building almost 30 models, we increasingly believe that this perception problem may be more serious than the hardware limitations themselves. Hardware capabilities can sometimes be extended through better projects and better lesson design.  But if students look at the system and immediately think, “This is for younger children,” that is much harder to repair.  Without looking at the product names or age labels, which of these constructions would you identify as the one designed for students aged 11+?  #RoboCamp #LEGOEducation #EducationalRobotics #STEMEducation #EdTech #ComputerScienceEducation #SPIKEPrime #LEGOEducationAI #RoboticsEducation
 
 ---
 POST #2
-Date: 2026-05-08
+Date: 2026-05-15
 Type: Facebook post
 Language: en
-Tags: spike-prime, computer-science, ai, stem-education, robotics-lessons, hands-on-learning
-URL: https://www.facebook.com/robocamp/posts/pfbid031kw93bsuQwDUWCjr3fnAaPH8RnaDdhFDhhoVF14SmjxEcsKA9y1orN7gAvgFVwMPl
+Tags: spike-prime, 3d-printing, tinkercad, educational-robotics, stem-education, engineering, custom-design, student-innovation
+URL: https://www.facebook.com/robocamp/posts/pfbid0c3mcwXwyc9PvD74qAPYVf58UEbXn5Bffrm7SRwfDvsjcEwg29hLKt8ixy5qLLun1l
 
 Content:
-Testing the new LEGO Education Computer Science & AI set Part #1: 45-minute lessons 45-minute robotics lessons are not a new idea. But they are becoming more and more important in real school timetables. LEGO Education is now clearly positioning the new Computer Science & AI set around short, 45-minute classroom lessons — and honestly, we think this is the right direction. ⏱️ Teachers need robotics activities that can fit into a regular school day. But here is the key point: A short lesson is not created by the box. It is created by the lesson plan. That is why we have been developing short SPIKE Prime lessons for some time already. For example, in our SPIKE Prime Forklift lesson, students work with mechanics, movement logic and structured programming — all within a compact classroom format. Now we are testing a similar idea with the new LEGO Education Computer Science & AI set. Can you run a 45-minute lesson with the new set? Yes. But can you run several 45-minute lessons smoothly, one after another, during a normal school day? That is a different question. 🔋 With SPIKE Prime, this part of the classroom workflow was simpler: one hub, one battery, one charging routine. With the new Computer Science & AI electronics, each wireless component has its own battery. This opens up some interesting design possibilities, but it also means charging has to be planned before the lesson — it is not something teachers can always easily fix once the lesson has started. So this is not really a question of whether the new set is “bad”. It is not. It is a question of what schools actually need. If your goal is to run better 45-minute robotics lessons, you do not automatically need a new set. You need a better lesson plan. #RoboCamp #LEGOEducation #EducationalRobotics #STEMEducation #EdTech #CodingForKids #SPIKEPrime #ComputerScience #AIinEducation #HandsOnLearning
+👉 Have we already explored 100% of SPIKE Prime’s potential?  Because once students start designing their own robot parts in Tinkercad…  SPIKE Prime suddenly stops being just a robotics set.  And starts becoming a platform for real engineering.  ⚙️ Custom mechanisms  🖨️ 3D-printed rack gears  📏 Larger movement ranges  🎨 Personalized robot elements  For example:  A standard SPIKE Prime plotter has a limited drawing range.  But when students design and print longer rack gears themselves,  the robot suddenly becomes capable of drawing across an entire A4 page.  Not because the hardware changed.  But because students expanded the system themselves.  🧠 This is the moment when students begin to understand something important:  Technology is not a closed box.  It is something they can redesign, extend and improve.  And this is where 3D printing becomes much more than just “printing gadgets”.  💬 Have you already tried combining educational robotics with Tinkercad and 3D printing in your classroom?  #RoboCamp #LEGOEducation #EducationalRobotics #STEMEducation #EdTech #CodingForKids #SPIKEPrime #3DPrinting #Tinkercad #3DDesign
 
 ---
 POST #3
-Date: 2026-04-13
+Date: 2026-05-08
 Type: Facebook post
 Language: en
-Tags: spike-essential, computational-thinking, educational-robotics, stem-education, primary-education
-URL: https://www.facebook.com/robocamp/posts/pfbid02gTrjSs7JQndisgT2sXUB84LMdiwMfyjTDRwYegFsDohzdcsuRdpjMwMjSeRr9GvAl
+Tags: spike-prime, educational-robotics, stem-education, lesson-planning, classroom-management, short-lessons, ai-education, lego-education
+URL: https://www.facebook.com/robocamp/posts/pfbid0xS5VkP4zJ7hJYFjGFHvdrzeYZe5kmv6EcNY7GmbssPMCniLjaNMG2VZ8WKFTquhzl
 
 Content:
-A primary school classroom. Students working with SPIKE Essential. And a task that is clearly not “basic”. ⚙️ Two motors. 📏 Precise movement. 🤖 A robot navigating a maze. This is not the kind of problem you would typically expect from this set. And yet — it works. Not because of the hardware. But because of how the lesson is designed. When the structure is right, even simple tools can support much more advanced thinking: – breaking problems into steps, – testing and improving, – understanding how code translates into movement. 🧠 This is what real computational thinking looks like — even in younger grades. #RoboCamp #LEGOEducation #EducationalRobotics #STEMEducation #EdTech #ComputationalThinking #SPIKEEssential
+Testing the new LEGO Education Computer Science & AI set Part #1: 45-minute lessons  45-minute robotics lessons are not a new idea.  But they are becoming more and more important in real school timetables.  LEGO Education is now clearly positioning the new Computer Science & AI set around short, 45-minute classroom lessons — and honestly, we think this is the right direction.  ⏱️ Teachers need robotics activities that can fit into a regular school day.  But here is the key point:  A short lesson is not created by the box.  It is created by the lesson plan.  That is why we have been developing short SPIKE Prime lessons for some time already.  For example, in our SPIKE Prime Forklift lesson, students work with mechanics, movement logic and structured programming — all within a compact classroom format.  Now we are testing a similar idea with the new LEGO Education Computer Science & AI set.  Can you run a 45-minute lesson with the new set?  Yes.  But can you run several 45-minute lessons smoothly, one after another, during a normal school day?  That is a different question.  🔋 With SPIKE Prime, this part of the classroom workflow was simpler: one hub, one battery, one charging routine.  With the new Computer Science & AI electronics, each wireless component has its own battery. This opens up some interesting design possibilities, but it also means charging has to be planned before the lesson — it is not something teachers can always easily fix once the lesson has started.  So this is not really a question of whether the new set is “bad”.  It is not.  It is a question of what schools actually need.  If your goal is to run better 45-minute robotics lessons, you do not automatically need a new set.  You need a better lesson plan.  #RoboCamp #LEGOEducation #EducationalRobotics #STEMEducation #EdTech #CodingForKids #SPIKEPrime #ComputerScience #AIinEducation #HandsOnLearning
 
 ---
 POST #4
-Date: 2026-03-02
+Date: 2026-04-13
 Type: Facebook post
 Language: en
-Tags: spike-prime, computational-thinking, creative-exploration, stem-education, robotics-education
-URL: https://www.facebook.com/robocamp/posts/pfbid02kC6RQ9V4apTsaYoBN72MNyZvSJBaVWyy7UJRzDxfJoKB88h1JCvNQtibAEFDd7GLl
+Tags: spike-essential, computational-thinking, stem-education, problem-solving, educational-robotics, early-education, lesson-design, critical-thinking
+URL: https://www.facebook.com/robocamp/posts/pfbid0d9169eJPJ19PxEHrTQA5kW9ccFPPymn14uV9DoGjRiEvCW5mi2yiFFHUUknmMwC1l
 
 Content:
-Short robotics lessons don’t have to be a limitation. They can be a teaching tool. When the core of an exercise is clearly structured, students don’t spend the entire lesson just trying to “finish the task.” They gain time for something more important — experimentation. 🎲 Game Dice Students learn how to implement a random variable (1–6) and apply it in their own board game. 🎵 Music Box Structured programming first — creative composition next. 🏗️ Forklift Mechanics, movement logic and then custom challenges. This is what our SPIKE Prime Beginner course is built around: Clear structure. Real computational thinking. Space for creative exploration. Want to see the full course outline? 👉 Check the first link in the comments. #RoboCamp #LEGOEducation #SPIKEPrime #RoboticsEducation #ComputationalThinking #STEMeducation #EdTech #CodingInSchool
+A primary school classroom. Students working with SPIKE Essential.  And a task that is clearly not “basic”.  ⚙️ Two motors. 📏 Precise movement. 🤖 A robot navigating a maze.  This is not the kind of problem you would typically expect from this set.  And yet — it works.  Not because of the hardware. But because of how the lesson is designed.  When the structure is right, even simple tools can support much more advanced thinking: – breaking problems into steps, – testing and improving, – understanding how code translates into movement.  🧠 This is what real computational thinking looks like — even in younger grades.  #RoboCamp #LEGOEducation #EducationalRobotics #STEMEducation #EdTech #ComputationalThinking #SPIKEEssential
 
 ---
 POST #5
-Date: 2026-02-27
+Date: 2026-03-02
 Type: Facebook post
 Language: en
-Tags: spike-prime, structured-learning, creative-thinking, stem-education, music-education
-URL: https://www.facebook.com/robocamp/posts/pfbid037jEqvG9FGsds9wzhmibKSGncXvKaz7NyaxJU4UrLSV4Xrw9zgKZ54PU2NVg9NCVbl
+Tags: spike-prime, computational-thinking, stem-education, creativity, educational-robotics, short-lessons, lesson-structure, student-exploration
+URL: https://www.facebook.com/robocamp/posts/pfbid0gPHFYH6we8njPC7bJAUfDquShq8v6PXeYDbsgm9sQ25ktUGHuHvuxcQR5V2euVUfl
 
 Content:
-A short lesson scenario doesn’t have to be a limitation. It can be a powerful teaching tool. When the core of an exercise is well designed and built around a clear structure, students don’t spend the entire lesson just trying to “finish the task.” They gain time for something more important — experimentation. In this implementation of the “Music Box” lesson from RoboCamp, students didn’t stop at the basic version. They added their own musical compositions and modified the build. This is the moment when a lesson plan stops being an instruction sheet and becomes a starting point for creative thinking. Great work by the team at Beyond Blocks. Congratulations! #robocamp #LEGOEducation #SPIKEprime #STEM #STEMEducation #stemforkids #edtech
+Short robotics lessons don’t have to be a limitation. They can be a teaching tool.  When the core of an exercise is clearly structured, students don’t spend the entire lesson just trying to “finish the task.” They gain time for something more important — experimentation.  🎲 Game Dice Students learn how to implement a random variable (1–6) and apply it in their own board game.  🎵 Music Box Structured programming first — creative composition next.  🏗️ Forklift Mechanics, movement logic and then custom challenges.  This is what our SPIKE Prime Beginner course is built around:  Clear structure. Real computational thinking. Space for creative exploration.  Want to see the full course outline? 👉 Check the first link in the comments.  #RoboCamp #LEGOEducation #SPIKEPrime #RoboticsEducation #ComputationalThinking #STEMeducation #EdTech #CodingInSchool
 
 ---
 POST #6
-Date: 2026-01-15
+Date: 2026-02-27
 Type: Facebook post
 Language: en
-Tags: spike-prime, ai-education, machine-learning, stem-education, robotics-education
-URL: https://www.facebook.com/robocamp/posts/pfbid02a4eqHzmLt3y6WVCykTgRPGu67Jd1cmXMCMyVjrjRLSPupw5J94iihJ9FmCnYHKK4l
+Tags: spike-prime, creative-exploration, stem-education, educational-robotics, music-lesson, lesson-design, student-creativity, experimental-learning
+URL: https://www.facebook.com/robocamp/posts/pfbid023vRg4Pm8LDdf9WtYhoSsg27jRRMtz9HDqxnsa4Ka1MT1i3Tfokwfn8pjzSaB6aXcl
 
 Content:
-The recent announcement of LEGO Education’s Computer Science & AI sets raises an important question: should AI in robotics education focus on using AI tools, or on understanding how learning algorithms actually work? Understanding how AI learns — through feedback, adaptation, and iteration — can already be taught today, even with robotics sets that many schools already have in their classrooms. One example is Launcher AI+, an advanced SPIKE Prime activity developed by the RoboCamp team. Students build a catapult-style robot that repeatedly launches a ball toward a target. After each attempt, the robot receives feedback — the shot was too short or too far — and adjusts its launch power accordingly. With every iteration, the program updates its parameters and gradually improves accuracy. There is no black-box AI here. Students design the learning logic themselves and can clearly see how data and feedback shape the robot’s behavior over time. This is what learning about AI can look like — without new hardware, and without using AI as a shortcut instead of understanding how it works. If you’d like to learn more about this approach, you’ll find additional details in the comments below. #robocamp #LEGOEducation #SPIKEprime #STEM #STEMEducation #stemforkids #edtech #AIinEducation #machinelearningeducation
+A short lesson scenario doesn’t have to be a limitation. It can be a powerful teaching tool.  When the core of an exercise is well designed and built around a clear structure, students don’t spend the entire lesson just trying to “finish the task.” They gain time for something more important — experimentation.  In this implementation of the “Music Box” lesson from RoboCamp, students didn’t stop at the basic version. They added their own musical compositions and modified the build.  This is the moment when a lesson plan stops being an instruction sheet and becomes a starting point for creative thinking.  Great work by the team at Beyond Blocks. Congratulations!  #robocamp #LEGOEducation #SPIKEprime #STEM #STEMEducation #stemforkids #edtech
 
 ---
 POST #7
-Date: 2026-01-13
+Date: 2026-01-15
 Type: Facebook post
 Language: en
-Tags: spike-prime, spike-essential, ai-education, educational-robotics, stem-education
-URL: https://www.facebook.com/robocamp/posts/pfbid0ScWX1GBJkqM6ChUxWEjpBfnm8RatcNoyuLyNRMxLnMwCJZeJggh6PKSxVJBmkkwNl
+Tags: spike-prime, ai-education, machine-learning, stem-education, educational-robotics, feedback-loop, algorithmic-thinking, student-learning
+URL: https://www.facebook.com/robocamp/posts/pfbid0WFqfS8PDwXQfy8KugfQie46FwCuTgY49YPLV7pyBjTHqpzL7smAumRYjEdYCcRU1l
 
 Content:
-LEGO® Education has announced a new Computer Science & AI product line and, at the same time, shared an update regarding the retirement of SPIKE Prime and SPIKE Essential. For schools already working with SPIKE sets, the following confirmed timelines are particularly important: – SPIKE Prime and SPIKE Essential will remain available for purchase at least until mid-2026, – spare parts for SPIKE Prime and SPIKE Essential will be available until June 2028, – software for SPIKE will remain supported until June 2031. This means that the well-established SPIKE Prime and SPIKE Essential sets will continue to be reliable, long-term educational tools for many years to come. As for the new Computer Science & AI sets — at this stage, it is simply too early to evaluate them. We don’t form opinions until we have had the opportunity to work hands-on with the sets and test them in real classroom conditions. We will publish a full review of the new sets after proper testing. In the meantime, we invite you to read our review of LEGO Education Science. Since the new Computer Science & AI line is based on the same generation of electronic components, it is currently the best available reference point for understanding the direction LEGO Education is heading with its future educational products. Link to the review in the comments. #robocamp #LEGOEducation #SPIKEprime #SPIKEEssential #educationalrobotics #STEM #stemeducation #stemforkids #edtech
+The recent announcement of LEGO Education’s Computer Science & AI sets raises an important question: should AI in robotics education focus on using AI tools, or on understanding how learning algorithms actually work?  Understanding how AI learns — through feedback, adaptation, and iteration — can already be taught today, even with robotics sets that many schools already have in their classrooms.  One example is Launcher AI+, an advanced SPIKE Prime activity developed by the RoboCamp team.  Students build a catapult-style robot that repeatedly launches a ball toward a target. After each attempt, the robot receives feedback — the shot was too short or too far — and adjusts its launch power accordingly. With every iteration, the program updates its parameters and gradually improves accuracy.  There is no black-box AI here. Students design the learning logic themselves and can clearly see how data and feedback shape the robot’s behavior over time.  This is what learning about AI can look like — without new hardware, and without using AI as a shortcut instead of understanding how it works.  If you’d like to learn more about this approach, you’ll find additional details in the comments below.  #robocamp #LEGOEducation #SPIKEprime #STEM #STEMEducation #stemforkids #edtech #AIinEducation #machinelearningeducation
 
 ---
 POST #8
-Date: 2025-10-24
+Date: 2026-01-13
 Type: Facebook post
 Language: en
-Tags: spike-prime, computational-thinking, educational-robotics, structured-learning, stem-education
-URL: https://www.facebook.com/robocamp/posts/pfbid02ZKqrfnYnoQMEK3PoME3TDvawf3cDSynPgJZb2wtHv8KJkhs1xbaddvKKGnHkBRkXl
+Tags: spike-prime, spike-essential, lego-education, product-updates, stem-education, ai-education, educational-robotics, future-planning
+URL: https://www.facebook.com/robocamp/posts/pfbid02WgjmosvaLc5wWkh76jRWeoLqyjvLPwgNgx5zMCK5u5918mSZZPyuvUJxnfR6Rwopl
 
 Content:
-A primary school classroom. Grades IV–V. SPIKE Prime in use. A simple mechanism: – forward / backward movement 🔁 – motor control ⚙️ – repeatable motion 🎯 At first glance — basic. But this is already real programming. Not just building. Students are not stopping at assembling the model. They are controlling it. Testing it. Adjusting it. And this is where the difference appears. When the lesson has a clear structure, students move faster from “building” to actual thinking: – cause → effect 🧠 – code → movement 🤖 – testing → improvement 🔍 This is what happens when robotics is treated as a system — not just a set. The hardware stays the same. The outcomes don’t. 📘 This is lesson 1 out of 100 in our SPIKE Prime curriculum. The starting point is simple — but it’s designed as part of a long-term progression. Implemented in a real school setting — as part of a funded education project. #RoboCamp #LEGOEducation #EducationalRobotics #STEMEducation #ComputationalThinking #CodingInSchool #SPIKEPrime
+LEGO® Education has announced a new Computer Science & AI product line and, at the same time, shared an update regarding the retirement of SPIKE Prime and SPIKE Essential.  For schools already working with SPIKE sets, the following confirmed timelines are particularly important: – SPIKE Prime and SPIKE Essential will remain available for purchase at least until mid-2026, – spare parts for SPIKE Prime and SPIKE Essential will be available until June 2028, – software for SPIKE will remain supported until June 2031.  This means that the well-established SPIKE Prime and SPIKE Essential sets will continue to be reliable, long-term educational tools for many years to come.  As for the new Computer Science & AI sets — at this stage, it is simply too early to evaluate them. We don’t form opinions until we have had the opportunity to work hands-on with the sets and test them in real classroom conditions.  We will publish a full review of the new sets after proper testing.  In the meantime, we invite you to read our review of LEGO Education Science. Since the new Computer Science & AI line is based on the same generation of electronic components, it is currently the best available reference point for understanding the direction LEGO Education is heading with its future educational products.  Link to the review in the comments.  #robocamp #LEGOEducation #SPIKEprime #SPIKEEssential #educationalrobotics #STEM #stemeducation #stemforkids #edtech
 
 ---
 POST #9
-Date: 2025-09-09
+Date: 2025-10-24
 Type: Facebook post
-Language: pl
-Tags: spike-prime, druk-3d, educational-robotics, stem-education, tinkercad
-URL: https://www.facebook.com/robocamp/posts/pfbid0Vb4ZGiJKRBhahoSMk3fo8C5ThLQG4mQaMBXNhjX1WVgyzo9XuyJAb9DijdtTv6KMl
+Language: en
+Tags: spike-prime, computational-thinking, stem-education, programming, real-world-skills, lesson-structure, student-engagement, curriculum-development
+URL: https://www.facebook.com/robocamp/posts/pfbid02ZYdQHjNEXwDB4kyinVzcqVRKwbSZGxkkuLJaotSYyDootwLe6VEU8pXGVi169vZRl
 
 Content:
-💙 6 lat wspólnej pracy i ciągle nowe wyzwania! Wasz rozwój motywuje nas do tworzenia coraz lepszych scenariuszy lekcji. Bardzo cieszy nas, że do pracy z zestawami SPIKE Prime włączacie również druk 3D i ploter laserowy. Pokazujecie w praktyce, że lekcje robotyki nie kończą się na tym, co jest w pudełku – jedynym ograniczeniem jest wyobraźnia ✨ #RoboCamp #LEGOEducation #SPIKEPrime #EducationalRobotics #STEMEducation #3DPrinting #Tinkercad #3DDesign
+A primary school classroom. Grades IV–V. SPIKE Prime in use.  A simple mechanism: – forward / backward movement 🔁 – motor control ⚙️ – repeatable motion 🎯  At first glance — basic.  But this is already real programming. Not just building.  Students are not stopping at assembling the model. They are controlling it. Testing it. Adjusting it.  And this is where the difference appears.  When the lesson has a clear structure, students move faster from “building” to actual thinking: – cause → effect 🧠 – code → movement 🤖 – testing → improvement 🔍  This is what happens when robotics is treated as a system — not just a set.  The hardware stays the same. The outcomes don’t.  📘 This is lesson 1 out of 100 in our SPIKE Prime curriculum. The starting point is simple — but it’s designed as part of a long-term progression.  Implemented in a real school setting — as part of a funded education project.  #RoboCamp #LEGOEducation #EducationalRobotics #STEMEducation #ComputationalThinking #CodingInSchool #SPIKEPrime
 
 ---
 POST #10
-Date: 2025-06-25
-Type: Facebook reel
-Language: en
-Tags: spike-essential, robotics-for-kids, coding-for-kids, stem-education, creative-education
-URL: https://www.facebook.com/reel/675163292163333/
+Date: 2025-09-09
+Type: Facebook post
+Language: pl
+Tags: spike-prime, 3d-printing, stem-education, tinkercad, robotics, edukacja, innowacja, nauczanie
+URL: https://www.facebook.com/robocamp/posts/pfbid0Vor6tf7m9fNAaa9mV2ob64wm69toM6UVM1VCQGotA1P2qxm93EZ5dFpB4St7AnZ5l
 
 Content:
-🚀 Cosmic Battle – a galactic duel right in your classroom! 🌌 Build two starfighters that resemble iconic ships from sci-fi universes… then let them battle it out! 🔫 Who will win? No one knows – the outcome is decided by chance! 🎲 A perfect way to introduce young students to coding and robotics through fun and unpredictability. 👧 Designed for students aged 6–9 👩‍🏫 Includes ready-to-use lesson plans, simple instructions, and Word Blocks coding 📦 Required kit: LEGO® Education SPIKE Essential (#45345) #RoboCamp #STEMeducation #RoboticsForKids #CodingForKids #LEGOEducation #EdTech #SPIKEEssential
+💙 6 lat wspólnej pracy i ciągle nowe wyzwania! Wasz rozwój motywuje nas do tworzenia coraz lepszych scenariuszy lekcji. Bardzo cieszy nas, że do pracy z zestawami SPIKE Prime włączacie również druk 3D i ploter laserowy. Pokazujecie w praktyce, że lekcje robotyki nie kończą się na tym, co jest w pudełku – jedynym ograniczeniem jest wyobraźnia ✨  #RoboCamp #LEGOEducation #SPIKEPrime #EducationalRobotics #STEMEducation #3DPrinting #Tinkercad #3DDesign
 
 ---
 POST #11
-Date: 2025-06-09
-Type: Facebook post
+Date: 2025-06-25
+Type: Facebook reel
 Language: en
-Tags: spike-prime, 3d-printing, stem-education, robotics-innovation, creative-freedom
-URL: https://www.facebook.com/robocamp/posts/pfbid02obDdMxnGHiT9ojmtghuYTddZVi8CfyeEbzu4zGBBbZBKVbds94ULa2RoSoKhMkg9l
+Tags: spike-essential, coding-for-kids, robotics-for-kids, stem-education, young-learners, creative-play, game-design, classroom-engagement
+URL: https://www.facebook.com/reel/675163292163333/
 
 Content:
-🚀 3D Printing for Robotics – Unlimited Potential or Unnecessary Complication? At RoboCamp, you'll find lesson plans that incorporate 3D-printed components, specifically designed to unlock the full potential of LEGO® Education SPIKE™ Prime. ✅ On one hand – unlimited creative freedom! Design and print exactly what you need. The only limit is your imagination! ⚠️ On the other hand – logistical challenges. You need access to a 3D printer and must allocate time for printing, which doesn't always go smoothly. ➡️ What do you think? Would you utilize a 3D printer in this way? Is it a fantastic method to enhance robotics classes, or is it too much trouble? 💬 Share your thoughts – your opinions are invaluable to us!
+🚀 Cosmic Battle – a galactic duel right in your classroom! 🌌  Build two starfighters that resemble iconic ships from sci-fi universes… then let them battle it out! 🔫 Who will win? No one knows – the outcome is decided by chance! 🎲 A perfect way to introduce young students to coding and robotics through fun and unpredictability.  👧 Designed for students aged 6–9 👩‍🏫 Includes ready-to-use lesson plans, simple instructions, and Word Blocks coding 📦 Required kit: LEGO® Education SPIKE Essential (#45345)  #RoboCamp #STEMeducation #RoboticsForKids #CodingForKids #LEGOEducation #EdTech #SPIKEEssential
 
 ---
 POST #12
-Date: 2025-05-28
+Date: 2025-06-09
 Type: Facebook post
 Language: en
-Tags: spike-prime, python-education, game-development, stem-education, educational-robotics
-URL: https://www.facebook.com/robocamp/posts/pfbid02FvrHW6uukh2q9Ea2BRU1WXEpnpv7CbNue1RpsQPVy6PisjupJ8gGQmFcgPXoLR8Jl
+Tags: 3d-printing, spike-prime, educational-robotics, stem-education, creativity, classroom-challenges, lesson-planning, student-innovation
+URL: https://www.facebook.com/robocamp/posts/pfbid0jnQTW6Q9MBcR8Ye2xh8AwKUuxWggjHtGXXij38XY45AbXcKFu5wqE6fy1WCcg5Fhl
 
 Content:
-Snake and Arkanoid in Python? Build them yourself with SPIKE Prime! 🤖🕹️ Remember playing Snake on your first mobile phone? Or spending hours with Arkanoid on an old computer? For many of us, these games were our very first step into the digital world – first as players, then as programmers, and today as educators. At RoboCamp, we now give kids the chance to experience something similar. Only this time — from the other side of the screen. As part of our SPIKE Prime Programming Course Expert, students create their own versions of these classic games using LEGO kits and the Python programming language.🔧🧠💻 It’s not just fun. It’s: ✅ hands-on coding in Python, ✅ learning how game mechanics work, ✅ exploring the history of gamedev through experience. Why do we teach kids to program Snake and Arkanoid? Because that’s how our own tech journey began. Those pixelated games sparked our curiosity and made us ask: How does it work? Could I build this myself? Now it’s the kids’ turn. We give them the tools — and they become the creators. Python. Robots. The classics of gamedev. All ready — in our expert-level course. Join us on this journey from pixels to robots! 💾➡️🤖 #RoboCamp #LEGOEducation #SPIKEPrime #PythonForKids #EducationalRobotics #STEMEducation
+🚀 3D Printing for Robotics – Unlimited Potential or Unnecessary Complication?  At RoboCamp, you'll find lesson plans that incorporate 3D-printed components, specifically designed to unlock the full potential of LEGO® Education SPIKE™ Prime.  ✅ On one hand – unlimited creative freedom! Design and print exactly what you need. The only limit is your imagination!  ⚠️ On the other hand – logistical challenges. You need access to a 3D printer and must allocate time for printing, which doesn't always go smoothly.  ➡️ What do you think? Would you utilize a 3D printer in this way? Is it a fantastic method to enhance robotics classes, or is it too much trouble?  💬 Share your thoughts – your opinions are invaluable to us!
 
 ---
 POST #13
-Date: 2025-02-26
+Date: 2025-05-28
 Type: Facebook post
-Language: pl
-Tags: spike-prime, mbot-2, laser-cutting, mechanical-education, educational-robotics
-URL: https://www.facebook.com/robocamp/posts/pfbid0WXLeXSQJpUHJXfKUwupmohKCuheutxqTib6twhzdRyZ4hdrVmtRCmFpuui5aLrjhl
+Language: en
+Tags: spike-prime, python, game-development, educational-robotics, stem-education, classics, hands-on-learning, student-creativity
+URL: https://www.facebook.com/robocamp/posts/pfbid0C837eEXnpB7Gt3KA1mBaxqFjmbW6sbEXp6uD3eJZtqaJT6mEXwGxAycpJCf1FhSSl
 
 Content:
-Latający ptak – SPIKE Prime / mBot 2 / wycinarka laserowa Zbuduj z uczniami ruchomy model sowy dzięki projektowi Latającego ptaka. Drewniane elementy i sznurek tworzą mechanizm korbowy napędzany silnikiem, ukazując zasady mechaniki w praktyce. • Budowa działającego mechanizmu • Zrozumienie zasady działania korby • Rozwój zdolności projektowych Scenariusze zostały zaprojektowany z myślą o wykorzystaniu wycinarki laserowej oraz zestawów LEGO SPIKE Prime i mBot 2, co pozwala na tworzenie unikalnych i edukacyjnych doświadczeń dla uczniów.
+Snake and Arkanoid in Python? Build them yourself with SPIKE Prime! 🤖🕹️   Remember playing Snake on your first mobile phone? Or spending hours with Arkanoid on an old computer? For many of us, these games were our very first step into the digital world – first as players, then as programmers, and today as educators.  At RoboCamp, we now give kids the chance to experience something similar. Only this time — from the other side of the screen.  As part of our SPIKE Prime Programming Course Expert, students create their own versions of these classic games using LEGO kits and the Python programming language.🔧🧠💻  It’s not just fun. It’s: ✅ hands-on coding in Python, ✅ learning how game mechanics work, ✅ exploring the history of gamedev through experience.  Why do we teach kids to program Snake and Arkanoid? Because that’s how our own tech journey began. Those pixelated games sparked our curiosity and made us ask: How does it work? Could I build this myself?  Now it’s the kids’ turn. We give them the tools — and they become the creators. Python. Robots. The classics of gamedev. All ready — in our expert-level course.  Join us on this journey from pixels to robots! 💾➡️🤖  #RoboCamp #LEGOEducation #SPIKEPrime #PythonForKids #EducationalRobotics #STEMEducation
 
 ---
 POST #14
-Date: 2025-02-24
+Date: 2025-02-26
 Type: Facebook post
-Language: en
-Tags: spike-prime, mbot-2, laser-cutting, physics-education, stem-education
-URL: https://www.facebook.com/robocamp/posts/pfbid0CHCh6Z8r1P6vkbAGG2qAguW9i12UYTP9p6rm42Q3pKiv5AjukGxD538mdn57AE6il
+Language: pl
+Tags: spike-prime, mbot2, laser-cutting, stem-education, mechanics, student-projects, robotics, innowacja
+URL: https://www.facebook.com/robocamp/posts/pfbid02a7cNmQaNaYKPwRCiF99ic25ds66RtSe2StiaZ4gUsWnUJu83mRFLqresWyoe31Zel
 
 Content:
-🎠 Carousel – SPIKE Prime / mBot 2 / laser cutter Demonstrate centrifugal force to your students with the Carousel model. The faster it spins, the more the airplanes tilt away from the vertical position, allowing observation of physics in action. • Visualization of physical concepts • Hands-on scientific experience • Development of analytical skills This robot construction can be created using the LEGO SPIKE Prime or mBot 2 set, along with precisely cut elements using a laser cutter, ensuring accuracy and aesthetic quality. Get this RoboCamp lesson plan and more: bit.ly/robocamp_offer
+Latający ptak – SPIKE Prime / mBot 2 / wycinarka laserowa  Zbuduj z uczniami ruchomy model sowy dzięki projektowi Latającego ptaka. Drewniane elementy i sznurek tworzą mechanizm korbowy napędzany silnikiem, ukazując zasady mechaniki w praktyce. • Budowa działającego mechanizmu • Zrozumienie zasady działania korby • Rozwój zdolności projektowych  Scenariusze zostały zaprojektowany z myślą o wykorzystaniu wycinarki laserowej oraz zestawów LEGO SPIKE Prime i mBot 2, co pozwala na tworzenie unikalnych i edukacyjnych doświadczeń dla uczniów.
 
 ---
 POST #15
-Date: 2025-02-19
+Date: 2025-02-24
 Type: Facebook post
 Language: en
-Tags: spike-prime, mbot-2, laser-cutting, educational-robotics, creative-learning
-URL: https://www.facebook.com/robocamp/posts/pfbid0CWXToHDMGQCoWzrtGJ1FFn2pfrHKbigZsoMGp6keHCdx3qnmS5Zmc5EHwqASqeunl
+Tags: spike-prime, mbot2, laser-cutting, stem-education, physics, hands-on-learning, educational-robotics, scientific-experience
+URL: https://www.facebook.com/robocamp/posts/pfbid02FsURLXJumPYt2AZp2daDss9gUyv3xqMJ48TVvzLmLAEJUqLKR8tPpKQpY1rSEoADl
 
 Content:
-🤖 8 new robots for your lessons! 🔗bit.ly/robocamp_offer Do your students dream of building cranes, carousels, and flying birds? With ready-made lesson plans and a laser cutter, you can introduce all of them into your classes! 🦾 Crane – joystick control 🎡 Wheel of Fortune – fun and education in one 🎠 Carousel – learning about centrifugal force 🦉 Flying Bird – mechanisms in motion Each of these projects is designed with the use of a laser cutter and LEGO SPIKE Prime and mBot 2 sets in mind, allowing for the creation of unique and educational experiences for students. 👇 Learn more: 🔗 bit.ly/robocamp_offer
+🎠 Carousel – SPIKE Prime / mBot 2 / laser cutter  Demonstrate centrifugal force to your students with the Carousel model. The faster it spins, the more the airplanes tilt away from the vertical position, allowing observation of physics in action. • Visualization of physical concepts • Hands-on scientific experience • Development of analytical skills  This robot construction can be created using the LEGO SPIKE Prime or mBot 2 set, along with precisely cut elements using a laser cutter, ensuring accuracy and aesthetic quality.  Get this RoboCamp lesson plan and more: bit.ly/robocamp_offer
 
 ---
 POST #16
-Date: 2024-06-07
+Date: 2025-02-19
 Type: Facebook post
 Language: en
-Tags: spike-prime, 45-minute-lessons, robotics-education, stem-education, interactive-learning
-URL: https://www.facebook.com/robocamp/posts/pfbid0batv4yVQSKEfnycTk886gwh4Y8CtEp1xFQbwK7FAGPP4iNKxHsxXgorG6mZELtEJl
+Tags: spike-prime, mbot2, laser-cutting, robotics, stem-education, hands-on-learning, student-projects, educational-technology
+URL: https://www.facebook.com/robocamp/posts/pfbid02G6oC3FPR2YJepG7wDvJDnB2eFtxsx1zW24Nbc97vkksABEwY9APaqfdbs9bN9H8ml
 
 Content:
-It’s great that the RoboCamp SPIKE Prime Short exercises for 45-minute lessons have been so popular. We’ve added more 😊 In addition to the simple launcher, the maze-solving robot, and the trail tracker, we can prepare other interesting robots for 45-minute lessons. What suggestions do you have? #robocamp #legoeducation #SPIKEprime #stemeducation #stem #stemforkids
+🤖 8 new robots for your lessons!  🔗bit.ly/robocamp_offer  Do your students dream of building cranes, carousels, and flying birds? With ready-made lesson plans and a laser cutter, you can introduce all of them into your classes!  🦾 Crane – joystick control  🎡 Wheel of Fortune – fun and education in one  🎠 Carousel – learning about centrifugal force  🦉 Flying Bird – mechanisms in motion  Each of these projects is designed with the use of a laser cutter and LEGO SPIKE Prime and mBot 2 sets in mind, allowing for the creation of unique and educational experiences for students.  👇 Learn more: 🔗 bit.ly/robocamp_offer
 
 ---
 POST #17
-Date: 2024-06-07
-Type: Facebook reel
-Language: pl
-Tags: spike-prime, xtool, 3d-printing, technology-education, innovative-design
-URL: https://www.facebook.com/reel/474151438510871/
-
-Content:
-Astronomical Clock xTool SPIKE Prime #robocamp #spikeprime #xtool #legoeducation #3dprinting #LaboratoriaPrzyszlosci
-
----
-POST #18
 Date: 2024-05-14
 Type: Facebook post
 Language: en
-Tags: spike-prime, 45-minute-lessons, educational-feedback, stem-education, teacher-engagement
-URL: https://www.facebook.com/robocamp/posts/pfbid0363H6yhnWNEQ8ccqtNmgAPCi7FSH4mTxBAQWVZUnU2hbW964m3QY9u8jBEvudh22Pl
+Tags: spike-prime, educational-robotics, stem-education, short-lessons, student-engagement, lesson-extension, robotics-exercises, interactive-learning
+URL: https://www.facebook.com/robocamp/posts/pfbid022iRTgUybFJqG2p71R4SHA98VzyXwJwx85uSGnaBA6uqJun6HVq3YbHxyr6xKZ9K2l
 
 Content:
-What do you think about the short and simple 45-minute lesson plans featuring SPIKE Prime? 🤖🔧 🤔 Will they be useful to you? We’d love to hear your thoughts! Drop a comment below. 👇 #robocamp #legoeducation #SPIKEprime #stemeducation #stem #stemforkids
+It’s great that the RoboCamp SPIKE Prime Short exercises for 45-minute lessons have been so popular. We’ve added more 😊  In addition to the simple launcher, the maze-solving robot, and the trail tracker, we can prepare other interesting robots for 45-minute lessons. What suggestions do you have?  #robocamp #legoeducation  #SPIKEprime #stemeducation #stem #stemforkids
 
 ---
-POST #19
+POST #18
 Date: 2024-02-23
 Type: Facebook reel
 Language: pl
-Tags: spike-prime, future-education, stem-education, innovative-learning, laboratoria-przyszłości
+Tags: 
 URL: https://www.facebook.com/reel/796754669008335/
 
 Content:
-#robocamp #legoeducation #SPIKEprime #LaboratoriaPrzyszłości #stemeducation #stem #stemforkids
+#robocamp #legoeducation #SPIKEprime  #LaboratoriaPrzyszłości #stemeducation #stem #stemforkids
+
+---
+POST #19
+Date: 2026-02-28
+Type: Instagram post
+Language: en
+Tags: spike-prime, computational-thinking, stem-education, creative-exploration, robotics-education, structured-learning, student-creativity, game-design
+URL: https://www.instagram.com/p/DVTrk-pCUku/
+
+Content:
+A simple robot can teach a random variable.
+
+Students build a basic random number generator (1–6).
+Then they design their own board game around it.
+
+The build is simple.
+The thinking is not.
+
+When the structure is clear, there is space for experimentation.
+
+That’s where creativity begins.
+
+#RoboCamp #LEGOEducation #SPIKEPrime #ComputationalThinking #RoboticsEducation
 
 ---
 POST #20
-Date: 2025-06-25
-Type: Instagram clip
-Language: en
-Tags: spike-essential, robotics-for-kids, coding-for-kids, stem-education, classroom-fun
-URL: https://www.instagram.com/p/DLU5cFbS7Bb/
-
-Content:
-🚀 Cosmic Battle – a galactic duel right in your classroom! 🌌 Build two starfighters that resemble iconic ships from sci-fi universes… then let them battle it out! 🔫 Who will win? No one knows – the outcome is decided by chance! 🎲 A perfect way to introduce young students to coding and robotics through fun and unpredictability. 👧 Designed for students aged 6–9 👩‍🏫 Includes ready-to-use lesson plans, simple instructions, and Word Blocks coding 📦 Required kit: LEGO® Education SPIKE Essential (#45345) #RoboCamp #STEMeducation #RoboticsForKids #CodingForKids #LEGOEducation #EdTech #SPIKEEssential
-
----
-POST #21
-Date: 2025-05-28
+Date: 2025-02-24
 Type: Instagram post
-Language: en
-Tags: spike-prime, python-education, game-creation, stem-education, educational-robotics
-URL: https://www.instagram.com/p/DKMwH6wxFp2/
+Language: None
+Tags: 
+URL: https://www.instagram.com/p/DGc5CGjtrlO/
 
 Content:
-Build Snake & Arkanoid with SPIKE Prime? Yes, in Python! 🤖 🕹️ Our journey into tech started with simple games. Snake on our first phones. Arkanoid on an old computer. Now it’s time for your kids to code them from scratch. In our SPIKE Prime Programming Course Expert, students: 🧱 build robots 💻 code in Python 🎮 recreate iconic games 🧠 and learn how it all works behind the scenes. Why these games? Because they made us fall in love with tech. Now we pass that spark on. Let’s turn pixels into robots — together. 🚀 📚 For curious minds. For future creators. #RoboCamp #LEGOEducation #SPIKEPrime #PythonForKids #STEMEducation #EducationalRobotics
+🎠 Carousel – SPIKE Prime / mBot 2 / laser cutter bit.ly/robo_offer
 
----
-POST #22
-Date: 2026-03-04
-Type: Instagram post
-Language: en
-Tags: spike-prime, creative-education, music-education, stem-education, exploration
-URL: https://www.instagram.com/p/DVdzSoqGRLz/
-
-Content:
-Start with a simple melody. End with original compositions. Students begin with structured code. Then they modify tempo, pitch and rhythm. Short lessons don’t limit creativity. They protect it. When the core fits into one class period, students have time to explore. And exploration builds confidence. #RoboCamp #LEGOEducation #SPIKEPrime #STEMEducation #EducationalRobotics
+Demonstrate centrifugal force to your students with the Carousel model. The faster it spins, the more the airplanes tilt away from the vertical position, allowing observation of physics in action. • Visualization of physical concepts • Hands-on scientific experience • Development of analytical skills  This robot construction can be created using the LEGO SPIKE Prime or mBot 2 set, along with precisely cut elements using a laser cutter, ensuring accuracy and aesthetic quality.  Get this RoboCamp lesson plan and more: bit.ly/robocamp_offer
 
 
 === META ===
-Total posts: 22
-Platforms: Facebook (19), Instagram (3)
-Languages: en (18), pl (4)
-Date range: 2024-02-23 → 2026-05-15
+Total posts: 20
+Platforms: Facebook (18), Instagram (2)
+Languages: en (16), pl (3), None (1)
+Date range: 2024-02-23 → 2026-07-14
 Post types:
 - Facebook post: 16
-- Facebook reel: 3
-- Instagram clip: 1
+- Facebook reel: 2
 - Instagram post: 2
