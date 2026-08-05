@@ -24,11 +24,11 @@
     "Includes": null,
     "Why_This_Course_or_Plan": "Comprehensive Access – All lessons across LEGO SPIKE Essential, SPIKE Prime, WeDo, and EV3.\nIncludes Updates & New Courses – Automatically added during the subscription.\nCost-Effective – Best value for individual teachers.\nAll-in-One Solution – From beginner to expert, with additional 3D Printing & Laser Cutting modules.",
     "Lessons": {
-      "Total": "298",
+      "Total": "374",
       "SPIKE": {
-        "Essential": "24",
+        "Essential": "44",
         "Prime": {
-          "Base": "85",
+          "Base": "106",
           "3D_Printing": "10",
           "Laser_Cutting": "10"
         }
@@ -45,7 +45,7 @@
     },
     "Lessons_Science_1_3": "0",
     "Lessons_Science_4_6": "0",
-    "Lessons_Science_7_9": "10",
+    "Lessons_Science_7_9": "0",
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
@@ -55,14 +55,14 @@
       "Subscription": {
         "1Y": {
           "_Price": {
-            "EN": 749.0
+            "EN": 759.0
           },
           "_Link": {
             "EN": "https://buy.stripe.com/5kAeWRg5m4ni8Fy4gN?locale=en"
           },
           "NoSub": {
             "_Price": {
-              "EN": 749.0
+              "EN": 759.0
             },
             "_Link": {
               "EN": "https://buy.stripe.com/aEUg0V5qIaLG5tmbIP?locale=en"
@@ -123,7 +123,7 @@
               "EN": 645.15
             },
             "_Link": {
-              "EN": "https://buy.stripe.com/5kAeWRg5m4ni8Fy4gN?locale=en-GB&prefilled_promo_code=MOM07W7G"
+              "EN": "https://buy.stripe.com/5kAeWRg5m4ni8Fy4gN?prefilled_promo_code=MOM07W7G"
             }
           },
           "_Price": {
@@ -190,6 +190,196 @@
     "": null
   },
   {
+    "Lp": null,
+    "Plan": "RoboCamp School Plan",
+    "Category": "Plan",
+    "Slug_EN": "school-plan-2",
+    "Description": null,
+    "Product_description_URL": null,
+    "Reference_Document_URL": null,
+    "Reference_Document_Type:": null,
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
+    "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors, Parents / homeschool",
+    "Buyer_Role_list": "School principal, Program director, After-school owner, ICT / STEM coordinator",
+    "Instructor_Count": "2",
+    "License_Scope": "Multi-instructor",
+    "Hardware_Required_list": "At least one of: SPIKE Prime, SPIKE Essential, WeDo 2.0, Mindstorms EV3",
+    "Software_Used_list": null,
+    "Age_Range": "5-6, 7–9, 10–12, 12-16",
+    "Skill_Level": "Mixed",
+    "Skill_Progression": "Covers progression Across courses — from SPIKE Essential and SPIKE Prime Beginner to Expert and Python-level robotics.",
+    "Skill_Progression_Type": "Across courses",
+    "Outcomes_list": null,
+    "Includes": null,
+    "Why_This_Course_or_Plan": null,
+    "Lessons": {
+      "Total": "374",
+      "SPIKE": {
+        "Essential": "44",
+        "Prime": {
+          "Base": "106",
+          "3D_Printing": "10",
+          "Laser_Cutting": "10"
+        }
+      },
+      "WeDo20": "95",
+      "WeDo1": "37",
+      "EV3": {
+        "Education": "50",
+        "Home": "12"
+      },
+      "mBot": {
+        "Laser_Cutting": "10"
+      }
+    },
+    "Lessons_Science_1_3": "0",
+    "Lessons_Science_4_6": "0",
+    "Lessons_Science_7_9": "0",
+    "Lessons_CSAI_1_3": "0",
+    "Lessons_CSAI_4_6": "0",
+    "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_EN": null,
+    "Post_Purchase_License_Activation_URL_EN": null,
+    "Base": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        },
+        "6M": {
+          "_Price": {
+            "EN": 499.0
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "3M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "1M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        }
+      }
+    },
+    "Special": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": 859.0
+          },
+          "_Link": {
+            "EN": "https://buy.stripe.com/bIY2a5dXe0722hadRu?prefilled_promo_code=2T400"
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": 859.0
+            },
+            "_Link": {
+              "EN": "https://buy.stripe.com/14kcOJ4mE072aNG4gl?prefilled_promo_code=2T400"
+            }
+          }
+        }
+      }
+    },
+    "Renewal": {
+      "Subscription": {
+        "1Y": {
+          "_Promo": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          },
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "NGO": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "6M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        }
+      }
+    },
+    "Homeschool": {
+      "_NoSub": {
+        "_1Y": {
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        },
+        "_2Y": {
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "": null
+  },
+  {
     "Lp": "2",
     "Plan": "RoboCamp School Plan",
     "Category": "plan",
@@ -214,11 +404,11 @@
     "Includes": null,
     "Why_This_Course_or_Plan": "Full School Access – All teachers can use RoboCamp materials.\nExtensive Library – All lessons across LEGO SPIKE Essential, SPIKE Prime, WeDo, and EV3.\nContinuous Updates – New courses and lessons included automatically.\nBest Value for Schools – Cost-effective solution for multiple educators.\nFuture-Proof – Keeps the school’s robotics program modern and comprehensive.",
     "Lessons": {
-      "Total": "298",
+      "Total": "374",
       "SPIKE": {
-        "Essential": "24",
+        "Essential": "44",
         "Prime": {
-          "Base": "85",
+          "Base": "106",
           "3D_Printing": "10",
           "Laser_Cutting": "10"
         }
@@ -235,7 +425,7 @@
     },
     "Lessons_Science_1_3": "0",
     "Lessons_Science_4_6": "0",
-    "Lessons_Science_7_9": "10",
+    "Lessons_Science_7_9": "0",
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
@@ -404,11 +594,11 @@
     "Includes": null,
     "Why_This_Course_or_Plan": "Designed for small but structured teams that need shared curriculum access, centralized billing, and flexibility. Monthly model allows scaling without long-term financial commitment.",
     "Lessons": {
-      "Total": "298",
+      "Total": "374",
       "SPIKE": {
-        "Essential": "24",
+        "Essential": "44",
         "Prime": {
-          "Base": "85",
+          "Base": "106",
           "3D_Printing": "10",
           "Laser_Cutting": "10"
         }
@@ -425,7 +615,7 @@
     },
     "Lessons_Science_1_3": "0",
     "Lessons_Science_4_6": "0",
-    "Lessons_Science_7_9": "10",
+    "Lessons_Science_7_9": "0",
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
@@ -594,11 +784,11 @@
     "Includes": null,
     "Why_This_Course_or_Plan": "Optimized for expanding organizations that require consistent curriculum access across multiple instructors while maintaining predictable monthly budgeting.",
     "Lessons": {
-      "Total": "298",
+      "Total": "374",
       "SPIKE": {
-        "Essential": "24",
+        "Essential": "44",
         "Prime": {
-          "Base": "85",
+          "Base": "106",
           "3D_Printing": "10",
           "Laser_Cutting": "10"
         }
@@ -615,7 +805,7 @@
     },
     "Lessons_Science_1_3": "0",
     "Lessons_Science_4_6": "0",
-    "Lessons_Science_7_9": "10",
+    "Lessons_Science_7_9": "0",
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
@@ -784,11 +974,11 @@
     "Includes": null,
     "Why_This_Course_or_Plan": "Ensures unified curriculum standards across larger instructor teams while supporting operational scalability and simplified subscription management.",
     "Lessons": {
-      "Total": "298",
+      "Total": "374",
       "SPIKE": {
-        "Essential": "24",
+        "Essential": "44",
         "Prime": {
-          "Base": "85",
+          "Base": "106",
           "3D_Printing": "10",
           "Laser_Cutting": "10"
         }
@@ -805,7 +995,7 @@
     },
     "Lessons_Science_1_3": "0",
     "Lessons_Science_4_6": "0",
-    "Lessons_Science_7_9": "10",
+    "Lessons_Science_7_9": "0",
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
@@ -974,11 +1164,11 @@
     "Includes": null,
     "Why_This_Course_or_Plan": "Supports standardized curriculum delivery across multiple teams and locations while maintaining financial flexibility through monthly billing.",
     "Lessons": {
-      "Total": "298",
+      "Total": "374",
       "SPIKE": {
-        "Essential": "24",
+        "Essential": "44",
         "Prime": {
-          "Base": "85",
+          "Base": "106",
           "3D_Printing": "10",
           "Laser_Cutting": "10"
         }
@@ -995,7 +1185,7 @@
     },
     "Lessons_Science_1_3": "0",
     "Lessons_Science_4_6": "0",
-    "Lessons_Science_7_9": "10",
+    "Lessons_Science_7_9": "0",
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
@@ -1164,11 +1354,11 @@
     "Includes": null,
     "Why_This_Course_or_Plan": "Provides centralized curriculum access and operational scalability for large instructor teams while preserving flexibility through recurring monthly billing.",
     "Lessons": {
-      "Total": "298",
+      "Total": "374",
       "SPIKE": {
-        "Essential": "24",
+        "Essential": "44",
         "Prime": {
-          "Base": "85",
+          "Base": "106",
           "3D_Printing": "10",
           "Laser_Cutting": "10"
         }
@@ -1185,7 +1375,7 @@
     },
     "Lessons_Science_1_3": "0",
     "Lessons_Science_4_6": "0",
-    "Lessons_Science_7_9": "10",
+    "Lessons_Science_7_9": "0",
     "Lessons_CSAI_1_3": "0",
     "Lessons_CSAI_4_6": "0",
     "Lessons_CSAI_7_9": "0",
