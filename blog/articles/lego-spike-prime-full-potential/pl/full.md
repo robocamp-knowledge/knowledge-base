@@ -31,7 +31,6 @@ Bo bardzo często najlepszym kolejnym krokiem nie jest zakup nowego robota. Jest
 Pokażemy jak SPIKE Prime może pracować w lekcjach 45- i 90-minutowych, jak wygląda progresja od prostych konstrukcji do zaawansowanych projektów, kiedy warto myśleć o Pythonie i AI, oraz jak rozszerzyć zajęcia o druk 3D, wycinarkę laserową i elementy sztuki. Wszystko po to, żeby spojrzeć na SPIKE Prime nie jak na pudełko z częściami, ale jak na bazę dłuższego programu pracy.
 
 - [Dla kogo jest ten artykuł?](https://www.robocamp.pl/pl/blog/lego-spike-prime-pelny-potencjal/#dla-kogo-jest-ten-artyku)
-- [Nie chcesz czytać? Obejrzyj webinar](https://www.robocamp.pl/pl/blog/lego-spike-prime-pelny-potencjal/#nie-chcesz-czytac-obejrzyj-webinar)
 - [Dlaczego wiele szkół nie wykorzystuje pełni możliwości SPIKE Prime?](https://www.robocamp.pl/pl/blog/lego-spike-prime-pelny-potencjal/#dlaczego-wiele-szko-nie-wykorzystuje-peni-mozliwosci-spike-prime)
   - [LEGO dało świetne narzędzie, ale nie kompletny system pracy w szkole](https://www.robocamp.pl/pl/blog/lego-spike-prime-pelny-potencjal/#lego-dao-swietne-narzedzie-ale-nie-kompletny-system-pracy-w-szkole)
   - [Nauczyciel też potrzebuje ścieżki rozwoju](https://www.robocamp.pl/pl/blog/lego-spike-prime-pelny-potencjal/#nauczyciel-tez-potrzebuje-sciezki-rozwoju)
@@ -39,7 +38,6 @@ Pokażemy jak SPIKE Prime może pracować w lekcjach 45- i 90-minutowych, jak wy
   - [Co musi się pojawić, żeby robotyka działała regularnie?](https://www.robocamp.pl/pl/blog/lego-spike-prime-pelny-potencjal/#co-musi-sie-pojawic-zeby-robotyka-dziaaa-regularnie)
 - [SPIKE Prime w realiach szkoły: lekcje 45 i 90 minut](https://www.robocamp.pl/pl/blog/lego-spike-prime-pelny-potencjal/#spike-prime-w-realiach-szkoy-lekcje-45-i-90-minut)
 - [Jak wygląda realna progresja nauki na jednym zestawie](https://www.robocamp.pl/pl/blog/lego-spike-prime-pelny-potencjal/#jak-wyglada-realna-progresja-nauki-na-jednym-zestawie)
-- [Masz SPIKE Prime? Zrób audyt pracowni](https://www.robocamp.pl/pl/blog/lego-spike-prime-pelny-potencjal/#masz-spike-prime-zrob-audyt-pracowni)
 - [Czy do nauki AI potrzebujesz nowego zestawu?](https://www.robocamp.pl/pl/blog/lego-spike-prime-pelny-potencjal/#czy-do-nauki-ai-potrzebujesz-nowego-zestawu)
 - [Python bez wymiany sprzętu: kolejny poziom pracy na SPIKE Prime](https://www.robocamp.pl/pl/blog/lego-spike-prime-pelny-potencjal/#python-bez-wymiany-sprzetu-kolejny-poziom-pracy-na-spike-prime)
 - [Jak wykorzystać drukarkę 3D na lekcji robotyki](https://www.robocamp.pl/pl/blog/lego-spike-prime-pelny-potencjal/#jak-wykorzystac-drukarke-3d-na-lekcji-robotyki)
