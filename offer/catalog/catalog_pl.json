@@ -571,9 +571,9 @@
     "Includes": null,
     "Why_This_Course_or_Plan": "Perfect for Beginners – Easy-to-follow curriculum tailored to early learners.\nComprehensive Content – 25 lesson plans designed for a full school year.\nPractical Teacher Training – 2 hours of expert online training included.\nEngaging Builds – Students create unique RoboCamp-designed robots like Crane, Owl, Car Race, and Goat.\nInteractive Learning – Encourages creativity, problem-solving, and teamwork.",
     "Lessons": {
-      "Total": "24",
+      "Total": "25",
       "SPIKE": {
-        "Essential": "24",
+        "Essential": "25",
         "Prime": {
           "Base": "0",
           "3D_Printing": "0",
@@ -729,6 +729,188 @@
   },
   {
     "Lp": "5",
+    "Plan": "RoboCamp - Kurs programowania SPIKE Essential dla średniozaawansowanych",
+    "Category": "Course",
+    "Slug_EN": "spike-essential-intermediate",
+    "Description": "Kurs obejmuje 25 uporządkowanych scenariuszy lekcji z instrukcjami krok po kroku do pracy z LEGO Education SPIKE Essential i programowania w Word Blocks. Uczniowie przechodzą od sterowania silnikami i prostych mechanizmów do pętli, zdarzeń, czujników, zmiennych oraz instrukcji warunkowych. Program rozwija umiejętność samodzielnego rozwiązywania problemów poprzez budowanie, ruch i eksperymentowanie.",
+    "Product_description_URL": null,
+    "Reference_Document_URL": "https://drive.google.com/file/d/1frNdfrk0jpWo47KYkYQ5Cmn3IpqSEgLt/view?usp=drive_link",
+    "Reference_Quote_Indicative_Total_Price_PL": null,
+    "Reference_Document_Type": "course_curriculum.pdf",
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
+    "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors, Parents / homeschool",
+    "Buyer_Role_list": "Teacher, STEM/Robotics coordinator, School principal, Program director, After-school owner",
+    "Instructor_Count": "1",
+    "License_Scope": "Single instructor",
+    "Hardware_Required_list": "SPIKE Essential",
+    "Software_Used_list": "Word Blocks",
+    "Age_Range": "7-9",
+    "Skill_Level": "Intermediate",
+    "Skill_Progression": "Yes",
+    "Skill_Progression_Type": "Within course",
+    "Outcomes_list": null,
+    "Includes": null,
+    "Why_This_Course_or_Plan": null,
+    "Lessons": {
+      "Total": "25",
+      "SPIKE": {
+        "Essential": "25",
+        "Prime": {
+          "Base": "0",
+          "3D_Printing": "0",
+          "Laser_Cutting": "0"
+        }
+      },
+      "WeDo20": "0",
+      "WeDo1": "0",
+      "EV3": {
+        "Education": "0",
+        "Home": "0"
+      },
+      "mBot": {
+        "Laser_Cutting": "0"
+      }
+    },
+    "Lessons_Science_1_3": "0",
+    "Lessons_Science_4_6": "0",
+    "Lessons_Science_7_9": "0",
+    "Lessons_CSAI_1_3": "0",
+    "Lessons_CSAI_4_6": "0",
+    "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_PL": null,
+    "Post_Purchase_License_Activation_URL_PL": null,
+    "Base": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          },
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        },
+        "6M": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        },
+        "3M": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        }
+      }
+    },
+    "Special": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          },
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        }
+      }
+    },
+    "Renewal": {
+      "Subscription": {
+        "1Y": {
+          "_Promo": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          },
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          },
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        }
+      }
+    },
+    "NGO": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        },
+        "6M": {
+          "_Price": {
+            "PL": null
+          },
+          "_Link": {
+            "PL": null
+          }
+        }
+      }
+    },
+    "Homeschool": {
+      "_NoSub": {
+        "_1Y": {
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        },
+        "_2Y": {
+          "NoSub": {
+            "_Price": {
+              "PL": null
+            },
+            "_Link": {
+              "PL": null
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "Lp": "6",
     "Plan": "RoboCamp - Kurs programowania SPIKE Prime dla początkujących",
     "Category": "Course",
     "Slug_EN": "spike-prime-beginner",
@@ -910,7 +1092,7 @@
     }
   },
   {
-    "Lp": "6",
+    "Lp": "7",
     "Plan": "RoboCamp - Kurs programowania SPIKE Prime dla średniozaawansowanych",
     "Category": "Course",
     "Slug_EN": "spike-prime-intermediate",
@@ -1092,7 +1274,7 @@
     }
   },
   {
-    "Lp": "7",
+    "Lp": "8",
     "Plan": "RoboCamp - Kurs programowania SPIKE Prime dla zaawansowanych",
     "Category": "Course",
     "Slug_EN": "spike-prime-expert",
@@ -1274,7 +1456,7 @@
     }
   },
   {
-    "Lp": "8",
+    "Lp": "9",
     "Plan": "RoboCamp - Kurs projektowania i druku 3D części do robotów SPIKE Prime",
     "Category": "Course",
     "Slug_EN": "3d-printing-spike",
@@ -1456,7 +1638,7 @@
     }
   },
   {
-    "Lp": "9",
+    "Lp": "10",
     "Plan": "RoboCamp - Kurs projektowania i cięcia 2D części do robotów SPIKE Prime",
     "Category": "Course",
     "Slug_EN": "2d-laser-spike",
@@ -1638,7 +1820,7 @@
     }
   },
   {
-    "Lp": "10",
+    "Lp": "11",
     "Plan": "RoboCamp - Kurs programowania robotów LEGO WeDo 2.0",
     "Category": "Course",
     "Slug_EN": "wedo20-intermediate",
@@ -1820,7 +2002,7 @@
     }
   },
   {
-    "Lp": "11",
+    "Lp": "12",
     "Plan": "RoboCamp - Kurs programowania Mindstorms EV3 aplikacja Classroom",
     "Category": "Course",
     "Slug_EN": "ev3-intermediate",
@@ -2002,7 +2184,7 @@
     }
   },
   {
-    "Lp": "12",
+    "Lp": "13",
     "Plan": "Cyfrowy Uczeń – Przedłużenie pracowni – SPIKE Essential – SP 1–3 – 5K",
     "Category": "reference_quote",
     "Slug_EN": "reference-quote-spike-essential-extension-parts-and-courses",
@@ -2184,7 +2366,7 @@
     }
   },
   {
-    "Lp": "13",
+    "Lp": "14",
     "Plan": "Cyfrowy Uczeń – Przedłużenie pracowni – SPIKE Prime – SP 4–8 – 6K",
     "Category": "reference_quote",
     "Slug_EN": "reference-quote-spike-prime-extension-parts-and-courses-4-8",
@@ -2366,7 +2548,7 @@
     }
   },
   {
-    "Lp": "14",
+    "Lp": "15",
     "Plan": "Cyfrowy Uczeń – Rozszerzenie pracowni o cięcie 2D – SPIKE Prime – SP 4–8 – 15K",
     "Category": "reference_quote",
     "Slug_EN": "reference-quote-spike-prime-laser-cutting-extension",
@@ -2548,7 +2730,7 @@
     }
   },
   {
-    "Lp": "17",
+    "Lp": "16",
     "Plan": "Cyfrowy Uczeń – Rozszerzenie ścieżki edukacyjnej – mBot + cięcie 2D – SP 4–8 – 20K",
     "Category": "reference_quote",
     "Slug_EN": "reference-quote-mbot-2d-lab-setup-sp-4-8",
@@ -2730,7 +2912,7 @@
     }
   },
   {
-    "Lp": "16",
+    "Lp": "17",
     "Plan": "Cyfrowy Uczeń – Start pracowni – SPIKE Essential – SP 1–3 – 13K",
     "Category": "reference_quote",
     "Slug_EN": "reference-quote-spike-essential-initial-lab-setup-1-3",
@@ -2912,7 +3094,7 @@
     }
   },
   {
-    "Lp": "15",
+    "Lp": "18",
     "Plan": "Cyfrowy Uczeń – Start pracowni – SPIKE Prime – SP 4–8 – 15K",
     "Category": "reference_quote",
     "Slug_EN": "reference-quote-spike-prime-initial-lab-setup-4-8",
@@ -3094,7 +3276,7 @@
     }
   },
   {
-    "Lp": "18",
+    "Lp": "19",
     "Plan": "Cyfrowy Uczeń – Start pracowni – Computer Science & AI – SP 3–6 – 15K",
     "Category": "reference_quote",
     "Slug_EN": "reference-quote-csai-initial-lab-setup-4-8",
