@@ -190,7 +190,7 @@
     "": null
   },
   {
-    "Lp": null,
+    "Lp": "2",
     "Plan": "RoboCamp School Plan",
     "Category": "Plan",
     "Slug_EN": "school-plan-2",
@@ -380,7 +380,7 @@
     "": null
   },
   {
-    "Lp": "2",
+    "Lp": "3",
     "Plan": "RoboCamp School Plan",
     "Category": "plan",
     "Slug_EN": "school-plan",
@@ -570,7 +570,7 @@
     "": null
   },
   {
-    "Lp": null,
+    "Lp": "4",
     "Plan": "RoboCamp Business – 5 Instructors",
     "Category": "plan",
     "Slug_EN": "robocamp-business-5",
@@ -760,7 +760,7 @@
     "": null
   },
   {
-    "Lp": null,
+    "Lp": "5",
     "Plan": "RoboCamp Business – 10 Instructors",
     "Category": "plan",
     "Slug_EN": "robocamp-business-10",
@@ -950,7 +950,7 @@
     "": null
   },
   {
-    "Lp": null,
+    "Lp": "6",
     "Plan": "RoboCamp Business – 20 Instructors",
     "Category": "plan",
     "Slug_EN": "robocamp-business-20",
@@ -1140,7 +1140,7 @@
     "": null
   },
   {
-    "Lp": null,
+    "Lp": "7",
     "Plan": "RoboCamp Business – 30 Instructors",
     "Category": "plan",
     "Slug_EN": "robocamp-business-30",
@@ -1330,7 +1330,7 @@
     "": null
   },
   {
-    "Lp": null,
+    "Lp": "8",
     "Plan": "RoboCamp Business – 50 Instructors",
     "Category": "plan",
     "Slug_EN": "robocamp-business-50",
@@ -1520,7 +1520,7 @@
     "": null
   },
   {
-    "Lp": "3",
+    "Lp": "9",
     "Plan": "SPIKE Essential Programming Course Early Learners",
     "Category": "course",
     "Slug_EN": "spike-essential-early",
@@ -1710,7 +1710,197 @@
     "": null
   },
   {
-    "Lp": "4",
+    "Lp": "10",
+    "Plan": "SPIKE Essential Programming Course Word Blocks",
+    "Category": "course",
+    "Slug_EN": "spike-essential-intermediate",
+    "Description": "The course includes 25 structured lesson plans with step-by-step instructions for LEGO Education SPIKE Essential and programming in Word Blocks. Students progress from motor control and simple mechanisms to loops, events, sensors, variables, and conditional statements. The curriculum develops a stronger understanding of program logic and more independent problem-solving through building, movement, and experimentation.",
+    "Product_description_URL": null,
+    "Reference_Document_URL": "https://drive.google.com/file/d/1r9pagZiJAfz7gZ5KYXTyNvek2Vi7lb9U/view?usp=drive_link",
+    "Reference_Document_Type:": "course_curriculum",
+    "Reference_Video_URL": null,
+    "Reference_Video_Type": null,
+    "Audience_list": "Primary school teachers, Middle school teachers, After-school providers, Camps & summer programs, STEM clubs / makerspaces, Private tutors, Parents / homeschool",
+    "Buyer_Role_list": "Teacher, After-school owner, School principal, Program director",
+    "Instructor_Count": "1",
+    "License_Scope": "Single instructor",
+    "Hardware_Required_list": "SPIKE Essential",
+    "Software_Used_list": "Word Blocks",
+    "Age_Range": "7-9",
+    "Skill_Level": "Intermediate",
+    "Skill_Progression": "Yes",
+    "Skill_Progression_Type": "Within course",
+    "Outcomes_list": "Students can build and program SPIKE Essential robots using Word Blocks.\nThey control motors and use mechanisms such as cam and follower, crank-rocker linkages, belt drives, and differential steering.\nThey apply programming concepts including sequences, loops, events, variables, conditional statements, and asynchronous program flow.\nThey use SPIKE Essential sensors, including tilt/rotation and color sensing, to make robots respond to input.\nThey combine mechanics and programming to solve increasingly complex challenges.\nThey develop a stronger understanding of program logic and more independent problem-solving through building, movement, and experimentation.",
+    "Includes": null,
+    "Why_This_Course_or_Plan": null,
+    "Lessons": {
+      "Total": "25",
+      "SPIKE": {
+        "Essential": "25",
+        "Prime": {
+          "Base": "0",
+          "3D_Printing": "0",
+          "Laser_Cutting": "0"
+        }
+      },
+      "WeDo20": "0",
+      "WeDo1": "0",
+      "EV3": {
+        "Education": "0",
+        "Home": "0"
+      },
+      "mBot": {
+        "Laser_Cutting": "0"
+      }
+    },
+    "Lessons_Science_1_3": "0",
+    "Lessons_Science_4_6": "0",
+    "Lessons_Science_7_9": "0",
+    "Lessons_CSAI_1_3": "0",
+    "Lessons_CSAI_4_6": "0",
+    "Lessons_CSAI_7_9": "0",
+    "Institution_Order_Form_URL_EN": null,
+    "Post_Purchase_License_Activation_URL_EN": null,
+    "Base": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        },
+        "6M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "3M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "1M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        }
+      }
+    },
+    "Special": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "Renewal": {
+      "Subscription": {
+        "1Y": {
+          "_Promo": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          },
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          },
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "NGO": {
+      "Subscription": {
+        "1Y": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        },
+        "6M": {
+          "_Price": {
+            "EN": null
+          },
+          "_Link": {
+            "EN": null
+          }
+        }
+      }
+    },
+    "Homeschool": {
+      "_NoSub": {
+        "_1Y": {
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        },
+        "_2Y": {
+          "NoSub": {
+            "_Price": {
+              "EN": null
+            },
+            "_Link": {
+              "EN": null
+            }
+          }
+        }
+      }
+    },
+    "": null
+  },
+  {
+    "Lp": "11",
     "Plan": "SPIKE Prime Programming Course Beginner",
     "Category": "course",
     "Slug_EN": "spike-prime-beginner",
@@ -1900,7 +2090,7 @@
     "": null
   },
   {
-    "Lp": "5",
+    "Lp": "12",
     "Plan": "SPIKE Prime Programming Course Intermediate",
     "Category": "course",
     "Slug_EN": "spike-prime-intermediate",
@@ -2090,7 +2280,7 @@
     "": null
   },
   {
-    "Lp": "6",
+    "Lp": "13",
     "Plan": "SPIKE Prime Programming Course Expert",
     "Category": "course",
     "Slug_EN": "spike-prime-expert",
@@ -2280,7 +2470,7 @@
     "": null
   },
   {
-    "Lp": "7",
+    "Lp": "14",
     "Plan": "3D Modelling and Printing Course: Parts for LEGO SPIKE Prime robots",
     "Category": "course",
     "Slug_EN": "3d-printing-spike",
@@ -2470,7 +2660,7 @@
     "": null
   },
   {
-    "Lp": "8",
+    "Lp": "15",
     "Plan": "2D Modelling and Laser Cutting Course: Parts for LEGO SPIKE Prime robots",
     "Category": "course",
     "Slug_EN": "2d-laser-spike",
@@ -2660,7 +2850,7 @@
     "": null
   },
   {
-    "Lp": "9",
+    "Lp": "16",
     "Plan": "WeDo 2.0 Programming Course Beginner to Advanced by RoboCamp",
     "Category": "course",
     "Slug_EN": "wedo20-intermediate",
@@ -2850,7 +3040,7 @@
     "": null
   },
   {
-    "Lp": "10",
+    "Lp": "17",
     "Plan": "Mindstorms EV3 Programming Course: Classroom App",
     "Category": "course",
     "Slug_EN": "ev3-intermediate",
